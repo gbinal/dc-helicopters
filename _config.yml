@@ -1,0 +1,52 @@
+# Base configuration
+permalink: https://www.graybrooks.com
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+markdown: kramdown
+
+#Prose.io editing info
+repo_name: gbinal.github.com
+branch: master
+#GitHub organization name *or* username
+gh_org: gbinal
+prose_url: https://github.com/
+site_url: https://www.github.com
+media: assets/img
+
+
+# Your Programs's Name
+name: Gray Brooks
+subtitle: Ever forward...
+
+# When using this template with a project page set the baseurl to '/project-name'
+# For user/organization pages set this to an empty string
+# When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
+# See http://jekyllrb.com/docs/github-pages/ for more info
+#baseurl: ''
+baseurl: 'https://gbinal.github.com'
+
+# Author/Organization info to be displayed in the templates
+author:
+  name: Gray Brooks
+  url: https://www.graybrooks.com
+
+# ------------------------------------------------------------------
+#   Navigation
+#   List links that should appear in the site sidebar here
+#   "pages" is a directory to keep web content that are not posts
+# ------------------------------------------------------------------
+navigation:
+- text: Home
+  url: /index.html
+  internal: true
+- text: APIs In Government
+  url: https://api-all-the-x.18f.gov/
+  internal: false
+- text: Good Stuff
+  url: /pages/good_stuff
+  internal: true
+- text: Loyal Opposition
+  url: /loyal-opposition/
+  internal: true
+- text: GitHub
+  url: https://github.com/gbinal
+  internal: false

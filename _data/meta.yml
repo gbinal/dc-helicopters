@@ -1,0 +1,21 @@
+# 
+# This is the main data file for your project.  Change the values
+# below accordingly.
+# See http://yaml.org for details about YAML
+#
+org_name:  Gray Brooks
+org_abbrev: GB
+address:
+ street: 1000 Main Street
+ suite: 
+ city: Washington
+ state: D.C.
+ zip: 20000
+point_of_contact: Gray Brooks
+# A valid HREF--email, form, etc.
+poc_link: mailto:gb@thisisntmyemail.biz
+poc_phone: 123-123-1234
+sponsoring_office: The Cherch
+logo_url: http://www.graybrooks.com/assets/img/xkcd_logo.png
+home_url: index.html
+
