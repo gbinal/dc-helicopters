@@ -5,9 +5,9 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
-        <link rel="stylesheet" href="https://graybrooks.com/assets/css/normalize.css">
-        <link rel="stylesheet" href="https://graybrooks.com/assets/css/main.css">
-        <link rel="stylesheet" href="https://graybrooks.com/assets/css/syntax.css">
+        <link rel="stylesheet" href="https://helicoptersofdc.com/assets/css/normalize.css">
+        <link rel="stylesheet" href="https://helicoptersofdc.com/assets/css/main.css">
+        <link rel="stylesheet" href="https://helicoptersofdc.com/assets/css/syntax.css">
 
     </head>
     <body>
@@ -20,12 +20,12 @@
         {% if site.logourl != null %}
           <img class="logo" src="{{site.logourl}}" alt="{{site.logoalt}}">
         {% endif %}
-        <h1><a class="title-link" href="https://www.graybrooks.com">{{ site.name }}</a></h1>
+        <h1><a class="title-link" href="https://www.helicoptersofdc.com">{{ site.name }}</a></h1>
         <div style="float:right">
             <!-- This should be a configurable item in data/ -->
 
-            <a href="https://www.graybrooks.com" class="title-link">
-                <img height="52" src="https://graybrooks.com/assets/img/xkcd_logo.png" alt="Your agency logo">
+            <a href="https://www.helicoptersofdc.com" class="title-link">
+                <img height="52" src="https://helicoptersofdc.com/assets/img/xkcd_logo.png" alt="Your agency logo">
             </a>
         </div>
       </div>
@@ -41,18 +41,20 @@
         
         
         <footer role="contentinfo">
-          <p>Hosted on <a href="https://github.com/gbinal/gbinal.github.com">Github Pages</a></p>
+          <p>Hosted on <a href="https://github.com/gbinal/dc-helicopters">Github Pages</a></p>
             
-            <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+            
+            
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131677905-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-  ga('create', 'UA-35100732-1', 'auto');
-  ga('send', 'pageview');
-
+  gtag('config', 'UA-131677905-1');
 </script>
+
         </footer>
 
       </div><!-- /.wrap -->
