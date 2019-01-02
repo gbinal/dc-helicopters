@@ -38,6 +38,21 @@ navigation:
 - text: Home
   url: /index.html
   internal: true
+- text: Details
+  url: /details/
+  internal: true
+- text: Quick Identification Help
+  url: /quick-identification/
+  internal: true
+- text: Related information
+  url: /related-information/
+  internal: true
+- text: New/Uncertain
+  url: /uncertain/
+  internal: true
 - text: Credits
   url: /credits/
   internal: true
+- text: Feedback
+  url: https://github.com/gbinal/dc-helicopters/issues
+  internal: false
