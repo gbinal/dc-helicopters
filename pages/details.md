@@ -14,9 +14,10 @@ _[Under Construction]_
 The most famous and identifiable helicopters over DC, this unit is tasked with Presidential transport and flies Marine One.   
 
 ### Aircraft Type
-* [Sikorsky VH-3D](https://en.wikipedia.org/wiki/Sikorsky_SH-3_Sea_King)
-* [Sikorsky VH-60N](https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk)
+* [VH-3D Sea King](https://en.wikipedia.org/wiki/Sikorsky_SH-3_Sea_King)
+* [VH-60N Black Hawk](https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk)
 * [MV-22 Ospreys](https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey)
+* [CH-46 Sea Knight](https://en.wikipedia.org/wiki/Boeing_Vertol_CH-46_Sea_Knight#United_States)
 
 ### Pictures
 ...
@@ -44,14 +45,16 @@ In DC though, the majority of sightings of these helicopters take place when the
 * [Foxtrot Alpha - These Elite Military Helicopter Units Fly Washington's Power Players](https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996)
 * [Video - National Geographic: On Board Marine One](https://www.youtube.com/watch?v=cFhrB-DkBnA)
 
-## Coast Guard
+
+
+## US Coast Guard
 
 ### Summary 
 
 A set of armed Coast Guard helicopters play a role in the air defense of Washington, DC.  If a small, private airplane comes too close, this is what is sent up to identify, make contact, and if necessary shoot it down.  
 
 ### Aircraft Type
-* [Eurocopter MH-65C Dolphin](https://en.wikipedia.org/wiki/Eurocopter_HH-65_Dolphin)
+* [MH-65C Dolphin](https://en.wikipedia.org/wiki/Eurocopter_HH-65_Dolphin)
 
 ### Pictures
 ...
@@ -67,7 +70,7 @@ This is why there's also a contingent of Coast Guard helicopters on standby at N
 
 But, if the need arises, these helicopters also have [the armaments needed to shoot down an unresponsive craft](https://en.wikipedia.org/wiki/U.S._helicopter_armament_subsystems#MH-65C_Dolphin_and_MH-68A_Stingray).  Specifically, the crew has a mounted machine gun and a single shot anti-material rifle (basically, a 50 caliber sniper rifle that can disable a vehicle's engine block with one shot).  These weapons aren't usually visible since they remain in the cabin with the crew, but can be brought to bear when the side door is opened.  
 
-This armament program originated in the 1990s [to enable interdiction of fast boats smuggling drungs into Florida](https://foxtrotalpha.jalopnik.com/this-secret-uscg-program-saw-exotic-armed-choppers-take-1690581460).  The capability is demonstrated in [this Coast Guard video](https://youtu.be/_KHPEfmJtOg?t=244), as well as in the boat chase scene in Bad Boys 2, but ... yeah, I can't really recommend that as a good use of your time or anything.  
+This armament [program](https://en.wikipedia.org/wiki/Helicopter_Interdiction_Tactical_Squadron) originated in the 1990s [to enable interdiction of fast boats smuggling drungs into Florida](https://foxtrotalpha.jalopnik.com/this-secret-uscg-program-saw-exotic-armed-choppers-take-1690581460).  The capability is demonstrated in [this Coast Guard video](https://youtu.be/_KHPEfmJtOg?t=244), as well as in the boat chase scene in Bad Boys 2, but ... yeah, I can't really recommend that as a good use of your time or anything.  
 
 The specific unit that patrols the [Air Defense Identification Zone](https://en.wikipedia.org/wiki/Washington,_DC_Metropolitan_Area_Special_Flight_Rules_Area) around Washington is part of [Coast Guard Air Station Atlantic City](https://en.wikipedia.org/wiki/Coast_Guard_Air_Station_Atlantic_City), but is based out of the General Aviation terminal at National Airport, next to Terminal A.  
 
@@ -76,14 +79,16 @@ Anytime you see an orange Coast Guard helicopter of DC, it's from this unit.  Th
 ### Links
 * [Wikipedia - Eurocopter HH-65 Dolphin](https://en.wikipedia.org/wiki/Eurocopter_HH-65_Dolphin)
 * [NORAD News - No room for failure - Coast Guard aviators protect D.C., pilots](http://www.norad.mil/Newsroom/Article/578611/no-room-for-failure-coast-guard-aviators-protect-dc-pilots/)
-* [USCG Aviation History - 2006 – Coast Guard Assumes National Capital Rotary Wing Air Intercept Mission](https://cgaviationhistory.org/2006-coast-guard-assumes-national-capital-rotary-wing-air-intercept-mission/)
+* [USCG Aviation History - 2006: Coast Guard Assumes National Capital Rotary Wing Air Intercept Mission](https://cgaviationhistory.org/2006-coast-guard-assumes-national-capital-rotary-wing-air-intercept-mission/)
+* [USCG Aviation History - 2003: Airborne Use of Force – Coast Guard Arms HH-65C and HH-60J Helicopters](https://cgaviationhistory.org/2003-airborne-use-of-force-coast-guard-arms-hh-65c-and-hh-60j-helicopters/)
+
 
 
 ## US Park Police Aviation Unit
 
 ### Summary 
 
-The US Park Police has jurisdiction over many parts of DC and provide 
+The US Park Police has jurisdiction over many parts of DC and its aviation unit provides both a police as well as a search and rescue capability for the district as well as the surrounding areas.  
 
 ### Aircraft Type
 
@@ -94,21 +99,20 @@ The US Park Police has jurisdiction over many parts of DC and provide
 
 ### Details 
 
+...
+
+This unit has participated in numerous rescue and law enforcement encounters, but perhaps one of the most dramatic was in the aftermath of the [1982 crash of Air Florida Flight 90](https://en.wikipedia.org/wiki/Air_Florida_Flight_90). The passenger airplane stalled and crashed shortly after takeoff from the National Airport, landing moments later in the frozen Potomac River.  A confluence of tragic coincidences resulted a Park Police helicopter and nearby motorists being the source of rescue for the five survivors of the crash.  
+
+https://fireaviation.com/2018/12/01/national-park-service-helicopters-played-vital-role-on-9-11/
 
 The unit flies out of a heliport in Anacostia Park known as the Eagle's Nest ([map](https://goo.gl/maps/Pg64vj1kg552)).  
 
 
-This unit has participated in numerous rescue and law enforcement encounters, but perhaps one of the most dramatic was in the aftermath of the [1982 crash of Air Florida Flight 90](https://en.wikipedia.org/wiki/Air_Florida_Flight_90). The passenger airplane stalled and crashed shortly after takeoff from the National Airport, landing moments later in the frozen Potomac River.  A confluence of tragic coincidences resulted a Park Police helicopter and nearby motorists being the source of rescue for the five survivors of the crash.  
-
-
-
 ### Links
+* [National Park Service - Aviation Unit](https://www.nps.gov/subjects/uspp/aviation-unit.htm)
 * [Wikipedia - United States Park Police: Aviation](https://en.wikipedia.org/wiki/United_States_Park_Police#Aviation)
-[ - Part 3](https://youtu.be/EIb8wfXGngA?t=102)
-
-4:55
-
-[Video - Documentary Footage and a description of the rescue - Part 4](https://www.youtube.com/watch?v=I5nTuEzMpzo)
+* [ - Part 3](https://youtu.be/EIb8wfXGngA?t=102) - 4:55
+* [Video - Documentary Footage and a description of the rescue - Part 4](https://www.youtube.com/watch?v=I5nTuEzMpzo)
 
 
 
@@ -132,6 +136,10 @@ If you see a helicopter over DC at night with a spotlight, it's almost certainly
 
 ### Links
 * [DC.gov - Air Support Unit (Falcon)](https://mpdc.dc.gov/page/air-support-unit-falcon)
+* [DC Metropolitan Police Collector - MPD Air Support Unit](http://www.dcmetropolicecollector.com/MPD-Air-Support-Unit.html)
+* []()
+* []()
+* []()
 
 
 
@@ -155,6 +163,10 @@ Located at Joint Base Andrews, they are...
 
 ### Links
 * [Foxtrot Alpha - These Elite Military Helicopter Units Fly Washington's Power Players](https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996)
+* [Wikipedia - 1st Helicopter Squadron](https://en.wikipedia.org/wiki/1st_Helicopter_Squadron)
+* [Joint Base Andrews - News Tagged '1st Helicopter Squadron'](https://www.jba.af.mil/News/Tag/73997/1st-helicopter-squadron/)
+* [Air Force District of Washington - Andrews Helicopter Squadron '1st,' Only Of Its Kind](https://www.afdw.af.mil/News/Features/Display/Article/336361/andrews-helicopter-squadron-1st-only-of-its-kind/)
+
 
 
 
@@ -163,12 +175,14 @@ Located at Joint Base Andrews, they are...
 ## US Army
 
 ### Summary 
+...
 
 ### Aircraft Type
 * Blackhawk UH-72
 * Blackhawk UH-70
 
 ### Pictures
+...
 
 ### Details 
 
@@ -183,27 +197,33 @@ These helicopters are not as common in the skies over DC, but are still a somewh
 * [Foxtrot Alpha - These Elite Military Helicopter Units Fly Washington's Power Players](https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996)
 * [Rotary and Wing Interational - Army 12th: Flying the Brass](https://www.rotorandwing.com/2012/04/01/army-12th-flying-the-brass/)
 * [GlobalSecurity.com - 12th Aviation Battalion](https://www.globalsecurity.org/military/agency/army/12avn-bn.htm)
-* [Video](https://www.youtube.com/watch?v=8-UjBp5kg-c) and [Press Release](https://www.army.mil/article/127767/davison_army_airfield_hosts_mass_helicopter_exercise) about the 2014 Exercise
-
-
-
--------------------------
+* [Video](https://www.youtube.com/watch?v=8-UjBp5kg-c) and [Press Release](https://www.army.mil/article/127767/davison_army_airfield_hosts_mass_helicopter_exercise) about the 2014 Exercise.
 
 
 
 
+## Medevac
 
-Park Police 
- - Flight 90 Rescue 
- - https://en.wikipedia.org/wiki/United_States_Park_Police
- https://en.wikipedia.org/wiki/United_States_Park_Police#Aviation
- 
-Coast Guard
-- https://cgaviationhistory.org/2006-coast-guard-assumes-national-capital-rotary-wing-air-intercept-mission/
+### Summary 
+...
 
-DC Police 
-- https://mpdc.dc.gov/page/air-support-unit-falcon
+### Aircraft Type
+...
 
-https://www.buzzfeed.com/marcambinder/secret-armies-an-exclusive-look-at-10-secret-us
+### Pictures
+...
 
-https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996
+### Details 
+...
+
+### Links
+
+* []()
+* []()
+* []()
+
+
+
+
+
+
