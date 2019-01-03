@@ -23,23 +23,26 @@ The most famous and identifiable helicopters over DC, this unit is tasked with P
 
 ### Details 
 
-First, one often missed nuance - Marine One is the callsign used by any USMC aircraft that the President is on.  It's often associated though with one of the helicopters from the HMX-1 squadron 
+First, one often missed nuance - Marine One is the callsign used by any USMC aircraft that the President is on.  It's often associated though with one of the helicopters from the HMX-1 squadron, but the point that's important to remember is that any one of the helicopters is only considered Marine One when it is transporting the President.  
 
+Though headquartered at Marine Corps Base Quantico, a number of the helicopters are also deployed immediately south of the White House, at [Joint Base Bolling](https://en.wikipedia.org/wiki/Joint_Base_Anacostia%E2%80%93Bolling) in southwest DC.  Whenever you're at National Airport, if you look across the river, you'll see this airbase.  Specifically, you'll see three huge hangers doors to the left of the base.  When you see activity in that area, it sometimes involve one or more of the helicopters taking off or landing.  
 
+The aircraft of HMX-1 that carry VIPS are green with white along the top, giving them the nickname White Tops.
 
-* You'll often see these aircraft flying in twos or threes.  This is to provide decoys for the helicopter that the President is on.  On overseas trips with heightened threat concerns, you'll even see them in groups of four or five for this purpose.  
+The classic [VH-3 Sea](https://en.wikipedia.org/wiki/Sikorsky_SH-3_Sea_King) that has long been associated as Marine One is on track to be phased out and replaced by the [VH-92](https://en.wikipedia.org/wiki/Sikorsky_VH-92) as part of the [VXX program](https://en.wikipedia.org/wiki/VXX).  
+
+You'll often see these aircraft flying in twos or threes.  This is to provide decoys for the helicopter that the President is on.  On overseas trips with heightened threat concerns, you'll even see them in groups of four or five for this purpose.  
+
+In DC though, the majority of sightings of these helicopters take place when the president has not yet left the White House.  involve one or two of them loitering over the inner neighborhoods of DC 
+
 * The HMX-1 squadron is primarily composed of helicopters but also includes a set of V-22 Ospreys.  
-
-They are forward operated out of [Joint Base Bolling](https://en.wikipedia.org/wiki/Joint_Base_Anacostia%E2%80%93Bolling) in southwest DC, 
-
-The aircraft of HMX-1 are green, with white tops.
-
-Where to sight them: 
 
 ### Links
 * [Wikipedia - Marine One](https://en.wikipedia.org/wiki/Marine_One)
 * [Wikipedia - HMX-1](https://en.wikipedia.org/wiki/HMX-1)
+* [Wikipedia - VXX](https://en.wikipedia.org/wiki/VXX)
 * [Foxtrot Alpha - These Elite Military Helicopter Units Fly Washington's Power Players](https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996)
+* [Video - National Geographic: On Board Marine One](https://www.youtube.com/watch?v=cFhrB-DkBnA)
 
 ## Coast Guard
 
@@ -58,33 +61,22 @@ A set of armed Coast Guard helicopters play a role in the air defense of Washing
 Washington, DC has a multi-layered air defense system.  This includes (but I'm sure isn't limited to): 
 * A number of [short range missile launchers](https://en.wikipedia.org/wiki/AN/TWQ-1_Avenger) (located at the [White House](https://cryptome.org/eyeball/wh-missile/wh-missile.htm), [Navy Yard](http://cryptome.org/eyeball/wny-mb/wny-mb.htm), [Joint Base Bolling](http://cryptome.org/eyeball/hmx1-anti-missile/hmx1-anti-missile.htm), and [Andrews Air Force Base](http://cryptome.org/eyeball/af1-anti-missile/af1-anti-missile.htm)).
 * [Medium range surface-to-air missiles](https://foxtrotalpha.jalopnik.com/americas-capitol-is-guarded-by-norwegian-surface-to-ai-1556894733) located farther out (for instance, at [Fort Belvoir](http://cryptome.org/eyeball/belvoir-mb/belvoir-mb.htm) and [along Clara Barton Parkway](http://cryptome.org/eyeball/carderock/carderock-mb.htm).  
-* F-16s from the Washington, DC Air National Guard that remain on standby at Andrews Air Force Base in case they need to be scrambled to respond to a threat.  
+* F-16s from the Washington, DC Air National Guard that remain on standby at Andrews Air Force Base in case they need to be scrambled to respond to a threat.  But jet fighters with air-to-air missiles [aren't always a good fit](https://www.youtube.com/watch?v=jc8tu0ZPfEA).  
 
-But there's also a contingent of Coast Guard helicopters that remain on standby at National Airport that offer several key characteristics to complement this air defense system.  Able to fly quickly or slowly, the helicopter is well suited for intercepting small aircraft, a need that was dangerously illustrated in 1994 when [a single engine Cessna was crashed into the White House](https://en.wikipedia.org/wiki/Frank_Eugene_Corder).  After quickly vectoring towards an approaching aircraft, the Dolphin could then match its speed and attempt to make radio or visual contact. There's even a digital message board on the side of the aircraft that can display large scrolling text. 
+This is why there's also a contingent of Coast Guard helicopters on standby at National Airport that offer several key characteristics to complement this air defense system.  Able to fly quickly or slowly, the helicopter is well suited for intercepting small general aviation aircraft, a need that was dangerously illustrated in 1994 when [a single engine Cessna was crashed into the White House](https://en.wikipedia.org/wiki/Frank_Eugene_Corder).  After quickly vectoring towards an approaching aircraft, the Dolphin could then match its speed and attempt to make radio or visual contact. There's even a digital message board on the side of the aircraft that can display large scrolling text. 
 
 But, if the need arises, these helicopters also have [the armaments needed to shoot down an unresponsive craft](https://en.wikipedia.org/wiki/U.S._helicopter_armament_subsystems#MH-65C_Dolphin_and_MH-68A_Stingray).  Specifically, the crew has a mounted machine gun and a single shot anti-material rifle (basically, a 50 caliber sniper rifle that can disable a vehicle's engine block with one shot).  These weapons aren't usually visible since they remain in the cabin with the crew, but can be brought to bear when the side door is opened.  
 
-The specific unit that patrols the [Air Defense Identification Zone](https://en.wikipedia.org/wiki/Washington,_DC_Metropolitan_Area_Special_Flight_Rules_Area) around Washington is part of [Coast Guard Air Station Atlantic City](https://en.wikipedia.org/wiki/Coast_Guard_Air_Station_Atlantic_City), but is based at the General Aviation terminal at National Airport, next to Terminal A.  
+This armament program originated in the 1990s [to enable interdiction of fast boats smuggling drungs into Florida](https://foxtrotalpha.jalopnik.com/this-secret-uscg-program-saw-exotic-armed-choppers-take-1690581460).  The capability is demonstrated in [this Coast Guard video](https://youtu.be/_KHPEfmJtOg?t=244), as well as in the boat chase scene in Bad Boys 2, but ... yeah, I can't really recommend that as a good use of your time or anything.  
+
+The specific unit that patrols the [Air Defense Identification Zone](https://en.wikipedia.org/wiki/Washington,_DC_Metropolitan_Area_Special_Flight_Rules_Area) around Washington is part of [Coast Guard Air Station Atlantic City](https://en.wikipedia.org/wiki/Coast_Guard_Air_Station_Atlantic_City), but is based out of the General Aviation terminal at National Airport, next to Terminal A.  
 
 Anytime you see an orange Coast Guard helicopter of DC, it's from this unit.  They're also easily seen taking off and landing from DCA airport.  And if you're in Terminal A (Southwest Airlines FTW), they are often on standby outside of the hangers right by Gates 1-3.  
 
-
-
-BB 2 
-
-
-
-
 ### Links
 * [Wikipedia - Eurocopter HH-65 Dolphin](https://en.wikipedia.org/wiki/Eurocopter_HH-65_Dolphin)
-* []()
-* []()
-
-Video - https://www.youtube.com/watch?v=_KHPEfmJtOg
-
-
-
-
+* [NORAD News - No room for failure - Coast Guard aviators protect D.C., pilots](http://www.norad.mil/Newsroom/Article/578611/no-room-for-failure-coast-guard-aviators-protect-dc-pilots/)
+* [USCG Aviation History - 2006 – Coast Guard Assumes National Capital Rotary Wing Air Intercept Mission](https://cgaviationhistory.org/2006-coast-guard-assumes-national-capital-rotary-wing-air-intercept-mission/)
 
 
 ## US Park Police Aviation Unit
@@ -103,7 +95,7 @@ The US Park Police has jurisdiction over many parts of DC and provide
 ### Details 
 
 
-The unit flies out of a heliport in Anacostia Park known as the Eagle's Nest ([map](https://goo.gl/maps/Pg64vj1kg552))
+The unit flies out of a heliport in Anacostia Park known as the Eagle's Nest ([map](https://goo.gl/maps/Pg64vj1kg552)).  
 
 
 This unit has participated in numerous rescue and law enforcement encounters, but perhaps one of the most dramatic was in the aftermath of the [1982 crash of Air Florida Flight 90](https://en.wikipedia.org/wiki/Air_Florida_Flight_90). The passenger airplane stalled and crashed shortly after takeoff from the National Airport, landing moments later in the frozen Potomac River.  A confluence of tragic coincidences resulted a Park Police helicopter and nearby motorists being the source of rescue for the five survivors of the crash.  
