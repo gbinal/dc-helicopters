@@ -11,8 +11,8 @@ published: true
 
  <table style="width:100%">
   <tr>
-    <th></th>
-    <th></th>
+    <th>&nbsp;</th>
+    <th>&nbsp;</th>
   </tr>
   <tr>
     <th>HMX-1<br>"Marine One"</th>
