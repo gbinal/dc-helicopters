@@ -39,27 +39,9 @@ published: true
     <td><img src="https://helicoptersofdc.com/pictures/U.S._Park_Police_helicopter.JPG" alt="Marine One" width="200"></td>
   </tr>
   <tr>
-    <td>US Park Police</td>
-    <td><img src="https://helicoptersofdc.com/pictures/U.S._Park_Police_helicopter.JPG" alt="Marine One" width="200"></td>
-  </tr> 
-  <tr>
-    <td>US Park Police</td>
+    <td>Medivac<br>...</td>
     <td><img src="https://helicoptersofdc.com/pictures/U.S._Park_Police_helicopter.JPG" alt="Marine One" width="200"></td>
   </tr>
-  <tr>
-    <td>US Park Police</td>
-    <td><img src="https://helicoptersofdc.com/pictures/U.S._Park_Police_helicopter.JPG" alt="Marine One" width="200"></td>
-  </tr>
-  <tr>
-    <td>US Park Police</td>
-    <td><img src="https://helicoptersofdc.com/pictures/U.S._Park_Police_helicopter.JPG" alt="Marine One" width="200"></td>
-  </tr>
-  <tr>
-    <td>US Park Police</td>
-    <td><img src="https://helicoptersofdc.com/pictures/U.S._Park_Police_helicopter.JPG" alt="Marine One" width="200"></td>
-  </tr>
-
-
 </table> 
 
 
@@ -74,6 +56,7 @@ published: true
 #### Disclaimers   
 * I'm sure that I've got some errors in here.  Please let me know by [filing an issue](https://github.com/gbinal/dc-helicopters/issues)!  
 * I'm aiming for both beginner and expert folks here and I'm sure I often miss the sweet spot.  Thanks for putting up with my imperfect prose.  
+* A reasonable person may ask if it's irresponsible to bring more attention to some of this information.  I've gone back and forth on the matter before but subscribe to the criteria articulated in a [2005 Federal Geographic Data Committee - Homeland Security Working Group presentation](https://web.archive.org/web/20101122205653/http://www.emforum.org/vforum/lc051116.htm] on this topic.  It's a great talk and I recommend it for your consideration.  
 
 
 
