@@ -34,9 +34,13 @@ The classic [VH-3 Sea](https://en.wikipedia.org/wiki/Sikorsky_SH-3_Sea_King) tha
 
 You'll often see these aircraft flying in twos or threes.  This is to provide decoys for the helicopter that the President is on.  On overseas trips with heightened threat concerns, you'll even see them in groups of four or five for this purpose.  
 
-In DC though, the majority of sightings of these helicopters take place when the president has not yet left the White House.  involve one or two of them loitering over the inner neighborhoods of DC 
+In DC though, the majority of sightings of these helicopters take place when the president has not yet left the White House.  involve one or two of them loitering over the inner neighborhoods of DC.
 
-* The HMX-1 squadron is primarily composed of helicopters but also includes a set of V-22 Ospreys.  
+If you see them loitering...
+
+Good watching opportunities around the WH.  
+
+The HMX-1 squadron is primarily composed of helicopters but also includes a set of V-22 Ospreys.  
 
 ### Links
 * [Wikipedia - Marine One](https://en.wikipedia.org/wiki/Marine_One)
@@ -172,7 +176,7 @@ Located at Joint Base Andrews, they are...
 
 
 
-## US Army
+## US Army - 12th Aviation Battalion
 
 ### Summary 
 ...
@@ -195,9 +199,10 @@ These helicopters are not as common in the skies over DC, but are still a somewh
 
 ### Links
 * [Foxtrot Alpha - These Elite Military Helicopter Units Fly Washington's Power Players](https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996)
-* [Rotary and Wing Interational - Army 12th: Flying the Brass](https://www.rotorandwing.com/2012/04/01/army-12th-flying-the-brass/)
+* [Rotar and Wing Interational - Army 12th: Flying the Brass](https://www.rotorandwing.com/2012/04/01/army-12th-flying-the-brass/)
 * [GlobalSecurity.com - 12th Aviation Battalion](https://www.globalsecurity.org/military/agency/army/12avn-bn.htm)
-* [Video](https://www.youtube.com/watch?v=8-UjBp5kg-c) and [Press Release](https://www.army.mil/article/127767/davison_army_airfield_hosts_mass_helicopter_exercise) about the 2014 Exercise.
+* [Army.mil - The Army Aviation Brigade: 12th Aviation Battalion](https://www.taab.mdw.army.mil/12th-aviation-battalion)
+* [Video](https://www.youtube.com/watch?v=1LOHoxyyVjg) and [Press Release](https://www.army.mil/article/127767/davison_army_airfield_hosts_mass_helicopter_exercise) about the 2014 Exercise.
 
 
 
