@@ -81,6 +81,7 @@ The specific unit that patrols the [Air Defense Identification Zone](https://en.
 Anytime you see an orange Coast Guard helicopter of DC, it's from this unit.  They're also easily seen taking off and landing from DCA airport.  And if you're in Terminal A (Southwest Airlines FTW), they are often on standby outside of the hangers right by Gates 1-3.  
 
 ### Links
+* [Video - ABC7 Segment about the unit and showing a demonstrated interception](https://www.youtube.com/watch?v=6cIk-5t2Bbc&frags=pl%2Cwn)
 * [Wikipedia - Eurocopter HH-65 Dolphin](https://en.wikipedia.org/wiki/Eurocopter_HH-65_Dolphin)
 * [NORAD News - No room for failure - Coast Guard aviators protect D.C., pilots](http://www.norad.mil/Newsroom/Article/578611/no-room-for-failure-coast-guard-aviators-protect-dc-pilots/)
 * [USCG Aviation History - 2006: Coast Guard Assumes National Capital Rotary Wing Air Intercept Mission](https://cgaviationhistory.org/2006-coast-guard-assumes-national-capital-rotary-wing-air-intercept-mission/)
@@ -127,7 +128,7 @@ The unit flies out of a heliport in Anacostia Park known as the Eagle's Nest ([m
 The DC police department's helicopter, this is what you'll sometimes see with a spotlight circling over a crime scene at night.  
 
 ### Aircraft Type
-...
+* [Eurocopter AS350B3](https://en.wikipedia.org/wiki/Eurocopter_AS350_%C3%89cureuil)
 
 ### Pictures
 ...
@@ -207,25 +208,38 @@ These helicopters are not as common in the skies over DC, but are still a somewh
 
 
 
-## Medevac
+## MedSTAR 1
 
 ### Summary 
-...
+
+Transporting medical patients around the DC area, the MedSTAR helicopters 
 
 ### Aircraft Type
-...
+* [Eurocopter EC-135](https://en.wikipedia.org/wiki/Eurocopter_EC135)
 
 ### Pictures
 ...
 
 ### Details 
-...
+
+MedSTAR operates 10 hospitals in the DC-MD-VA area, including the Washington Hospital Center [on Michigan Avenue NW](https://goo.gl/maps/v59v6w4Qfe82).  Located prominently on a hill near McMillan Reservoir, the large dark complex visible can be seen from many parts of DC.   
+
+
+
+Over time, the MedSTAR fleet has transitioned from a focus on medivac 
+
+
+https://en.wikipedia.org/wiki/MedStar_Health
+
+I've only come across one helicopter crash in DC so far, and it was a 2006 crash of a MedSTAR helicopter near 
+
+https://www.ntsb.gov/news/press-releases/Pages/Update_on_NTSB_Investigation_of_EMS_Helicopter_Crash_in_Washington_DC.aspx
 
 ### Links
 
-* []()
-* []()
-* []()
+* [MedSTAR - MedSTAR Transport Helicopter Service Marks 30 Years of Service](https://www.medstarwashington.org/news/2013/07/03/medstar-transport-helicopter-service-marks-30-years-of-service/)
+* [WTOP - MedSTAR Transport: Saving lives in Washington area for 30 years](https://wtop.com/news/2013/07/medstar-transport-saving-lives-in-washington-area-for-30-years/slide/1/)
+* [Airliners -  Eurocopter EC-135T-2 - MedStar](https://www.airliners.net/photo/MedStar/Eurocopter-EC-135T-2/1166869)
 
 
 
