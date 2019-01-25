@@ -1,0 +1,5 @@
+language: ruby
+cache: bundler
+sudo: false
+before_script: bundle exec jekyll build
+script: htmlproofer --assume-extension ./_site --check-html --check-opengraph --internal-domains="www.helicoptersofdc.com"
