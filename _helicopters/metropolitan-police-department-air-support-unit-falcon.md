@@ -19,5 +19,3 @@ If you see a helicopter over DC at night with a spotlight, it's almost certainly
 ### Links
 * [DC.gov - Air Support Unit (Falcon)](https://mpdc.dc.gov/page/air-support-unit-falcon)
 * [DC Metropolitan Police Collector - MPD Air Support Unit](http://www.dcmetropolicecollector.com/MPD-Air-Support-Unit.html)
-* []()
-* []()
