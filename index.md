@@ -5,8 +5,9 @@ published: true
 ---
 
 ## An overview of the helicopters flying over Washington, DC
-  
-  
+
+<br>
+  <center>
  <table style="width:100%">
   <tr>
     <td><a href="#index">Index</a></td>
@@ -14,7 +15,7 @@ published: true
     <td><a href="#dislaimers">Disclaimers</a></td>
   </tr>
 </table>  
-
+  </center>
 
 #### Index
 
