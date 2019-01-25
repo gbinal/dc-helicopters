@@ -6,17 +6,23 @@ published: true
 
 ## An overview of the helicopters flying over Washington, DC
 
+
+ <table style="width:100%">
+  <tr>
+    <td><a href="#index">Index</></td>
+    <td><a href="#photo-credits">Photo Credits</></td>
+    <td><a href="#dislaimers">Disclaimers</></td>
+  </tr>
+</table>  
+
+
 #### Index
 
 
  <table style="width:100%">
   <tr>
-    <th>&nbsp;</th>
-    <th>&nbsp;</th>
-  </tr>
-  <tr>
-    <th>HMX-1<br><em>A.K.A. Marine One</em></th>
-    <th><img src="https://helicoptersofdc.com/pictures/VH-3D_Marine_One_over_Washington_DC_May_2005.jpg" alt="Marine One" width="200"></th>
+    <td>HMX-1<br><em>A.K.A. Marine One</em></td>
+    <td><img src="https://helicoptersofdc.com/pictures/VH-3D_Marine_One_over_Washington_DC_May_2005.jpg" alt="Marine One" width="200"></td>
   </tr>
   <tr>
     <td>Coast Guard<br><em>Air Defense for the Capital Region</em></td>
@@ -51,17 +57,27 @@ published: true
 
 
 
-#### Photo Credits
-* [HMX-1](https://en.wikipedia.org/wiki/Marine_One#/media/File:VH-3D_Marine_One_over_Washington_DC_May_2005.jpg)
-* [Coast Guard](https://en.wikipedia.org/wiki/File:USCG_HH-65C.jpg) 
-* [US Park Police](https://en.wikipedia.org/wiki/File:U.S._Park_Police_helicopter.JPG)
-* [DC Police](https://www.flickr.com/photos/ep_jhu/35266792364/in/photostream/)
-* [US Army](https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996)
-* [US Air Force](https://commons.wikimedia.org/wiki/Category:1st_Helicopter_Squadron_(United_States_Air_Force)#/media/File:141021-F-CX842-001_The_first_ex-USMC_UH-1N_for_1HS_lands_at_Andrews.jpg)
-* [MedStar](https://www.medstarwashington.org/our-services/medstar-heart-vascular-institute/treatments/medstar-rapid-transportation/)
-* [SkyBear](https://twitter.com/stat_medevac/status/817390049927036928)
+#### Photo Credits for this page
 
 
+ <table style="width:100%">
+  <tr>
+    <td><a href="https://en.wikipedia.org/wiki/Marine_One#/media/File:VH-3D_Marine_One_over_Washington_DC_May_2005.jpg">HMX-1</></td>
+    <td><a href="https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996">US Army</></td>
+  </tr>
+   <tr>
+    <td><a href="https://en.wikipedia.org/wiki/File:USCG_HH-65C.jpg">Coast Guard</></td>
+    <td><a href="https://commons.wikimedia.org/wiki/Category:1st_Helicopter_Squadron_(United_States_Air_Force)#/media/File:141021-F-CX842-001_The_first_ex-USMC_UH-1N_for_1HS_lands_at_Andrews.jpg">US Air Force</></td>
+  </tr>
+   <tr>
+    <td><a href="https://en.wikipedia.org/wiki/File:U.S._Park_Police_helicopter.JPG">Index</>US Park Police</td>
+    <td><a href="https://www.medstarwashington.org/our-services/medstar-heart-vascular-institute/treatments/medstar-rapid-transportation/">MedStar</></td>
+  </tr>
+   <tr>
+    <td><a href="https://www.flickr.com/photos/ep_jhu/35266792364/in/photostream/">DC Police</></td>
+    <td><a href="https://twitter.com/stat_medevac/status/817390049927036928">SkyBear</></td>
+  </tr>
+</table> 
 
 
 
