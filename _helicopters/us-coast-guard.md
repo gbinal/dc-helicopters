@@ -32,3 +32,5 @@ Anytime you see an orange Coast Guard helicopter of DC, it's from this unit.  Th
 * [Wikipedia - Eurocopter HH-65 Dolphin](https://en.wikipedia.org/wiki/Eurocopter_HH-65_Dolphin)
 * [NORAD News - No room for failure - Coast Guard aviators protect D.C., pilots](http://www.norad.mil/Newsroom/Article/578611/no-room-for-failure-coast-guard-aviators-protect-dc-pilots/)
 * [USCG Aviation History - 2006: Coast Guard Assumes National Capital Rotary Wing Air Intercept Mission](https://cgaviationhistory.org/2006-coast-guard-assumes-national-capital-rotary-wing-air-intercept-mission/)
+/)
+* [USCG Aviation History - 2003: Airborne Use of Force – Coast Guard Arms HH-65C and HH-60J Helicopters](https://cgaviationhistory.org/2003-airborne-use-of-force-coast-guard-arms-hh-65c-and-hh-60j-helicopters/)
