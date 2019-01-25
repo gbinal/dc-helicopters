@@ -6,13 +6,15 @@ published: true
 
 ## An overview of the helicopters flying over Washington, DC
 
+
  <table style="width:100%">
   <tr>
     <td><a href="#index">Index</></td>
     <td><a href="#photo-credits">Photo Credits</></td>
     <td><a href="#dislaimers">Disclaimers</></td>
   </tr>
-</table> 
+</table>  
+
 
 #### Index
 
@@ -56,6 +58,7 @@ published: true
 
 
 #### Photo Credits for this page
+
 
  <table style="width:100%">
   <tr>
