@@ -24,3 +24,4 @@ These helicopters are not as common in the skies over DC, but are still a somewh
 * [Rotar and Wing Interational - Army 12th: Flying the Brass](https://www.rotorandwing.com/2012/04/01/army-12th-flying-the-brass/)
 * [GlobalSecurity.com - 12th Aviation Battalion](https://www.globalsecurity.org/military/agency/army/12avn-bn.htm)
 * [Army.mil - The Army Aviation Brigade: 12th Aviation Battalion](https://www.taab.mdw.army.mil/12th-aviation-battalion)
+* [Video](https://www.youtube.com/watch?v=1LOHoxyyVjg) and [Press Release](https://www.army.mil/article/127767/davison_army_airfield_hosts_mass_helicopter_exercise) about the 2014 Exercise.
