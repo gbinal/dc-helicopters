@@ -1,5 +1,5 @@
 ---
-title: Washington Hospital Center: MedSTAR
+title: 'Washington Hospital Center: MedSTAR'
 image: /pictures/medstar.jpg
 ---
 
