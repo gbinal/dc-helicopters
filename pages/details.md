@@ -19,9 +19,6 @@ The most famous and identifiable helicopters over DC, this unit is tasked with P
 * [MV-22 Ospreys](https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey)
 * [CH-46 Sea Knight](https://en.wikipedia.org/wiki/Boeing_Vertol_CH-46_Sea_Knight#United_States)
 
-### Pictures
-...
-
 ### Details 
 
 First, one often missed nuance - Marine One is the callsign used by any USMC aircraft that the President is on.  It's often associated though with one of the helicopters from the HMX-1 squadron, but the point that's important to remember is that any one of the helicopters is only considered Marine One when it is transporting the President.  
@@ -60,9 +57,6 @@ A set of armed Coast Guard helicopters play a role in the air defense of Washing
 ### Aircraft Type
 * [MH-65C Dolphin](https://en.wikipedia.org/wiki/Eurocopter_HH-65_Dolphin)
 
-### Pictures
-...
-
 ### Details 
 
 Washington, DC has a multi-layered air defense system.  This includes (but I'm sure isn't limited to): 
@@ -99,8 +93,6 @@ The US Park Police has jurisdiction over many parts of DC and its aviation unit 
 
 * [Bell 412EP](https://en.wikipedia.org/wiki/Bell_412)
 
-### Pictures
-...
 
 ### Details 
 
@@ -130,9 +122,6 @@ The DC police department's helicopter, this is what you'll sometimes see with a 
 ### Aircraft Type
 * [Eurocopter AS350B3](https://en.wikipedia.org/wiki/Eurocopter_AS350_%C3%89cureuil)
 
-### Pictures
-...
-
 ### Details 
 
 Able to operate at day or night, the main missions of this unit is searching for suspects or missing persons, assisting in vehicle pursuits (so that pursuing police cars can more safely maintain the chase), and observing large demonstrations.   
@@ -157,8 +146,6 @@ An easily recognizable staple of the DC airspace, this unit
 ### Aircraft Type
 UH-1N Twin Hueys
 
-### Pictures
-
 ### Details 
 
 I'd suggest that these are far and away the most commonly seen but less identified helicopters over DC. The fly across and back, east and west over the city several times every day.  Similar to the US Army unit described above, they play a role in...
@@ -173,10 +160,6 @@ Located at Joint Base Andrews, they are...
 * [Air Force District of Washington - Andrews Helicopter Squadron '1st,' Only Of Its Kind](https://www.afdw.af.mil/News/Features/Display/Article/336361/andrews-helicopter-squadron-1st-only-of-its-kind/)
 
 
-
-
-
-
 ## US Army - 12th Aviation Battalion
 
 ### Summary 
@@ -185,9 +168,6 @@ Located at Joint Base Andrews, they are...
 ### Aircraft Type
 * Blackhawk UH-72
 * Blackhawk UH-70
-
-### Pictures
-...
 
 ### Details 
 
@@ -208,7 +188,7 @@ These helicopters are not as common in the skies over DC, but are still a somewh
 
 
 
-## MedSTAR 1
+## MedSTAR
 
 ### Summary 
 
@@ -217,8 +197,6 @@ Transporting medical patients around the DC area, the MedSTAR helicopters
 ### Aircraft Type
 * [Eurocopter EC-135](https://en.wikipedia.org/wiki/Eurocopter_EC135)
 
-### Pictures
-...
 
 ### Details 
 
@@ -237,9 +215,32 @@ https://www.ntsb.gov/news/press-releases/Pages/Update_on_NTSB_Investigation_of_E
 
 ### Links
 
+* [MedSTAR Rapid Transportation](https://www.medstarwashington.org/our-services/medstar-heart-vascular-institute/treatments/medstar-rapid-transportation/)
 * [MedSTAR - MedSTAR Transport Helicopter Service Marks 30 Years of Service](https://www.medstarwashington.org/news/2013/07/03/medstar-transport-helicopter-service-marks-30-years-of-service/)
 * [WTOP - MedSTAR Transport: Saving lives in Washington area for 30 years](https://wtop.com/news/2013/07/medstar-transport-saving-lives-in-washington-area-for-30-years/slide/1/)
 * [Airliners -  Eurocopter EC-135T-2 - MedStar](https://www.airliners.net/photo/MedStar/Eurocopter-EC-135T-2/1166869)
+* [Video - MedSTAR N138MH Helicopter - Taking Off](https://www.youtube.com/watch?v=5-bcVnGj6B4)
+
+
+
+
+## Skybear
+
+### Summary 
+
+Patient transport for Children's National.  
+
+### Aircraft Type
+* [Airbus Helicopters H145](https://en.wikipedia.org/wiki/Eurocopter_EC145)
+
+### Details 
+
+Located at the same Washington Hospital Center complex, Children's National utilizes the SkyBear helicopter for patient transport.  The distinctive red helicopter can be seen flying between the DC hospital a neighboring hospitals.  The service is maintained by the Pennsylvania-based STAT MedEvac.  
+
+
+### Links
+* [Children's National - Transport Medicine](https://childrensnational.org/departments/transport-medicine)
+* [Wikipedia - STAT Medevac](https://en.wikipedia.org/wiki/STAT_Medevac)
 
 
 
