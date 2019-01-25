@@ -39,8 +39,12 @@ published: true
     <td><img src="https://helicoptersofdc.com/pictures/US-1st-Helicopter-Squadron.jpg" alt="Air Force Helicopter" width="200"></td>
   </tr>
   <tr>
-    <td>Medivac<br>...</td>
-    <td><img src="https://helicoptersofdc.com/pictures/U.S._Park_Police_helicopter.JPG" alt="Medivac" width="200"></td>
+    <td>MedStar<br>...</td>
+    <td><img src="https://helicoptersofdc.com/pictures/medstar.jpg" alt="Medstar" width="200"></td>
+  </tr>
+   <tr>
+    <td>SkyBear<br>...</td>
+    <td><img src="https://helicoptersofdc.com/pictures/skybear.jpg" alt="skybear" width="200"></td>
   </tr>
 </table> 
 
@@ -52,9 +56,11 @@ published: true
 * [Coast Guard](https://en.wikipedia.org/wiki/File:USCG_HH-65C.jpg) 
 * [US Park Police](https://en.wikipedia.org/wiki/File:U.S._Park_Police_helicopter.JPG)
 * [DC Police](https://www.flickr.com/photos/ep_jhu/35266792364/in/photostream/)
-* [US Air Force](https://commons.wikimedia.org/wiki/Category:1st_Helicopter_Squadron_(United_States_Air_Force)#/media/File:141021-F-CX842-001_The_first_ex-USMC_UH-1N_for_1HS_lands_at_Andrews.jpg)
 * [US Army](https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996)
-* []()
+* [US Air Force](https://commons.wikimedia.org/wiki/Category:1st_Helicopter_Squadron_(United_States_Air_Force)#/media/File:141021-F-CX842-001_The_first_ex-USMC_UH-1N_for_1HS_lands_at_Andrews.jpg)
+* [MedStar](https://www.medstarwashington.org/our-services/medstar-heart-vascular-institute/treatments/medstar-rapid-transportation/)
+* [SkyBear](https://twitter.com/stat_medevac/status/817390049927036928)
+
 
 
 
