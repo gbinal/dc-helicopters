@@ -6,17 +6,20 @@ published: true
 
 ## An overview of the helicopters flying over Washington, DC
 
+
+
+
 #### Index
 
 
  <table style="width:100%">
   <tr>
-    <th>&nbsp;</th>
-    <th>&nbsp;</th>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <th>HMX-1<br><em>A.K.A. Marine One</em></th>
-    <th><img src="https://helicoptersofdc.com/pictures/VH-3D_Marine_One_over_Washington_DC_May_2005.jpg" alt="Marine One" width="200"></th>
+    <td>HMX-1<br><em>A.K.A. Marine One</em></td>
+    <td><img src="https://helicoptersofdc.com/pictures/VH-3D_Marine_One_over_Washington_DC_May_2005.jpg" alt="Marine One" width="200"></td>
   </tr>
   <tr>
     <td>Coast Guard<br><em>Air Defense for the Capital Region</em></td>
