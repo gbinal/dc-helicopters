@@ -37,8 +37,8 @@ navigation:
 - text: Home
   url: /index.html
   internal: true
-- text: Details
-  url: /details/
+- text: Helicopters
+  url: /helicopters/
   internal: true
 - text: Quick Identification Help
   url: /quick-identification/
