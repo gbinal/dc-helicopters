@@ -9,9 +9,9 @@ published: true
   
  <table style="width:100%">
   <tr>
-    <td><a href="#index">Index</></td>
-    <td><a href="#photo-credits">Photo Credits</></td>
-    <td><a href="#dislaimers">Disclaimers</></td>
+    <td><a href="#index">Index</a></td>
+    <td><a href="#photo-credits">Photo Credits</a></td>
+    <td><a href="#dislaimers">Disclaimers</a></td>
   </tr>
 </table>  
 
