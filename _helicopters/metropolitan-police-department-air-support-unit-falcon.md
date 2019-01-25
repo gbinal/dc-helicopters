@@ -1,5 +1,5 @@
 ---
-title: 'Metropolitan Police Department - Air Support Unit (Falcon)'
+title: 'Metropolitan Police Department: Air Support Unit (Falcon)'
 image: /pictures/MPD-helicopter.jpg
 ---
 
