@@ -1,6 +1,6 @@
 ---
-title: RedBear
-image: /pictures/redbear.jpg
+title: SkyBear
+image: /pictures/skybear.jpg
 ---
 
 ### Summary 
