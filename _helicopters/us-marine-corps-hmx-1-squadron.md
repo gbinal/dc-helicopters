@@ -15,7 +15,7 @@ The most famous and identifiable helicopters over DC, this unit is tasked with P
 
 ### Details
 
-First, one often missed nuance - Marine One is the callsign used by any USMC aircraft that the President is on.  It's often associated though with one of the helicopters from the HMX-1 squadron, but the point that's important to remember is that any one of the helicopters is only considered Marine One when it is transporting the President.
+First, one often missed nuance: Marine One is the callsign used by any USMC aircraft that the President is on.  It's often associated though with one of the helicopters from the HMX-1 squadron, but the point that's important to remember is that any one of the helicopters is only considered Marine One when it is transporting the President.
 
 Though headquartered at Marine Corps Base Quantico, a number of the helicopters are also deployed immediately south of the White House, at [Joint Base Bolling](https://en.wikipedia.org/wiki/Joint_Base_Anacostia%E2%80%93Bolling) in southwest DC.  Whenever you're at National Airport, if you look across the river, you'll see this airbase.  Specifically, you'll see three huge hangers doors to the left of the base.  When you see activity in that area, it sometimes involve one or more of the helicopters taking off or landing.
 
@@ -27,10 +27,6 @@ You'll often see these aircraft flying in twos or threes.  This is to provide de
 
 In DC though, the majority of sightings of these helicopters take place when the president has not yet left the White House.  involve one or two of them loitering over the inner neighborhoods of DC.
 
-If you see them loitering...
-
-Good watching opportunities around the WH.
-
 The HMX-1 squadron is primarily composed of helicopters but also includes a set of V-22 Ospreys.
 
 ### Links
@@ -38,3 +34,5 @@ The HMX-1 squadron is primarily composed of helicopters but also includes a set 
 * [Wikipedia - HMX-1](https://en.wikipedia.org/wiki/HMX-1)
 * [Wikipedia - VXX](https://en.wikipedia.org/wiki/VXX)
 * [Foxtrot Alpha - These Elite Military Helicopter Units Fly Washington's Power Players](https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996)
+* [Video - National Geographic: On Board Marine One](https://www.youtube.com/watch?v=cFhrB-DkBnA)
+
