@@ -63,20 +63,20 @@ published: true
 
  <table style="width:100%">
   <tr>
-    <td><a href="https://en.wikipedia.org/wiki/Marine_One#/media/File:VH-3D_Marine_One_over_Washington_DC_May_2005.jpg">HMX-1</></td>
-    <td><a href="https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996">US Army</></td>
+    <td><a href="https://en.wikipedia.org/wiki/Marine_One#/media/File:VH-3D_Marine_One_over_Washington_DC_May_2005.jpg">HMX-1</a></td>
+    <td><a href="https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996">US Army</a></td>
   </tr>
    <tr>
-    <td><a href="https://en.wikipedia.org/wiki/File:USCG_HH-65C.jpg">Coast Guard</></td>
-    <td><a href="https://commons.wikimedia.org/wiki/Category:1st_Helicopter_Squadron_(United_States_Air_Force)#/media/File:141021-F-CX842-001_The_first_ex-USMC_UH-1N_for_1HS_lands_at_Andrews.jpg">US Air Force</></td>
+    <td><a href="https://en.wikipedia.org/wiki/File:USCG_HH-65C.jpg">Coast Guard</a></td>
+    <td><a href="https://commons.wikimedia.org/wiki/Category:1st_Helicopter_Squadron_(United_States_Air_Force)#/media/File:141021-F-CX842-001_The_first_ex-USMC_UH-1N_for_1HS_lands_at_Andrews.jpg">US Air Force</a></td>
   </tr>
    <tr>
-    <td><a href="https://en.wikipedia.org/wiki/File:U.S._Park_Police_helicopter.JPG">Index</>US Park Police</td>
-    <td><a href="https://www.medstarwashington.org/our-services/medstar-heart-vascular-institute/treatments/medstar-rapid-transportation/">MedStar</></td>
+    <td><a href="https://en.wikipedia.org/wiki/File:U.S._Park_Police_helicopter.JPG">US Park Police</a></td>
+    <td><a href="https://www.medstarwashington.org/our-services/medstar-heart-vascular-institute/treatments/medstar-rapid-transportation/">MedStar</a></td>
   </tr>
    <tr>
-    <td><a href="https://www.flickr.com/photos/ep_jhu/35266792364/in/photostream/">DC Police</></td>
-    <td><a href="https://twitter.com/stat_medevac/status/817390049927036928">SkyBear</></td>
+    <td><a href="https://www.flickr.com/photos/ep_jhu/35266792364/in/photostream/">DC Police</a></td>
+    <td><a href="https://twitter.com/stat_medevac/status/817390049927036928">SkyBear</a></td>
   </tr>
 </table> 
 
