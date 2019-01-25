@@ -3,6 +3,8 @@ title: US Coast Guard
 image: /pictures/1599px-USCG_HH-65C.jpg
 ---
 
+{:toc}
+
 ### Summary
 
 A set of armed Coast Guard helicopters play a role in the air defense of Washington, DC.  If a small, private airplane comes too close, this is what is sent up to identify, make contact, and if necessary shoot it down.
