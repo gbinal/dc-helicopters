@@ -1,6 +1,16 @@
 # Base configuration
 permalink: pretty
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+exclude:
+  - LICENSE
+  - README.md
+  - vendor
+  - TERMS.md
+  - Gemfile
+  - Gemfile.lock
+  - CONTRIBUTING.md
+  - COPYING.txt
+  - CNAME
+
 markdown: kramdown
 
 #Prose.io editing info
