@@ -1,5 +1,5 @@
 # Base configuration
-permalink: https://www.helicoptersofdc.com
+permalink: pretty
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 markdown: kramdown
 
@@ -22,7 +22,6 @@ subtitle: Ever forward...
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: 'https://www.helicoptersofdc.com/'
 
 # Author/Organization info to be displayed in the templates
 author:
@@ -56,3 +55,19 @@ navigation:
 - text: Feedback
   url: https://github.com/gbinal/dc-helicopters/issues
   internal: false
+
+collections:
+  helicopters:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "helicopters"
+    values:
+      layout: "page"
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
