@@ -1,27 +1,28 @@
 ---
 title: MedSTAR
+image: /pictures/medstar.jpg
 ---
 
-### Summary 
+### Summary
 
-Transporting medical patients around the DC area, the MedSTAR helicopters 
+Transporting medical patients around the DC area, the MedSTAR helicopters
 
 ### Aircraft Type
 * [Eurocopter EC-135](https://en.wikipedia.org/wiki/Eurocopter_EC135)
 
 
-### Details 
+### Details
 
-MedSTAR operates 10 hospitals in the DC-MD-VA area, including the Washington Hospital Center [on Michigan Avenue NW](https://goo.gl/maps/v59v6w4Qfe82).  Located prominently on a hill near McMillan Reservoir, the large dark complex visible can be seen from many parts of DC.   
+MedSTAR operates 10 hospitals in the DC-MD-VA area, including the Washington Hospital Center [on Michigan Avenue NW](https://goo.gl/maps/v59v6w4Qfe82).  Located prominently on a hill near McMillan Reservoir, the large dark complex visible can be seen from many parts of DC.
 
 
 
-Over time, the MedSTAR fleet has transitioned from a focus on medivac 
+Over time, the MedSTAR fleet has transitioned from a focus on medivac
 
 
 https://en.wikipedia.org/wiki/MedStar_Health
 
-I've only come across one helicopter crash in DC so far, and it was a 2006 crash of a MedSTAR helicopter near 
+I've only come across one helicopter crash in DC so far, and it was a 2006 crash of a MedSTAR helicopter near
 
 https://www.ntsb.gov/news/press-releases/Pages/Update_on_NTSB_Investigation_of_EMS_Helicopter_Crash_in_Washington_DC.aspx
 

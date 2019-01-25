@@ -14,49 +14,23 @@ published: true
     <td><a href="#photo-credits">Photo Credits</a></td>
     <td><a href="#dislaimers">Disclaimers</a></td>
   </tr>
-</table>  
+</table>
   </center>
 
 #### Index
 
-
- <table style="width:100%">
-  <tr>
-    <td>HMX-1<br><em>A.K.A. Marine One</em></td>
-    <td><img src="https://helicoptersofdc.com/pictures/VH-3D_Marine_One_over_Washington_DC_May_2005.jpg" alt="Marine One" width="200"></td>
-  </tr>
-  <tr>
-    <td>Coast Guard<br><em>Air Defense for the Capital Region</em></td>
-    <td><img src="https://helicoptersofdc.com/pictures/1599px-USCG_HH-65C.jpg" alt="Coast Guard HH-65C" width="200"></td>
-  </tr>
-  <tr>
-    <td>US Park Police</td>
-    <td><img src="https://helicoptersofdc.com/pictures/U.S._Park_Police_helicopter.JPG" alt="Park Police Helicopter" width="200"></td>
-  </tr>
-  <tr>
-    <td>DC Police<br><em>Air Support Unit (Falcon)</em></td>
-    <td><img src="https://helicoptersofdc.com/pictures/MPD-helicopter.jpg" alt="DC Police Helicopter" width="200"></td>
-  </tr>
-  <tr>
-    <td>US Army<br><em>12th Aviation Battalion</em></td>
-    <td><img src="https://helicoptersofdc.com/pictures/US-Army-Gold-Tops.png" alt="US Army Helicopter" width="200"></td>
-  </tr> 
-  <tr>
-    <td>US Air Force<br><em>1st Helicopter Squadron</em></td>
-    <td><img src="https://helicoptersofdc.com/pictures/US-1st-Helicopter-Squadron.jpg" alt="Air Force Helicopter" width="200"></td>
-  </tr>
-  <tr>
-    <td>MedStar<br><em>MedStar Washington Hospital Center</em></td>
-    <td><img src="https://helicoptersofdc.com/pictures/medstar.jpg" alt="Medstar" width="200"></td>
-  </tr>
-   <tr>
-    <td>SkyBear<br><em>Children’s National Health System</em></td>
-    <td><img src="https://helicoptersofdc.com/pictures/skybear.jpg" alt="skybear" width="200"></td>
-  </tr>
-</table> 
-
-
-
+<table style="width:100%">
+  {% for helicopter in site.helicopters %}
+    <tr>
+      <td>
+        <a href="{{ helicopter.url | absolute_url }}">{{ helicopter.title }}</a>
+      </td>
+      <td>
+        <img src="{{ helicopter.image | absolute_url }}" alt="{{ helicopter.title }}" width="200">
+      </td>
+    </tr>
+  {% endfor %}
+</table>
 
 #### Photo Credits for this page
 
@@ -78,14 +52,13 @@ published: true
     <td><a href="https://www.flickr.com/photos/ep_jhu/35266792364/in/photostream/">DC Police</></td>
     <td><a href="https://twitter.com/stat_medevac/status/817390049927036928">SkyBear</></td>
   </tr>
-</table> 
+</table>
 
 
 
-#### Disclaimers   
-* This website is inspired by and [entirely made possible](https://helicoptersofdc.com/credits/) by the really neat and generous work of websites like [Foxtrot Alpha](https://foxtrotalpha.jalopnik.com/) and folks like [u/celocanth13](https://www.reddit.com/user/celocanth13).  I'm 
-* I'm sure that I've got some errors in here and what errors there are are certainly mine and not the sources I've used.  Please let me know if you see anything wrong by [filing an issue](https://github.com/gbinal/dc-helicopters/issues).  :)  
-* I'm aiming for both beginner and expert audiences here and I'm sure I often miss the sweet spot.  Thanks for putting up with my imperfect prose.  
-* For practical purposes, I'm keeping the focus of this site on DC.  There's a good number of really neat VA and MD helicopters as well and sometimes the line blurs but for now, I'm going to try and keep focused on only those that play a role in DC proper.  
-* A reasonable person may ask if it's irresponsible to bring more attention to some of this information.  I've gone back and forth on the matter before but subscribe to the criteria articulated in a [2005 Federal Geographic Data Committee - Homeland Security Working Group presentation](https://web.archive.org/web/20101122205653/http://www.emforum.org/vforum/lc051116.htm) on this topic.  It's a great talk and I recommend it for your consideration.  
-
+#### Disclaimers
+* This website is inspired by and [entirely made possible](https://helicoptersofdc.com/credits/) by the really neat and generous work of websites like [Foxtrot Alpha](https://foxtrotalpha.jalopnik.com/) and folks like [u/celocanth13](https://www.reddit.com/user/celocanth13).  I'm
+* I'm sure that I've got some errors in here and what errors there are are certainly mine and not the sources I've used.  Please let me know if you see anything wrong by [filing an issue](https://github.com/gbinal/dc-helicopters/issues).  :)
+* I'm aiming for both beginner and expert audiences here and I'm sure I often miss the sweet spot.  Thanks for putting up with my imperfect prose.
+* For practical purposes, I'm keeping the focus of this site on DC.  There's a good number of really neat VA and MD helicopters as well and sometimes the line blurs but for now, I'm going to try and keep focused on only those that play a role in DC proper.
+* A reasonable person may ask if it's irresponsible to bring more attention to some of this information.  I've gone back and forth on the matter before but subscribe to the criteria articulated in a [2005 Federal Geographic Data Committee - Homeland Security Working Group presentation](https://web.archive.org/web/20101122205653/http://www.emforum.org/vforum/lc051116.htm) on this topic.  It's a great talk and I recommend it for your consideration.
