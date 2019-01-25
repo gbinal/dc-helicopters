@@ -12,9 +12,6 @@ The most famous and identifiable helicopters over DC, this unit is tasked with P
 * [MV-22 Ospreys](https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey)
 * [CH-46 Sea Knight](https://en.wikipedia.org/wiki/Boeing_Vertol_CH-46_Sea_Knight#United_States)
 
-### Pictures
-...
-
 ### Details 
 
 First, one often missed nuance - Marine One is the callsign used by any USMC aircraft that the President is on.  It's often associated though with one of the helicopters from the HMX-1 squadron, but the point that's important to remember is that any one of the helicopters is only considered Marine One when it is transporting the President.  

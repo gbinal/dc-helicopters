@@ -9,9 +9,6 @@ The DC police department's helicopter, this is what you'll sometimes see with a 
 ### Aircraft Type
 * [Eurocopter AS350B3](https://en.wikipedia.org/wiki/Eurocopter_AS350_%C3%89cureuil)
 
-### Pictures
-...
-
 ### Details 
 
 Able to operate at day or night, the main missions of this unit is searching for suspects or missing persons, assisting in vehicle pursuits (so that pursuing police cars can more safely maintain the chase), and observing large demonstrations.   

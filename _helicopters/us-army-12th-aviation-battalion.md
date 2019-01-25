@@ -9,9 +9,6 @@ title: US Army - 12th Aviation Battalion
 * Blackhawk UH-72
 * Blackhawk UH-70
 
-### Pictures
-...
-
 ### Details 
 
 Known as the Gold Tops (in contrast to the HMX-1 White Tops), the unit provides VIP transportation for the Department of Defense.  Based out of Fort Belvoir, they provide a number of other roles, but one of them is also VIP evacuation in the case of emergency.  While the HMX-1 squadron would ensure the evacuation of the President and his immediate advisors, it is this squadron that would spirit away other high ranking lawmakers and government leadership.  

@@ -9,8 +9,6 @@ An easily recognizable staple of the DC airspace, this unit
 ### Aircraft Type
 UH-1N Twin Hueys
 
-### Pictures
-
 ### Details 
 
 I'd suggest that these are far and away the most commonly seen but less identified helicopters over DC. The fly across and back, east and west over the city several times every day.  Similar to the US Army unit described above, they play a role in...

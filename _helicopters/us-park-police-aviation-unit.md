@@ -10,8 +10,6 @@ The US Park Police has jurisdiction over many parts of DC and its aviation unit 
 
 * [Bell 412EP](https://en.wikipedia.org/wiki/Bell_412)
 
-### Pictures
-...
 
 ### Details 
 
