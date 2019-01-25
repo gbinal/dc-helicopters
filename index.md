@@ -15,11 +15,11 @@ published: true
     <th>&nbsp;</th>
   </tr>
   <tr>
-    <th>HMX-1<br>"Marine One"</th>
+    <th>HMX-1<br><em>A.K.A. Marine One</em></th>
     <th><img src="https://helicoptersofdc.com/pictures/VH-3D_Marine_One_over_Washington_DC_May_2005.jpg" alt="Marine One" width="200"></th>
   </tr>
   <tr>
-    <td>Coast Guard<br>Air Defense for the Capital Region</td>
+    <td>Coast Guard<br><em>Air Defense for the Capital Region</em></td>
     <td><img src="https://helicoptersofdc.com/pictures/1599px-USCG_HH-65C.jpg" alt="Coast Guard HH-65C" width="200"></td>
   </tr>
   <tr>
@@ -27,23 +27,23 @@ published: true
     <td><img src="https://helicoptersofdc.com/pictures/U.S._Park_Police_helicopter.JPG" alt="Park Police Helicopter" width="200"></td>
   </tr>
   <tr>
-    <td>DC Police<br>Air Support Unit (Falcon)</td>
+    <td>DC Police<br><em>Air Support Unit (Falcon)</em></td>
     <td><img src="https://helicoptersofdc.com/pictures/MPD-helicopter.jpg" alt="DC Police Helicopter" width="200"></td>
   </tr>
   <tr>
-    <td>US Army<br>12th Aviation Battalion</td>
+    <td>US Army<br><em>12th Aviation Battalion</em></td>
     <td><img src="https://helicoptersofdc.com/pictures/US-Army-Gold-Tops.png" alt="US Army Helicopter" width="200"></td>
   </tr> 
   <tr>
-    <td>US Air Force<br>1st Helicopter Squadron</td>
+    <td>US Air Force<br><em>1st Helicopter Squadron</em></td>
     <td><img src="https://helicoptersofdc.com/pictures/US-1st-Helicopter-Squadron.jpg" alt="Air Force Helicopter" width="200"></td>
   </tr>
   <tr>
-    <td>MedStar<br>...</td>
+    <td>MedStar<br><em>MedStar Washington Hospital Center</em></td>
     <td><img src="https://helicoptersofdc.com/pictures/medstar.jpg" alt="Medstar" width="200"></td>
   </tr>
    <tr>
-    <td>SkyBear<br>...</td>
+    <td>SkyBear<br><em>Children’s National Health System</em></td>
     <td><img src="https://helicoptersofdc.com/pictures/skybear.jpg" alt="skybear" width="200"></td>
   </tr>
 </table> 
