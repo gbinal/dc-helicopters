@@ -50,11 +50,11 @@ navigation:
 - text: Identified Helicopters
   url: /helicopters/
   internal: true
-- text: Related information
-  url: /related-information/
-  internal: true
 - text: Unidentified Helicopters
   url: /uncertain/
+  internal: true
+- text: Related information
+  url: /related-information/
   internal: true
 - text: Credits
   url: /credits/
