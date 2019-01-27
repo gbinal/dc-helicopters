@@ -22,6 +22,7 @@ The unit flies out of a heliport in Anacostia Park known as the Eagle's Nest ([m
 ### Links
 * [National Park Service - Aviation Unit](https://www.nps.gov/subjects/uspp/aviation-unit.htm)
 * [Wikipedia - United States Park Police: Aviation](https://en.wikipedia.org/wiki/United_States_Park_Police#Aviation)
+* [National Parks Traveler - Elite National Park Service Helicopter Unit Marks Forty Years Of Service](https://www.nationalparkstraveler.org/2013/09/elite-national-park-service-helicopter-unit-marks-forty-years-service23970)
 * [Fire Aviation - National Park Service helicopters played vital role on 9/11](https://fireaviation.com/2018/12/01/national-park-service-helicopters-played-vital-role-on-9-11/)
 * [Video - Documentary Footage and a description of the 1982 rescue - Part 3](https://youtu.be/EIb8wfXGngA?t=102) - 4:55
 * [Video - Documentary Footage and a description of the 1982 rescue - Part 4](https://www.youtube.com/watch?v=I5nTuEzMpzo)
