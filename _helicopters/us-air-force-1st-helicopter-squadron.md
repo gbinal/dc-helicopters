@@ -1,5 +1,5 @@
 ---
-title: US Air Force - 1st Helicopter Squadron
+title: 'US Air Force: 1st Helicopter Squadron'
 image: /pictures/US-1st-Helicopter-Squadron.jpg
 ---
 
