@@ -15,6 +15,12 @@ Transporting medical patients around the DC area, the MedSTAR helicopters
 
 [MedStar](https://en.wikipedia.org/wiki/MedStar_Health) operates 10 hospitals in the DC-MD-VA area, including the Washington Hospital Center [on Michigan Avenue NW](https://goo.gl/maps/v59v6w4Qfe82).  Located prominently on a hill near McMillan Reservoir, the large dark complex visible can be seen from many parts of DC.
 
+### Viewing Tips 
+
+It's very common to see these helicopters flying to and from the Washington Hospital Center, in particular from the Southeast.  
+
+### Notable Incidents 
+
 I've only come across one helicopter crash in DC so far, and it was a [2006 crash](https://www.ntsb.gov/news/press-releases/Pages/Update_on_NTSB_Investigation_of_EMS_Helicopter_Crash_in_Washington_DC.aspx) of a MedSTAR helicopter near the hospital.  
 
 ### Links
