@@ -45,7 +45,7 @@ author:
 # ------------------------------------------------------------------
 navigation:
 - text: Home
-  url: /index.html
+  url: /
   internal: true
 - text: Identified Helicopters
   url: /helicopters/
