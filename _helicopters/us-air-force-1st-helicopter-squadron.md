@@ -5,16 +5,14 @@ image: /pictures/US-1st-Helicopter-Squadron.jpg
 
 ### Summary
 
-An easily recognizable staple of the DC airspace, this unit...
+An easily recognizable staple of the DC airspace, this unit provides the most regular helicopter traffic above DC.  
 
 ### Aircraft Type
 * [UH-1N Twin Hueys](https://en.wikipedia.org/wiki/Bell_UH-1N_Twin_Huey)
 
 ### Details
 
-I'd suggest that these are far and away the most commonly seen but less identified helicopters over DC. The fly across and back, east and west over the city several times every day.  Similar to the US Army unit described above, they play a role in...
-
-Located at Joint Base Andrews, they are...
+I'd suggest that these are far and away the most commonly seen but less identified helicopters over DC. They fly across and back, east and west over the city several times every day.  Similar to the [US Army unit](https://helicoptersofdc.com/helicopters/us-army-12th-aviation-battalion/), they stand prepared to evaculate senior government officials from the district in the event of emergency.  
 
 ### Links
 * [Foxtrot Alpha - These Elite Military Helicopter Units Fly Washington's Power Players](https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996)
