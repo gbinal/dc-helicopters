@@ -13,7 +13,7 @@ Recently, I've noticed what looks like (or reminds me of) a [Sikorsky 76](https:
 
 #### Pictures  
   
- table style="width:100%">
+ <table style="width:100%">
   <tr>
     <td><img src="https://helicoptersofdc.com/pictures/unknown-helicopter-1-1.jpg" title="Example Image Link" width="200" /></td>
     <td><img src="https://helicoptersofdc.com/pictures/unknown-helicopter-1-2.jpg" title="Example Image Link" width="200" /></td>
@@ -28,7 +28,7 @@ In January 2019, I noticed what looks like (or reminds me of) a [MD500](https://
 
 #### Pictures  
   
- table style="width:100%">
+ <table style="width:100%">
   <tr>
     <td><img src="https://helicoptersofdc.com/pictures/unknown-helicopter-2-1.jpg" title="Example Image Link" width="200" /></td>
     <td><img src="https://helicoptersofdc.com/pictures/unknown-helicopter-2-2.jpg" title="Example Image Link" width="200" /></td>
