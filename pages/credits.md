@@ -4,8 +4,6 @@ title: "Credits"
 permalink: /credits/
 ---
 
-_[Under Construction]_
-
 
 * My greatest inspiration in this project is those who've already made a pass as distilling information about the helicopters that fly over DC: 
   * [Foxtrot Alpha - These Elite Military Helicopter Units Fly Washington's Power Players](https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996)
