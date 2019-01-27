@@ -1,5 +1,5 @@
 ---
-title: SkyBear
+title: 'Childrens National: SkyBear'
 image: /pictures/skybear.jpg
 ---
 
