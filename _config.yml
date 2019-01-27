@@ -51,7 +51,7 @@ navigation:
   url: /helicopters/
   internal: true
 - text: Unidentified Helicopters
-  url: /uncertain/
+  url: /unidentified/
   internal: true
 - text: Related information
   url: /related-information/
