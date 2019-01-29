@@ -14,7 +14,9 @@ The DC police department's helicopter, this is what you'll sometimes see with a 
 
 Able to operate at day or night, the main missions of this unit is searching for suspects or missing persons, assisting in vehicle pursuits (so that pursuing police cars can more safely maintain the chase), and observing large demonstrations.
 
-If you see a helicopter over DC at night with a spotlight, it's almost certainly this one.  Similarly, if you see a helicopter loitering in a tight circle over one spot (although if during the day and especially if around the mall, there's also a chance it'd be the Park Police helicopter).
+### Viewing Tips 
+
+If you see a helicopter over DC at night with a spotlight shining down, it's almost certainly this one.  Similarly, if you see a helicopter loitering in a tight circle over one spot, it's often either this one or - if you're downtown or by the mall - the [Park Police helicopter](https://helicoptersofdc.com/helicopters/us-park-police-aviation-unit/).
 
 ### Photos 
 
