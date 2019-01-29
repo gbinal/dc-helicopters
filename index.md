@@ -34,7 +34,7 @@ Can you help figure out who these are?
         <a href="https://helicoptersofdc.com/unidentified#unidentified-helicopter-1">Unidentified Helicopter 1</a>
       </td>
       <td>
-        <a href="https://helicoptersofdc.com/unidentified#unidentified-helicopter-1"><img src="https://helicoptersofdc.com/pictures/unknown-helicopter-1-1.jpg" alt="unidentified-1" width="200"></a>
+        <img src="https://helicoptersofdc.com/pictures/unknown-helicopter-1-1.jpg" alt="unidentified-1" width="200">
       </td>
     </tr>
       <tr>
@@ -42,7 +42,7 @@ Can you help figure out who these are?
         <a href="https://helicoptersofdc.com/unidentified#unidentified-helicopter-2">Unidentified Helicopter 2</a>
       </td>
       <td>
-        <a href="https://helicoptersofdc.com/unidentified#unidentified-helicopter-2"><img src="https://helicoptersofdc.com/pictures/unknown-helicopter-2-1.jpg" alt="unidentified 2" width="200"></a>
+        <img src="https://helicoptersofdc.com/pictures/unknown-helicopter-2-1.jpg" alt="unidentified 2" width="200">
       </td>
     </tr>
 </table>
