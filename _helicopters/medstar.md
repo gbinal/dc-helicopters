@@ -5,7 +5,7 @@ image: /pictures/medstar.jpg
 
 ### Summary
 
-Transporting medical patients around the DC area, the MedSTAR helicopters
+Transporting medical patients around the DC area, the MedSTAR helicopters serve numerous hospitals in the area.  
 
 ### Aircraft Type
 * [Eurocopter EC-135](https://en.wikipedia.org/wiki/Eurocopter_EC135)
