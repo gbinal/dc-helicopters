@@ -47,9 +47,6 @@ navigation:
 - text: Home
   url: /
   internal: true
-- text: Identified Helicopters
-  url: /helicopters/
-  internal: true
 - text: Unidentified Helicopters
   url: /unidentified/
   internal: true
