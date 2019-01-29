@@ -8,7 +8,7 @@ published: true
 
 {:.no_toc}
 
-#### Index
+#### Identified
 
 <table style="width:100%">
   {% for helicopter in site.helicopters %}
@@ -21,6 +21,30 @@ published: true
       </td>
     </tr>
   {% endfor %}
+</table>
+
+#### Unidentified
+
+Can you help figure out who these are?  
+
+
+<table style="width:100%">
+    <tr>
+      <td>
+        <a href="https://helicoptersofdc.com/unidentified#unidentified-helicopter-1">Unidentified Helicopter 1</a>
+      </td>
+      <td>
+        <a href="https://helicoptersofdc.com/unidentified#unidentified-helicopter-1"><img src="https://helicoptersofdc.com/pictures/unknown-helicopter-1-1.jpg" alt="unidentified-1" width="200"></a>
+      </td>
+    </tr>
+      <tr>
+      <td>
+        <a href="https://helicoptersofdc.com/unidentified#unidentified-helicopter-2">Unidentified Helicopter 2</a>
+      </td>
+      <td>
+        <a href="https://helicoptersofdc.com/unidentified#unidentified-helicopter-2"><img src="https://helicoptersofdc.com/pictures/unknown-helicopter-2-1.jpg" alt="unidentified 2" width="200"></a>
+      </td>
+    </tr>
 </table>
 
 #### Photo Credits for this page
