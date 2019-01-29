@@ -15,10 +15,13 @@ Known as the Gold Tops (in contrast to the HMX-1 White Tops), the unit provides 
 
 Based out of Fort Belvoir, this unit play a number of other roles, but one of them is also VIP evacuation in the case of emergency.  While the HMX-1 squadron would ensure the evacuation of the President and his immediate advisors, it is this squadron that would spirit away other high ranking lawmakers and government leadership.
 
-On a related note, in 2014, the unit held an unusual exercise where 24 helicopters flew over DC.  I didn't see it at the time, which was best, because I for one would have 100% read that as _'Ummm...  something's going on and we've got 25 minutes'_.  The video (linked below) is well worth a watch.
+### Viewing Tips 
 
 These helicopters are not as common in the skies over DC, but are still a somewhat regular sight flying over the rivers and to and from the Pentagon.
 
+### Notable Incidents 
+
+In 2014, the unit held an unusual exercise where 24 helicopters flew over DC.  I didn't see it at the time, which was for the best best, because I for one would have 100% read that as _'Ummm...  something's going on and we've got 25 minutes'_.  The video (linked below) is well worth a watch.
 
 ### Photos 
 
