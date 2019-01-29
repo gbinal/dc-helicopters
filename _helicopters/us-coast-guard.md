@@ -29,9 +29,21 @@ The specific unit that patrols the [Air Defense Identification Zone](https://en.
 
 Anytime you see an orange Coast Guard helicopter of DC, it's from this unit.  They're also easily seen taking off and landing from DCA airport.  And if you're in Terminal A (Southwest Airlines FTW), they are often on standby outside of the hangers right by Gates 1-3.
 
+
+### Photos 
+
+<table style="width:100%">
+  <tr>
+    <td><img src="https://helicoptersofdc.com/pictures/1599px-USCG_HH-65C.jpg" alt="Coast Guard HH-65C" width="200"></td>    </tr>
+  </table>
+
 ### Links
 * [Video - ABC7 Segment about the unit and showing a demonstrated interception](https://www.youtube.com/watch?v=6cIk-5t2Bbc&frags=pl%2Cwn)
 * [Wikipedia - Eurocopter HH-65 Dolphin](https://en.wikipedia.org/wiki/Eurocopter_HH-65_Dolphin)
 * [NORAD News - No room for failure - Coast Guard aviators protect D.C., pilots](http://www.norad.mil/Newsroom/Article/578611/no-room-for-failure-coast-guard-aviators-protect-dc-pilots/)
 * [USCG Aviation History - 2006: Coast Guard Assumes National Capital Rotary Wing Air Intercept Mission](https://cgaviationhistory.org/2006-coast-guard-assumes-national-capital-rotary-wing-air-intercept-mission/)
 * [USCG Aviation History - 2003: Airborne Use of Force – Coast Guard Arms HH-65C and HH-60J Helicopters](https://cgaviationhistory.org/2003-airborne-use-of-force-coast-guard-arms-hh-65c-and-hh-60j-helicopters/)
+
+
+### Photo Credits
+* [Wikimedia - PA2 Adam Eggers](https://en.wikipedia.org/wiki/File:USCG_HH-65C.jpg">Coast Guard)
