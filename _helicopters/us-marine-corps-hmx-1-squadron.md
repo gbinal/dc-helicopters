@@ -29,6 +29,14 @@ In DC though, the majority of sightings of these helicopters take place when the
 
 The HMX-1 squadron is primarily composed of helicopters but also includes a set of V-22 Ospreys.
 
+### Photos 
+
+<table style="width:100%">
+  <tr>
+    <td><img src="https://helicoptersofdc.com/pictures/VH-3D_Marine_One_over_Washington_DC_May_2005.jpg" alt="Marine One" width="200"></td>
+  </tr>
+  </table>
+  
 ### Links
 * [Wikipedia - Marine One](https://en.wikipedia.org/wiki/Marine_One)
 * [Wikipedia - HMX-1](https://en.wikipedia.org/wiki/HMX-1)
@@ -36,3 +44,6 @@ The HMX-1 squadron is primarily composed of helicopters but also includes a set 
 * [Foxtrot Alpha - These Elite Military Helicopter Units Fly Washington's Power Players](https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996)
 * [Video - National Geographic: On Board Marine One](https://www.youtube.com/watch?v=cFhrB-DkBnA)
 
+
+### Photo Credits
+* [Wikimedia - PH2(AW) Daniel J. McLain](https://en.wikipedia.org/wiki/Marine_One#/media/File:VH-3D_Marine_One_over_Washington_DC_May_2005.jpg)
