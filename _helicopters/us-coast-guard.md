@@ -27,7 +27,9 @@ This armament [program](https://en.wikipedia.org/wiki/Helicopter_Interdiction_Ta
 
 The specific unit that patrols the [Air Defense Identification Zone](https://en.wikipedia.org/wiki/Washington,_DC_Metropolitan_Area_Special_Flight_Rules_Area) around Washington is part of [Coast Guard Air Station Atlantic City](https://en.wikipedia.org/wiki/Coast_Guard_Air_Station_Atlantic_City), but is based out of the General Aviation terminal at National Airport, next to Terminal A.
 
-Anytime you see an orange Coast Guard helicopter of DC, it's from this unit.  They're also easily seen taking off and landing from DCA airport.  And if you're in Terminal A (Southwest Airlines FTW), they are often on standby outside of the hangers right by Gates 1-3.
+### Viewing Tips 
+
+Anytime you see an orange Coast Guard helicopter over DC, it's from this unit.  They're easily seen taking off and landing from DCA airport as well.  And if you're in Terminal A (Southwest Airlines FTW), they are often on standby outside of the hangers right by Gates 1-3.
 
 
 ### Photos 
