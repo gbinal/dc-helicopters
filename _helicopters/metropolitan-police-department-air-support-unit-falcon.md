@@ -16,6 +16,18 @@ Able to operate at day or night, the main missions of this unit is searching for
 
 If you see a helicopter over DC at night with a spotlight, it's almost certainly this one.  Similarly, if you see a helicopter loitering in a tight circle over one spot (although if during the day and especially if around the mall, there's also a chance it'd be the Park Police helicopter).
 
+### Photos 
+
+<table style="width:100%">
+  <tr>
+        <td><img src="https://helicoptersofdc.com/pictures/MPD-helicopter.jpg" alt="DC Police Helicopter" width="200"></td>
+    </tr>
+  </table>
+  
+
 ### Links
 * [DC.gov - Air Support Unit (Falcon)](https://mpdc.dc.gov/page/air-support-unit-falcon)
 * [DC Metropolitan Police Collector - MPD Air Support Unit](http://www.dcmetropolicecollector.com/MPD-Air-Support-Unit.html)
+
+### Photo Credits
+* [Flickr - @ep_jhu](https://www.flickr.com/photos/ep_jhu/35266792364/in/photostream)
