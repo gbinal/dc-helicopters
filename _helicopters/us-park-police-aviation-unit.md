@@ -14,9 +14,15 @@ The US Park Police has jurisdiction over many parts of DC and its aviation unit 
 
 ### Details
 
-This unit has participated in numerous rescue and law enforcement encounters, but perhaps one of the most dramatic was in the aftermath of the [1982 crash of Air Florida Flight 90](https://en.wikipedia.org/wiki/Air_Florida_Flight_90). The passenger airplane stalled and crashed shortly after takeoff from the National Airport, landing moments later in the frozen Potomac River.  A confluence of tragic coincidences resulted a Park Police helicopter and nearby motorists being the source of rescue for the five survivors of the crash.
+The Aviation Unit of the US Park Police plays a role to many law enforcement and first responder roles due in large part to the overlapping jurisdictions of downtown DC.  Much of the federal property in the area is managed by the National Park Service, justifying the active participation of the Park Police in a wide range of nearby emergencies.  
 
-The unit flies out of a heliport in Anacostia Park known as the Eagle's Nest ([map](https://goo.gl/maps/Pg64vj1kg552)).
+### Viewing Tips 
+
+The unit flies out of a heliport in Anacostia Park known as the Eagle's Nest ([map](https://goo.gl/maps/Pg64vj1kg552)).  It is often patroling around the National Mall, downtown DC, or over Capitol Hill.  
+
+### Notable Incidents 
+
+This unit has participated in numerous rescue and law enforcement encounters, but perhaps one of the most dramatic was in the aftermath of the [1982 crash of Air Florida Flight 90](https://en.wikipedia.org/wiki/Air_Florida_Flight_90). The passenger airplane stalled and crashed shortly after takeoff from the National Airport, landing moments later in the frozen Potomac River.  A confluence of tragic coincidences resulted a Park Police helicopter and nearby motorists being the source of rescue for the five survivors of the crash.
 
 
 ### Photos 
