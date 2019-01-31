@@ -29,14 +29,7 @@ Can you help figure out who these are?
 
 
 <table style="width:100%">
-    <tr>
-      <td>
-        <a href="https://helicoptersofdc.com/unidentified">Unidentified Helicopter 1</a>
-      </td>
-      <td>
-        <img src="https://helicoptersofdc.com/pictures/unknown-helicopter-1-1.jpg" alt="unidentified-1" width="200">
-      </td>
-    </tr>
+  
       <tr>
       <td>
         <a href="https://helicoptersofdc.com/unidentified#unidentified-helicopter-2">Unidentified Helicopter 2</a>
