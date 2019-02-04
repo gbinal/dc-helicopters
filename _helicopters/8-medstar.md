@@ -10,6 +10,8 @@ Transporting medical patients around the DC area, the MedSTAR helicopters serve 
 ### Aircraft Type
 * [Eurocopter EC-135](https://en.wikipedia.org/wiki/Eurocopter_EC135)
 
+### FAA Registry Number 
+* [N138MH](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N138MH)
 
 ### Details
 
@@ -25,7 +27,7 @@ Transporting medical patients around the DC area, the MedSTAR helicopters serve 
 
 ### Viewing Tips 
 
-It's very common to see these helicopters flying to and from the Washington Hospital Center, in particular to and from the Southeast.  
+It's very common to see these helicopters flying to and from the Washington Hospital Center in the middle of the district.  
 
 ### Notable Incidents 
 
