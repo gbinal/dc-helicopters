@@ -10,6 +10,9 @@ Patient transport for Children's National.
 ### Aircraft Type
 * [Airbus Helicopters H145](https://en.wikipedia.org/wiki/Eurocopter_EC145)
 
+### FAA Registry Number 
+* [N87ME](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N87ME)
+
 ### Details 
 
 Children's National is part of the same Washington Hospital Center complex [on Michigan Avenue NW](https://goo.gl/maps/v59v6w4Qfe82) where the [MedStar helicopter](https://helicoptersofdc.com/helicopters/medstar/) frequents.  Located prominently on a hill near McMillan Reservoir, the large dark complex visible can be seen from many parts of DC.
@@ -19,7 +22,7 @@ Children's National utilizes the SkyBear helicopter for patient transport.  The 
 
 ### Viewing Tips 
 
-It's very common to see this helicopter flying to and from the Washington Hospital Center, in particular to and from the Southeast.  
+It's very common to see this helicopter flying to and from the Washington Hospital Center in the middle of the district.  
 
 ### Photos 
 
