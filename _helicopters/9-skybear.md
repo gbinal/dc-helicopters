@@ -13,8 +13,8 @@ Patient transport for Children's National.
 ### FAA Registry Number 
 * [N87ME](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N87ME)
 
-### Trackable on Flightradar24?
-* Yes - [Link](https://www.flightradar24.com/data/aircraft/n87me)
+### Trackable on Flightradar24 App?
+* Yes | [Website Link](https://www.flightradar24.com/data/aircraft/n87me)
 
 ### Details 
 
