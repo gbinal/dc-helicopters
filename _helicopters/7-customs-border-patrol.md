@@ -6,6 +6,9 @@ image: /pictures/cbp.png
 ### Aircraft Type
 * [Sikorsky S-76](https://en.wikipedia.org/wiki/Sikorsky_S-76)
 
+### Trackable on Flightradar24 App?
+* Unknown
+
 ### Details
 
 Numerous folks have helped me identify this helicopter as being a Sikorsky S-76 operated by the US Customs and Border Patrol. I'm still researching, but it seems that these help patrol the Washington area and provide security.  How ... I don't really know yet.  Are they armed?  What are they looking for?  Where are they based out of?  These questions are more I'm still working on and will provide more notes here when I find anything.  Let me know if you know any of these details.  
