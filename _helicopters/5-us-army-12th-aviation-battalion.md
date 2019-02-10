@@ -11,6 +11,9 @@ Known as the Gold Tops (in contrast to the HMX-1 White Tops), the unit provides 
 * [UH-60 Black Hawk](https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk)
 * [VH-60 Black Hawk](https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk)
 
+### Trackable on Flightradar24 App?
+* Unknown, but likely no.  
+
 ### Details
 
 Based out of Fort Belvoir, this unit play a number of other roles, but one of them is also VIP evacuation in the case of emergency.  While the HMX-1 squadron would ensure the evacuation of the President and his immediate advisors, it is this squadron that would spirit away other high ranking lawmakers and government leadership.
