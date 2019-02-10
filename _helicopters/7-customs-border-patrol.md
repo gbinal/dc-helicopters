@@ -7,7 +7,7 @@ image: /pictures/cbp.png
 * [Sikorsky S-76](https://en.wikipedia.org/wiki/Sikorsky_S-76)
 
 ### Trackable on Flightradar24 App?
-* Unknown
+* Unknown, but likely no
 
 ### Details
 
