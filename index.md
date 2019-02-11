@@ -45,7 +45,7 @@ Can you help figure out who these are?
 
  <table style="width:100%">
   <tr>
-    <td><a href="https://www.medstarwashington.org/our-services/medstar-heart-vascular-institute/treatments/medstar-rapid-transportation/" target="_blank">Washington Hospital Center: MedSTAR</a></td>
+    <td><a href="https://www.flickr.com/photos//20295326276/in/photostream/" target="_blank">Washington Hospital Center: MedSTAR</a></td>
     <td><a href="https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996" target="_blank">US Army: 12th Aviation Battalion</a></td>
   </tr>
    <tr>
