@@ -13,6 +13,8 @@ The US Park Police has jurisdiction over many parts of DC and its aviation unit 
 ### FAA Registry Number
 * [N22PP](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N22PP)
 
+### Trackable on Flightradar24 App?
+* Yes | [Website Link](https://www.flightradar24.com/data/aircraft/N22PP)
 
 ### Details
 
