@@ -10,6 +10,9 @@ An easily recognizable staple of the DC airspace, this unit provides the most re
 ### Aircraft Type
 * [UH-1N Twin Hueys](https://en.wikipedia.org/wiki/Bell_UH-1N_Twin_Huey)
 
+### Trackable on Flightradar24 App?
+* Unknown, but likely no.  
+
 ### Details
 
 Similar to the [US Army unit](https://helicoptersofdc.com/helicopters/us-army-12th-aviation-battalion/), they stand prepared to evaculate senior government officials from the district in the event of emergency.  
