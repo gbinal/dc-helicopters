@@ -12,6 +12,9 @@ A set of armed Coast Guard helicopters play a role in the air defense of Washing
 ### Aircraft Type
 * [MH-65C Dolphin](https://en.wikipedia.org/wiki/Eurocopter_HH-65_Dolphin)
 
+### Trackable on Flightradar24 App?
+* No.
+
 ### Details
 
 Washington, DC has a multi-layered air defense system.  This includes (but I'm sure isn't limited to):
