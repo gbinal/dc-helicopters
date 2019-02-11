@@ -45,4 +45,4 @@ I've only come across one instance of a helicopter crash in DC so far, and it wa
 * [Video - MedSTAR N138MH Helicopter - Taking Off](https://www.youtube.com/watch?v=5-bcVnGj6B4)
 
 ### Photo Credits
-* [Twitter - @stat_medevac](https://twitter.com/stat_medevac/status/817390049927036928)
+* [Flickr - @gbucello4](https://www.flickr.com/photos/gbucello4/20295326276/in/photostream/)
