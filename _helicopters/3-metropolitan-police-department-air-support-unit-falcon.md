@@ -10,8 +10,12 @@ The DC police department's helicopter, this is what you'll sometimes see with a 
 ### Aircraft Type
 * [Eurocopter AS350B3](https://en.wikipedia.org/wiki/Eurocopter_AS350_%C3%89cureuil)
 
+### FAA Registry Number
+* N911DC
+* N911AS
+
 ### Trackable on Flightradar24 App?
-* Unknown
+* No
 
 ### Details
 
