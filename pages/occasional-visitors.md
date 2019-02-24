@@ -33,3 +33,13 @@ Here we'll collect information on helicopters who occasionally fly over DC, but 
 * Aircraft Type: [Bell 429 GlobalRanger](https://en.wikipedia.org/wiki/Bell_429_GlobalRanger)
 * FAA Registry Number: [N211FX](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N211FX)
 * Details: I've only seen this once over DC, but I would guess that it might come to DC on occasion for medevac reasons.  
+
+## Maryland State Police
+
+* Aircraft Type: [AgustaWestland AW139](https://en.wikipedia.org/wiki/AgustaWestland_AW139)
+* FAA Registry Number: [TRP2](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=TRP2), [TRP17](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=TRP17), and others.
+* Details: I see some of these from the Maryland State Police over DC rarely.  I would guess that it might come to DC on occasion for medevac reasons.  
+
+
+
+
