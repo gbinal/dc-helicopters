@@ -36,6 +36,9 @@ Here we'll collect information on helicopters who occasionally fly over DC, but 
 * Trackable on Flightradar24 App: Yes - [Link](https://www.flightradar24.com/data/aircraft/N6977A)
 * Details: This helicopter finds itself over a wide range of East Coast cities, including occasionally DC.  I haven't been able to figure out yet which part of DHS it works for or what it's doing over DC though.  
 
+* Links 
+  * [Twitter: Picture taken of the helicopter while over DC](https://twitter.com/ep_jhu/status/821054741811757057)
+
 ## Fairfax County Police
 
 * Aircraft Type: [Bell 429 GlobalRanger](https://en.wikipedia.org/wiki/Bell_429_GlobalRanger)
