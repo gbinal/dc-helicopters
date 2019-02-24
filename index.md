@@ -53,7 +53,7 @@ Can you help figure out who these are?
     <td><a href="https://en.wikipedia.org/wiki/File:USCG_HH-65C.jpg" target="_blank">US Coast Guard: Air Station Atlantic City</a></td>
   </tr>
    <tr>
-    <td><a href="https://twitter.com/stat_medevac/status/817390049927036928" target="_blank">Childrens National: SkyBear</a></td>
+    <td><a href="http://www.fbch.capmed.mil/newsroom/20130819_01.aspx" target="_blank">Childrens National: SkyBear</a></td>
     <td><a href="https://en.wikipedia.org/wiki/Marine_One#/media/File:VH-3D_Marine_One_over_Washington_DC_May_2005.jpg" target="_blank">US Marine Corps: HMX-1 Squadron</a></td>
   </tr>
    <tr>
