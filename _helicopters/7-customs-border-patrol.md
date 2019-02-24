@@ -6,8 +6,11 @@ image: /pictures/cbp.png
 ### Aircraft Type
 * [Sikorsky S-76](https://en.wikipedia.org/wiki/Sikorsky_S-76)
 
+### FAA Registry Number 
+* [N159CM](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N159CM)
+
 ### Trackable on Flightradar24 App?
-* Unknown, but likely no
+* Yes - [Website Link](https://www.flightradar24.com/data/aircraft/N159CM)
 
 ### Details
 
