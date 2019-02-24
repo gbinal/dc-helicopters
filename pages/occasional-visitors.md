@@ -28,3 +28,8 @@ Here we'll collect information on helicopters who occasionally fly over DC, but 
   * [Video: CBS - Searching D.C.'s Radiation](https://www.youtube.com/watch?v=dB-zkcuvCd4)
 
 
+## Fairfax County Police
+
+* Aircraft Type: [Bell 429 GlobalRanger](https://en.wikipedia.org/wiki/Bell_429_GlobalRanger)
+* FAA Registry Number: [N211FX](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N211FX)
+* Details: I've only seen this once over DC, but I would guess that it might come to DC on occasion for medevac reasons.  
