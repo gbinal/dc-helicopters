@@ -40,4 +40,4 @@ It's very common to see this helicopter flying to and from the Washington Hospit
 * [Wikipedia - STAT Medevac](https://en.wikipedia.org/wiki/STAT_Medevac)
 
 ### Photo Credits
-* [Twitter - @stat_medevac](https://twitter.com/stat_medevac/status/817390049927036928)
+* [Belvoir hospital teams up with Children’s National for pediatric transport](http://www.fbch.capmed.mil/newsroom/20130819_01.aspx)
