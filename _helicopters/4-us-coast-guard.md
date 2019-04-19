@@ -32,7 +32,7 @@ The specific unit that patrols the [Air Defense Identification Zone](https://en.
 
 ### Viewing Tips 
 
-Anytime you see an orange Coast Guard helicopter over DC, it's from this unit.  They're easily seen taking off and landing from DCA airport as well.  And if you're in Terminal A (Southwest Airlines FTW), they are often on standby outside of the hangers right by Gates 1-3.
+Anytime you see an orange Coast Guard helicopter over DC, it's from this unit.  They're easily seen taking off and landing from DCA airport as well.  And if you're in Terminal A (Southwest Airlines FTW), they are often on standby outside of the hangers right by Gates 2-4.
 
 
 ### Photos 
