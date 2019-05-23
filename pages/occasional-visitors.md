@@ -46,12 +46,12 @@ Here we'll collect information on helicopters who occasionally fly over DC, but 
 * Trackable on Flightradar24 App: Yes - [Link](https://www.flightradar24.com/data/aircraft/N211FX)
 * Details: I've only seen this once over DC, but I would guess that it might come to DC on occasion for medevac reasons.  
 
-## Maryland State Police
+## Prince George County Police Department
 
-* Aircraft Type: [AgustaWestland AW139](https://en.wikipedia.org/wiki/AgustaWestland_AW139)
-* FAA Registry Number: [TRP2](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=TRP2), [TRP17](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=TRP17), and others.
-* Trackable on Flightradar24 App: Yes - [Link](https://www.flightradar24.com/data/aircraft/TRP2), [Link](https://www.flightradar24.com/data/aircraft/TRP17)
-* Details: I see some of these from the Maryland State Police over DC rarely.  I would guess that it might come to DC on occasion for medevac reasons.  
+* Aircraft Type: [MD 500N](https://en.wikipedia.org/wiki/MD_Helicopters_MD_500)
+* FAA Registry Number: [PG1](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=PG1) and others.
+* Trackable on Flightradar24 App: Yes - [Link](https://www.flightradar24.com/data/aircraft/PG1)
+* Details: I've only seen these over DC once or twice, so I don't think they come often.  In part, I think this is because they are not built for medevac.  
 
 * Links
-  * [Maryland State Police Aviation Command](https://mdsp.maryland.gov/Organization/Pages/SupportServicesBureau/AviationCommand.aspx)
+  * [PRINCE GEORGE'S COUNTY POLICE DEPARTMENT TO EXPAND AVIATION SECTION WITH NEW MD 520N](https://mdhelicopters.com/prince-george%E2%80%99s-county-police-department-to-expand-aviation-section-with-new-md-520n.html)
