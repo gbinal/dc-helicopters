@@ -34,8 +34,7 @@ Here we'll collect information on helicopters who occasionally fly over DC, but 
 * Aircraft Type: [Airbus Helicopters H125](https://en.wikipedia.org/wiki/Eurocopter_AS350_%C3%89cureuil)
 * FAA Registry Number: [N6977A](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N6977A)
 * Trackable on Flightradar24 App: Yes - [Link](https://www.flightradar24.com/data/aircraft/N6977A)
-* Details: This helicopter finds itself over a wide range of East Coast cities, including occasionally DC.  I haven't been able to figure out yet which part of DHS it works for or what it's doing over DC though.  
-
+* Details: This helicopter finds itself over a wide range of East Coast cities, including occasionally DC.  This aircraft is a part of Customs and Border Protection.
 * Links 
   * [Twitter: Picture taken of the helicopter while over DC](https://twitter.com/ep_jhu/status/821054741811757057)
 
@@ -44,7 +43,7 @@ Here we'll collect information on helicopters who occasionally fly over DC, but 
 * Aircraft Type: [Bell 429 GlobalRanger](https://en.wikipedia.org/wiki/Bell_429_GlobalRanger)
 * FAA Registry Number: [N211FX](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N211FX)
 * Trackable on Flightradar24 App: Yes - [Link](https://www.flightradar24.com/data/aircraft/N211FX)
-* Details: I've only seen this once over DC, but I would guess that it might come to DC on occasion for medevac reasons.  
+* Details: I've only seen this once over DC, but I would guess that it might come to DC on occasion for medevac reasons. It comes into DC if Virginia police are in pursuit of someone.  
 
 ## Prince George County Police Department
 
