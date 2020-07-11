@@ -11,7 +11,10 @@ An easily recognizable staple of the DC airspace, this unit provides the most re
 * [UH-1N Twin Hueys](https://en.wikipedia.org/wiki/Bell_UH-1N_Twin_Huey)
 
 ### Trackable on Flightradar24 App?
-* Unknown, but likely no.  
+* Unknown, but likely no.
+
+### Trackable on ADS-B Exchange?
+* Some of them, sometimes - [MUSEL14](https://globe.adsbexchange.com/?icao=ae6249), [MUSEL17](https://globe.adsbexchange.com/?icao=ae6250)
 
 ### Details
 
