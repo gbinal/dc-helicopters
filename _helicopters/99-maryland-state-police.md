@@ -19,7 +19,7 @@ The Maryland State Police operate a fleet of helicopters, whose work often bring
 
 ### Details
 
-Maryland State Police operate helicopters throughout the state, mostly for medevac purposes.  While the jurisdiction of the agency would keep them focused on the state of Maryland, they enter the District in order to transport patients to the hospital, usually Washington Hospital Center/Childrens National on North Capitol Street.  There is possibly some split between the two facilities because, in addition to responding to emergency medical scenes, the unit also provides hospital-to-hospital transport for neonatal patients.  
+Maryland State Police operate helicopters throughout the state, mostly for medevac purposes.  While the jurisdiction of the agency would keep them focused on the state of Maryland, they enter the District in order to transport patients to the hospital, usually Washington Hospital Center/Childrens National on North Capitol Street.  There is possibly some split between the two facilities because, in addition to responding to emergency medical scenes, the unit also provides hospital-to-hospital transport for neonatal patients.  At least one of the helicopters is based at Joint Base Andrews.  
 
 ### Photos 
 
