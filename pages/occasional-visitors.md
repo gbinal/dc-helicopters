@@ -16,6 +16,7 @@ Here we'll collect information on helicopters who occasionally fly over DC, but 
 ## National Nuclear Security Administration - Aerial Measuring System
 
 * Aircraft Type: [Bell 412](https://en.wikipedia.org/wiki/Bell_412)
+* Details - Update:  This took place again in 2020.  
 * Details: In 2012-2013, a Department of Energy helicopter operated by the [National Nuclear Security Administration](https://en.wikipedia.org/wiki/National_Nuclear_Security_Administration) flew a systematic grid over Washington DC to detect the background radiation in order to establish a baseline that could be compared against in time of emergency.  The program is known as the Aerial Measuring System.  I recalled seeing it from my office at the time, flying very low and in a tight grid.  The testing flights [continue to take place](https://www.google.com/search?q=%22The+U.S.+Department+of+Energy%E2%80%99s+National+Nuclear+Security+Administration+(DOE%2FNNSA)+will+conduct+low-altitude+helicopter+flights%22+site%3Aenergy.gov) in various US cities and may recur in DC at some point.  
 
 * Links:
@@ -44,14 +45,14 @@ Here we'll collect information on helicopters who occasionally fly over DC, but 
 * Aircraft Type: [Bell 429 GlobalRanger](https://en.wikipedia.org/wiki/Bell_429_GlobalRanger)
 * FAA Registry Number: [N211FX](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N211FX)
 * Trackable on Flightradar24 App: Yes - [Link](https://www.flightradar24.com/data/aircraft/N211FX)
-* Details: I've only seen this once over DC, but I would guess that it might come to DC on occasion for medevac reasons.  
+* Details: I've only seen this once over DC, but I would guess that it might come to DC on occasion for medevac reasons.  It may also need to land at a DC heliport in order to refuel.  
 
 ## Prince George County Police Department
 
 * Aircraft Type: [MD 500N](https://en.wikipedia.org/wiki/MD_Helicopters_MD_500)
 * FAA Registry Number: [PG1](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=PG1) and others.
 * Trackable on Flightradar24 App: Yes - [Link](https://www.flightradar24.com/data/aircraft/PG1)
-* Details: I've only seen these over DC once or twice, so I don't think they come often.  In part, I think this is because they are not built for medevac.  
+* Details: I've only seen these over DC once or twice, so I don't think they come often.  In part, I think this is because they are not built for medevac. It may also need to land at a DC heliport in order to refuel.  
 
 * Links
   * [PRINCE GEORGE'S COUNTY POLICE DEPARTMENT TO EXPAND AVIATION SECTION WITH NEW MD 520N](https://mdhelicopters.com/prince-george%E2%80%99s-county-police-department-to-expand-aviation-section-with-new-md-520n.html)
