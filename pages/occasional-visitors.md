@@ -43,9 +43,9 @@ Here we'll collect information on helicopters who occasionally fly over DC, but 
 ## Fairfax County Police
 
 * Aircraft Type: [Bell 429 GlobalRanger](https://en.wikipedia.org/wiki/Bell_429_GlobalRanger)
-* FAA Registry Number: [N211FX](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N211FX)
-* Trackable on Flightradar24 App: Yes - [Link](https://www.flightradar24.com/data/aircraft/N211FX)
-* Details: I've only seen this once over DC, but I would guess that it might come to DC on occasion for medevac reasons.  It may also need to land at a DC heliport in order to refuel.  
+* FAA Registry Number: [N211FX](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N211FX), [N212FX](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N212FX)
+* Trackable on Flightradar24 App: Yes - [Link](https://www.flightradar24.com/data/aircraft/N211FX), [Link](https://www.flightradar24.com/data/aircraft/N212FX)
+* Details: I've only seen this once over DC, but I would guess that it might come to DC on occasion for medevac reasons.  
 
 ## Prince George County Police Department
 
