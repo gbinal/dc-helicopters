@@ -1,6 +1,6 @@
 ---
 title: 'Maryland State Police'
-image: /pictures/U.S._Park_Police_helicopter.JPG
+image: /pictures/MSP.jpg
 ---
 
 ### Summary
@@ -19,18 +19,25 @@ The Maryland State Police operate a fleet of helicopters, whose work often bring
 
 ### Details
 
-...
+Maryland State Police operate helicopters throughout the state, mostly for medevac purposes.  While the jurisdiction of the agency would keep them focused on the state of Maryland, they enter the District in order to transport patients to the hospital, usually Washington Hospital Center/Childrens National on North Capitol Street.  There is possibly some split between the two facilities because, in addition to responding to emergency medical scenes, the unit also provides hospital-to-hospital transport for neonatal patients.  
 
 ### Photos 
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://helicoptersofdc.com/pictures/U.S._Park_Police_helicopter.JPG" alt="Park Police Helicopter" width="200"></td>
+    <td><img src="https://helicoptersofdc.com/pictures/MSP.jpg" alt="Maryland State Police Helicopter" width="200"></td>
   </tr>
   </table>
 
 ### Links
-...
+
+
+* [Wikipedia - Maryland State Police: Aviation Command](https://en.wikipedia.org/wiki/Maryland_State_Police#Aviation_Command)
+* [Google Images: Maryland State Police Helicopter](https://www.google.com/search?q=maryland+state+police+helicopter)
+* [Facebook - Maryland State Police - Aviation Command](https://www.facebook.com/mspaviation/)
+
+
 
 ### Photo Credits
-...
+
+* [Wikimedia: Keith Allison](https://commons.wikimedia.org/wiki/File:Maryland_State_Police_Helicopter_(36177396184).jpg)
