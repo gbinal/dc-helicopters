@@ -14,7 +14,7 @@ image: /pictures/cbp.png
 
 ### Details
 
-Numerous folks have helped me identify this helicopter as being a Sikorsky S-76 operated by the US Customs and Border Patrol. I'm still researching, but it seems that these help patrol the Washington area and provide security.  How ... I don't really know yet.  Are they armed?  What are they looking for?  Where are they based out of?  These questions are more I'm still working on and will provide more notes here when I find anything.  Let me know if you know any of these details.  
+Numerous folks have helped me identify this helicopter as being a Sikorsky S-76 operated by the US Customs and Border Patrol. I used to think that perhaps it helped patrol the area and generally provide security and had many questions (Are they armed?  What are they looking for?  Where are they based out of?).  But then one person [observed](https://github.com/gbinal/dc-helicopters/issues/41#issue-591309813) something way simpler that sounds about right:  "It’s the DHS Secretary’s transport. Also shared with the Commandant of the Coast Guard. In return, DHS secretary gets to ride in the Commandant’s Gulfstreams."
 
 
 ### Viewing Tips 
