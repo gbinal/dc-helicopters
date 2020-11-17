@@ -33,9 +33,9 @@ Maryland State Police operate helicopters throughout the state, mostly for medev
 
 
 * [Wikipedia - Maryland State Police: Aviation Command](https://en.wikipedia.org/wiki/Maryland_State_Police#Aviation_Command)
-* [Google Images: Maryland State Police Helicopter](https://www.google.com/search?q=maryland+state+police+helicopter)
+* [Maryland State Police Website](https://mdsp.maryland.gov/Organization/Pages/SupportServicesBureau/AviationCommand.aspx)
 * [Facebook - Maryland State Police - Aviation Command](https://www.facebook.com/mspaviation/)
-
+* [Google Images: Maryland State Police Helicopter](https://www.google.com/search?q=maryland+state+police+helicopter)
 
 
 ### Photo Credits
