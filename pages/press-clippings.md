@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: "Press Hits for Twitter.com/helicoptersofdc"
