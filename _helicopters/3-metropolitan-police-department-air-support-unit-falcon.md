@@ -19,6 +19,9 @@ The DC police department's helicopter, this is what you'll sometimes see with a 
 * Yes - [Website Link](https://www.flightradar24.com/data/aircraft/N911AS)
 
 
+### Trackable on ADS-B Exchange?
+* Yes - [N911DC](https://globe.adsbexchange.com/?icao=ac9ab0), [N911AS](https://globe.adsbexchange.com/?icao=ac9a73)
+
 ### Details
 
 Able to operate at day or night, the main missions of this unit is searching for suspects or missing persons, assisting in vehicle pursuits (so that pursuing police cars can more safely maintain the chase), and observing large demonstrations.
