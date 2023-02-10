@@ -8,7 +8,7 @@ image: /pictures/MSP.jpg
 The Maryland State Police operate a fleet of helicopters, whose work often brings them into DC - usually for medevac purposes. 
 
 ### Aircraft Type
-* [AgustaWestland AW139](https://en.wikipedia.org/wiki/AgustaWestland_AW139)
+* [AgustaWestland AW139](https://en.wikipedia.org/wiki/AgustaWestland_AW139) Aircraft count as of 2021 GAO report: 10
 
 ### FAA Registry Number
 * [TRP2](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=TRP2)
@@ -21,6 +21,10 @@ The Maryland State Police operate a fleet of helicopters, whose work often bring
 
 Maryland State Police operate helicopters throughout the state, mostly for medevac purposes.  While the jurisdiction of the agency would keep them focused on the state of Maryland, they enter the District in order to transport patients to the hospital, usually Washington Hospital Center/Childrens National on North Capitol Street.  There is possibly some split between the two facilities because, in addition to responding to emergency medical scenes, the unit also provides hospital-to-hospital transport for neonatal patients.  At least one of the helicopters is based at Joint Base Andrews.  
 
+### Radio Callsign
+
+Trooper
+
 ### Photos 
 
 <table style="width:100%">
@@ -30,8 +34,7 @@ Maryland State Police operate helicopters throughout the state, mostly for medev
   </table>
 
 ### Links
-
-
+* [Maryland State Police in 2021 GAO Washington, D.C. Area Helicopter Noise Report](https://hyp.is/Yg_luBV0Eeyv7pPe9Ox1NA/www.gao.gov/assets/gao-21-200.pdf)
 * [Wikipedia - Maryland State Police: Aviation Command](https://en.wikipedia.org/wiki/Maryland_State_Police#Aviation_Command)
 * [Maryland State Police Website](https://mdsp.maryland.gov/Organization/Pages/SupportServicesBureau/AviationCommand.aspx)
 * [Facebook - Maryland State Police - Aviation Command](https://www.facebook.com/mspaviation/)
