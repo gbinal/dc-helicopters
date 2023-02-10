@@ -8,7 +8,7 @@ image: /pictures/MPD-helicopter.jpg
 The DC police department's helicopter, this is what you'll sometimes see with a spotlight circling over a crime scene at night.
 
 ### Aircraft Type
-* [Eurocopter AS350B3](https://en.wikipedia.org/wiki/Eurocopter_AS350_%C3%89cureuil)
+* [Eurocopter AS350B3](https://en.wikipedia.org/wiki/Eurocopter_AS350_%C3%89cureuil) Aircraft count as of 2021 GAO report: 2
 
 ### FAA Registry Number
 * [N911DC](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N911DC)
@@ -27,6 +27,10 @@ Able to operate at day or night, the main missions of this unit is searching for
 
 If you see a helicopter over DC at night with a spotlight shining down, it's almost certainly this one.  Similarly, if you see a helicopter loitering in a tight circle over one spot, it's often either this one or - if you're downtown or by the mall - the [Park Police helicopter](https://helicoptersofdc.com/helicopters/us-park-police-aviation-unit/).
 
+### Radio Callsign
+
+Falcon (notably this is one helicopter that can be heard on DC Resident Luke Berndt's [OpenMhz DC Citywide Scanner](https://openmhz.com/system/dcfd) )
+
 ### Photos 
 
 <table style="width:100%">
@@ -37,6 +41,7 @@ If you see a helicopter over DC at night with a spotlight shining down, it's alm
   
 
 ### Links
+* [Metropolitan Police Department in 2021 GAO Washington, D.C. Area Helicopter Noise Report](https://hyp.is/ZdT0pBV0EeyEJhekJEWmoQ/www.gao.gov/assets/gao-21-200.pdf)
 * [DC.gov - Air Support Unit (Falcon)](https://mpdc.dc.gov/page/air-support-unit-falcon)
 * [DC Metropolitan Police Collector - MPD Air Support Unit](http://www.dcmetropolicecollector.com/MPD-Air-Support-Unit.html)
 
