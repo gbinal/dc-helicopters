@@ -17,6 +17,8 @@ An easily recognizable staple of the DC airspace, this unit provides the most re
 
 Similar to the [US Army unit](https://helicoptersofdc.com/helicopters/us-army-12th-aviation-battalion/), they stand prepared to evaculate senior government officials from the district in the event of emergency.  
 
+Note that you may occasionally see one of these that is grey instead of blue - this one is the helicopter for the unit's commander.  
+
 ### Viewing Tips 
 
 I'd suggest that these are far and away the most commonly seen but less identified helicopters over DC. They fly across and back, east and west over the city several times every day.  They are easily recognized as the venerable Huey (a Vietnam-era helicopter still in widespread use).  They are painted a strong blue and have a single large white star on their underbelly.  They also have probably the most pronounced 'whop, whop, whop' sound of any of these helicopters, truly lending credence to the idea that helicopters don't fly but rather beat the air into submission.  Once you've noticed it, you'll often be able to identify this helicopter just by the sound of approaching.  
