@@ -8,10 +8,10 @@ image: /pictures/VH-3D_Marine_One_over_Washington_DC_May_2005.jpg
 The most famous and identifiable helicopters over DC, this unit is tasked with Presidential transport and flies Marine One.
 
 ### Aircraft Type
-* [VH-3D Sea King](https://en.wikipedia.org/wiki/Sikorsky_SH-3_Sea_King)
-* [VH-60N Black Hawk](https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk)
-* [MV-22 Ospreys](https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey)
-* [CH-46 Sea Knight](https://en.wikipedia.org/wiki/Boeing_Vertol_CH-46_Sea_Knight#United_States)
+* [VH-3D Sea King](https://en.wikipedia.org/wiki/Sikorsky_SH-3_Sea_King) aircraft count as of 2021 GAO report: 11
+* [VH-60N Black Hawk](https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk) aircraft count as of 2021 GAO report: 8
+* [MV-22 Ospreys](https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey) aircraft count as of 2021 GAO report: 12
+* [VH-92A Patriot](https://en.wikipedia.org/wiki/Sikorsky_VH-92_Patriot)
 
 ### Trackable on Flightradar24 App?
 * No
@@ -44,6 +44,9 @@ One fun note though is when the President is out of town for a lenghty vacation,
 
 5) Taking off and Landing at Joint Base Bolling - Though headquartered at Marine Corps Base Quantico, a number of the helicopters are also deployed immediately south of the White House, at [Joint Base Bolling](https://en.wikipedia.org/wiki/Joint_Base_Anacostia%E2%80%93Bolling) in southwest DC.  Whenever you're at National Airport, if you look across the river, you'll see this airbase.  Specifically, you'll see three huge hangers doors to the left of the base.  When you see activity in that area, it sometimes involve one or more of the helicopters taking off or landing.
 
+### Radio Callsign
+
+Nighthawk
 
 ### Photos 
 
@@ -54,6 +57,7 @@ One fun note though is when the President is out of town for a lenghty vacation,
   </table>
   
 ### Links
+* [Marine Helicopter Squadron One in 2021 GAO Washington, D.C. Area Helicopter Noise Report](https://hyp.is/VhTjgBV0EeyT9T8n_WPwgQ/www.gao.gov/assets/gao-21-200.pdf)
 * [Wikipedia - Marine One](https://en.wikipedia.org/wiki/Marine_One)
 * [Wikipedia - HMX-1](https://en.wikipedia.org/wiki/HMX-1)
 * [Wikipedia - VXX](https://en.wikipedia.org/wiki/VXX)
