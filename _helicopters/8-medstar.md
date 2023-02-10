@@ -8,7 +8,7 @@ image: /pictures/medstar.jpg
 Transporting medical patients around the DC area, the MedSTAR helicopters serve numerous hospitals in the area.  
 
 ### Aircraft Type
-* [Eurocopter EC-135](https://en.wikipedia.org/wiki/Eurocopter_EC135)
+* [Eurocopter EC-135](https://en.wikipedia.org/wiki/Eurocopter_EC135) Aircraft count as of 2021 GAO report: 4
 
 ### FAA Registry Number 
 * [N138MH](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N138MH)
@@ -37,7 +37,7 @@ It's very common to see these helicopters flying to and from the Washington Hosp
 I've only come across one instance of a helicopter crash in DC so far, and it was a [2006 crash](https://www.ntsb.gov/news/press-releases/Pages/Update_on_NTSB_Investigation_of_EMS_Helicopter_Crash_in_Washington_DC.aspx) of a MedSTAR helicopter near the hospital.  
 
 ### Links
-
+* [Medstar helicopters in 2021 GAO Washington, D.C. Area Helicopter Noise Report](https://hyp.is/3QIhiBVzEeyzGzc5BIRhEw/www.gao.gov/assets/gao-21-200.pdf)
 * [MedSTAR Rapid Transportation](https://www.medstarwashington.org/our-services/medstar-heart-vascular-institute/treatments/medstar-rapid-transportation/)
 * [MedSTAR - MedSTAR Transport Helicopter Service Marks 30 Years of Service](https://www.medstarwashington.org/news/2013/07/03/medstar-transport-helicopter-service-marks-30-years-of-service/)
 * [WTOP - MedSTAR Transport: Saving lives in Washington area for 30 years](https://wtop.com/news/2013/07/medstar-transport-saving-lives-in-washington-area-for-30-years/slide/1/)
