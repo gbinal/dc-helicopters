@@ -26,6 +26,11 @@ Some of the heliports within the District of Columbia include:
 
 The [Helicopter Route Chart - Washington/Baltimore](https://aeronav.faa.gov/content/aeronav/heli_files/PDFs/Balt-Wash_Heli_14_P.pdf), published by the FAA, provides a wealth of detail about helicopter activity in and around DC.  
 
+## OSINT Sources
+Washington resident Luke Berndt's [OpenMhz Radio Scanner](https://openmhz.com/system/dcfd)
+[ADSBExchange](http://globe.adsbexchange.com)
+[DCA Helicopter Radio on LiveATC.net](https://www.liveatc.net/hlisten.php?mount=kdca1_twr_heli&icao=kdca)
+
 ## Other Reads
 
 * [WAMU - No, Washingtonians — There Aren’t More Helicopters Flying Since Trump Became President](https://wamu.org/story/17/08/29/no-washingtonians-arent-helicopters-flying-since-trump-became-president/)
