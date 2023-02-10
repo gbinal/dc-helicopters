@@ -4,9 +4,9 @@ title: Helicopters of DC
 published: true
 ---
 
-## An overview of the helicopters flying over Washington, DC
+## A viewing guide to the helicopters flying over Washington, DC
 
-{:.no_toc}
+Be sure to also check out the fantastic CopterSpotter program, which shares live reports of sightings - [Site](https://map.copterspotter.com/) | [Twitter](https://twitter.com/HelicoptersofDC) | [Telegram](https://t.me/s/helicoptersofdc).  More details below.  
 
 #### Commonly Seen
 
