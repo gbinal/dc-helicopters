@@ -23,22 +23,10 @@ published: true
   {% endfor %}
 </table>
 
-#### Unidentified
+#### DC's Community Helicopter Tracking Platform
 
-Can you help figure out who these are?  
-
-
-<table style="width:100%">
-  
-      <tr>
-      <td>
-        <a href="https://helicoptersofdc.com/unidentified#unidentified-helicopter-2">Unidentified Helicopter 2</a>
-      </td>
-      <td>
-        <img src="https://helicoptersofdc.com/pictures/unknown-helicopter-2-1.jpg" alt="unidentified 2" width="200">
-      </td>
-    </tr>
-</table>
+<iframe loading="lazy" src="https://map.copterspotter.com/" title="CopterSpotter" width=600 height=800></iframe>
+Since 2020 Andrew Logan's <a href="https://map.copterspotter.com" target="_blank">CopterSpotter</a> system (@HelicoptersofDC on <a href="https://twitter.com/helicoptersofdc" target="_blank">Twitter</a>/<a href="https://t.me/s/helicoptersofdc" target="_blank">Telegram</a>) has collected over 17,000 user submitted helicopter sightings. In April 2022 they rolled out a computer vision program that gives instant answers to residents wondering "What's that helicopter?" You can browse their dataset above, or hit the "+" to <a href="https://map.copterspotter.com/form">submit a sighting</a>. You can learn more about the project in Andrew's <a href="https://www.youtube.com/watch?v=KYuBf2HpXJg" target="_blank">Def Con Talk</a>.
 
 #### Photo Credits for this page
 
