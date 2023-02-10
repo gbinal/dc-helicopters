@@ -8,7 +8,7 @@ published: true
 
 {:.no_toc}
 
-#### Identified
+#### Commonly Seen
 
 <table style="width:100%">
   {% for helicopter in site.helicopters %}
