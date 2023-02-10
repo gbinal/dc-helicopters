@@ -10,7 +10,7 @@ image: /pictures/1599px-USCG_HH-65C.jpg
 A set of armed Coast Guard helicopters play a role in the air defense of Washington, DC.  If a small, private airplane comes too close, this is what is sent up to identify, make contact, and if necessary shoot it down.
 
 ### Aircraft Type
-* [MH-65C Dolphin](https://en.wikipedia.org/wiki/Eurocopter_HH-65_Dolphin)
+* [MH-65C Dolphin](https://en.wikipedia.org/wiki/Eurocopter_HH-65_Dolphin) aircraft count as of 2021 GAO report: 3
 
 ### Trackable on Flightradar24 App?
 * No.
@@ -34,6 +34,9 @@ The specific unit that patrols the [Air Defense Identification Zone](https://en.
 
 Anytime you see an orange Coast Guard helicopter over DC, it's from this unit.  They're easily seen taking off and landing from DCA airport as well.  And if you're in Terminal A (Southwest Airlines FTW), they are often on standby outside of the hangers right by Gates 2-4.
 
+### Radio Callsign
+
+Blackjack
 
 ### Photos 
 
@@ -43,6 +46,7 @@ Anytime you see an orange Coast Guard helicopter over DC, it's from this unit.  
   </table>
 
 ### Links
+* [Coast Guard in 2021 GAO Washington, D.C. Area Helicopter Noise Report](https://hyp.is/TnbKvBV0EeyakEv60QTstQ/www.gao.gov/assets/gao-21-200.pdf)
 * [Video - ABC7 Segment about the unit and showing a demonstrated interception](https://www.youtube.com/watch?v=6cIk-5t2Bbc&frags=pl%2Cwn)
 * [Wikipedia - Eurocopter HH-65 Dolphin](https://en.wikipedia.org/wiki/Eurocopter_HH-65_Dolphin)
 * [NORAD News - No room for failure - Coast Guard aviators protect D.C., pilots](http://www.norad.mil/Newsroom/Article/578611/no-room-for-failure-coast-guard-aviators-protect-dc-pilots/)
