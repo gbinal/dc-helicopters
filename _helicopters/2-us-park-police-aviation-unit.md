@@ -8,13 +8,14 @@ image: /pictures/U.S._Park_Police_helicopter.JPG
 The US Park Police has jurisdiction over many parts of DC and its aviation unit provides both a police as well as a search and rescue capability for the district as well as the surrounding areas.
 
 ### Aircraft Type
-* [Bell 412EP](https://en.wikipedia.org/wiki/Bell_412)
+* [Bell 412EP](https://en.wikipedia.org/wiki/Bell_412) Aircraft Count as of 2021 GAO report: 2
+* [Bell 206L3](https://en.wikipedia.org/wiki/Bell_206) Aircraft count as of 2021 GAO report: 1
 
 ### FAA Registry Number
 * [N22PP](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N22PP)
 
 ### Trackable on Flightradar24 App?
-* Yes - [Website Link](https://www.flightradar24.com/data/aircraft/N22PP)
+* More often then not - [Website Link](https://www.flightradar24.com/data/aircraft/N22PP)
 
 ### Details
 
@@ -28,6 +29,9 @@ The unit flies out of a heliport in Anacostia Park known as the Eagle's Nest ([m
 
 This unit has participated in numerous rescue and law enforcement encounters, but perhaps one of the most dramatic was in the aftermath of the [1982 crash of Air Florida Flight 90](https://en.wikipedia.org/wiki/Air_Florida_Flight_90). The passenger airplane stalled and crashed shortly after takeoff from the National Airport, landing moments later in the frozen Potomac River.  A confluence of tragic coincidences resulted a Park Police helicopter and nearby motorists being the source of rescue for the five survivors of the crash.
 
+### Radio Callsign
+
+Eagle
 
 ### Photos 
 
@@ -38,6 +42,7 @@ This unit has participated in numerous rescue and law enforcement encounters, bu
   </table>
 
 ### Links
+* [Park Police in 2021 GAO Washington, D.C. Area Helicopter Noise Report](https://hyp.is/OOGKyhV0Eeyy1atL5NjPww/www.gao.gov/assets/gao-21-200.pdf)
 * [National Park Service - Aviation Unit](https://www.nps.gov/subjects/uspp/aviation-unit.htm)
 * [Wikipedia - United States Park Police: Aviation](https://en.wikipedia.org/wiki/United_States_Park_Police#Aviation)
 * [National Parks Traveler - Elite National Park Service Helicopter Unit Marks Forty Years Of Service](https://www.nationalparkstraveler.org/2013/09/elite-national-park-service-helicopter-unit-marks-forty-years-service23970)
