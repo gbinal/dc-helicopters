@@ -4,13 +4,14 @@ image: /pictures/cbp.png
 ---
 
 ### Aircraft Type
-* [Sikorsky S-76](https://en.wikipedia.org/wiki/Sikorsky_S-76)
+* [Sikorsky S-76](https://www.cbp.gov/sites/default/files/assets/documents/2021-Aug/S-76_506%20compliant.pdf)
+* [Eurocopter AS-350] (https://www.cbp.gov/sites/default/files/documents/FS_2015_AS350%20A-Star_0.pdf)
 
 ### FAA Registry Number 
 * [N159CM](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N159CM)
 
 ### Trackable on Flightradar24 App?
-* Yes - [Website Link](https://www.flightradar24.com/data/aircraft/N159CM)
+* Sometimes - [Website Link](https://www.flightradar24.com/data/aircraft/N159CM)
 
 ### Details
 
@@ -21,6 +22,9 @@ Numerous folks have helped me identify this helicopter as being a Sikorsky S-76 
 
 I've only seen this helicopter over DC a few times, so I can't speak very much to viewing tips yet. 
 
+### Radio Callsign
+
+Troy (formerly Omaha)
 
 ### Photos 
 
@@ -30,6 +34,7 @@ I've only seen this helicopter over DC a few times, so I can't speak very much t
   </table>
 
 ### Links
+* [Customs and Border Patrol in 2021 GAO Washington, D.C. Area Helicopter Noise Report](https://hyp.is/Aw4B2hV0Eeyv6MMddRThvQ/www.gao.gov/assets/gao-21-200.pdf)
 * [Customs and Border Patrol: Fact Sheet](https://www.cbp.gov/sites/default/files/documents/FS_2015_Sikorsky%20S-76_FINAL.pdf)
 * [Customs and Border Patrol: Air and Marine Operations Assets](https://www.cbp.gov/border-security/air-sea/aircraft-and-marine-vessels)
 * [Feedback When This Was Listed As Unidentified](https://github.com/gbinal/dc-helicopters/issues/2)
