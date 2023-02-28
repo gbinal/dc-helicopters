@@ -34,7 +34,7 @@ It's very common to see these helicopters flying to and from the Washington Hosp
 
 ### Notable Incidents 
 
-I've only come across one instance of a helicopter crash in DC so far, and it was a [2006 crash](https://www.ntsb.gov/news/press-releases/Pages/Update_on_NTSB_Investigation_of_EMS_Helicopter_Crash_in_Washington_DC.aspx) of a MedSTAR helicopter near the hospital.  
+I've only come across one instance of a helicopter crash in DC so far, and it was a 2006 crash of a MedSTAR helicopter near the hospital.  
 
 ### Links
 * [Medstar helicopters in 2021 GAO Washington, D.C. Area Helicopter Noise Report](https://hyp.is/3QIhiBVzEeyzGzc5BIRhEw/www.gao.gov/assets/gao-21-200.pdf)
