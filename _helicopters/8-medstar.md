@@ -12,6 +12,7 @@ Transporting medical patients around the DC area, the MedSTAR helicopters serve 
 
 ### FAA Registry Number 
 * [N138MH](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N138MH)
+* N740MH
 
 ### Trackable on Flightradar24 App?
 * Yes - [Website Link](https://www.flightradar24.com/data/aircraft/n138mh)
