@@ -6,7 +6,7 @@ published: true
 
 ## A viewing guide to the helicopters flying over Washington, DC
 
-<p>Be sure to also check out the fantastic <a href="https://map.copterspotter.com/" target="_blank">CopterSpotter program</a> (<a href="https://twitter.com/HelicoptersofDC" target="_blank">Twitter</a> | <a href="https://t.me/s/helicoptersofdc" target="_blank">Telegram</a>|<a href="http://2022.copterspotter.com" target="_blank">Annual Report</a>), which shares live reports of sightings. More details below. </p> 
+<p>Be sure to also check out the fantastic <a href="https://map.copterspotter.com/" target="_blank">CopterSpotter program</a> (<a href="https://twitter.com/HelicoptersofDC" target="_blank">Twitter</a> | <a href="https://t.me/s/helicoptersofdc" target="_blank">Telegram</a>|<a href="https://copterspotter2023.mystrikingly.com/" target="_blank">Annual Report</a>), which shares live reports of sightings. More details below. </p> 
 
 #### Commonly Seen
 
@@ -26,7 +26,7 @@ published: true
 #### DC's Community Helicopter Tracking Platform
 
 <iframe loading="lazy" src="https://map.copterspotter.com/" title="CopterSpotter" style="width:100%" height=800></iframe>
-Since 2020 Andrew Logan's <a href="https://map.copterspotter.com" target="_blank">CopterSpotter</a> system (@HelicoptersofDC on <a href="https://twitter.com/helicoptersofdc" target="_blank">Twitter</a>/<a href="https://t.me/s/helicoptersofdc" target="_blank">Telegram</a>) has collected over 17,000 user submitted helicopter sightings. In April 2022 they rolled out a computer vision program that gives instant answers to residents wondering "What's that helicopter?" You can browse their dataset above, or hit the "+" to <a href="https://map.copterspotter.com/form">submit a sighting</a>. You can learn more about the project in Andrew's <a href="https://www.youtube.com/watch?v=KYuBf2HpXJg" target="_blank">Def Con Talk</a>.
+Since 2020 Andrew Logan's <a href="https://map.copterspotter.com" target="_blank">CopterSpotter</a> system (@HelicoptersofDC on <a href="https://twitter.com/helicoptersofdc" target="_blank">Twitter</a>/<a href="https://t.me/s/helicoptersofdc" target="_blank">Telegram</a>) has collected over 17,000 user submitted helicopter sightings. In April 2022 they rolled out a computer vision program that gives instant answers to residents wondering "What's that helicopter?" You can browse their dataset above, or hit the "+" to <a href="https://map.copterspotter.com/form">submit a sighting</a>. Check out his [amazing annual reports](https://www.google.com/search?q=site%3Acopterspotter.com) to learn much more.  You can learn more about the project in Andrew's <a href="https://www.youtube.com/watch?v=KYuBf2HpXJg" target="_blank">Def Con Talk</a>.
 
 #### Photo Credits for this page
 
