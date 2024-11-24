@@ -8,7 +8,7 @@ image: /pictures/MPD-helicopter.jpg
 The DC police department's helicopter, this is what you'll sometimes see with a spotlight circling over a crime scene at night.
 
 ### Aircraft Type
-* [Eurocopter AS350B3](https://en.wikipedia.org/wiki/Eurocopter_AS350_%C3%89cureuil) Aircraft count as of 2021 GAO report: 2
+* [Eurocopter AS350B3](https://en.wikipedia.org/wiki/Eurocopter_AS350_%C3%89cureuil) (aka AS50) Aircraft count as of 2021 GAO report: 2
 
 ### FAA Registry Number
 * [N911DC](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N911DC)
