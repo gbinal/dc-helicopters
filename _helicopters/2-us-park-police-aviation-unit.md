@@ -12,10 +12,11 @@ The US Park Police has jurisdiction over many parts of DC and its aviation unit 
 * [Bell 206L3](https://en.wikipedia.org/wiki/Bell_206) Aircraft count as of 2021 GAO report: 1
 
 ### FAA Registry Number
+* N11PP
 * [N22PP](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N22PP)
 
 ### Trackable on Flightradar24 App?
-* More often then not - [Website Link](https://www.flightradar24.com/data/aircraft/N22PP)
+* Yes - [Website Link](https://www.flightradar24.com/data/aircraft/N22PP), [Link](https://www.flightradar24.com/data/aircraft/n11pp))
 
 ### Details
 
