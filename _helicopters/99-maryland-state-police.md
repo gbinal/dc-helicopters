@@ -10,12 +10,16 @@ The Maryland State Police operate a fleet of helicopters, whose work often bring
 ### Aircraft Type
 * [AgustaWestland AW139](https://en.wikipedia.org/wiki/AgustaWestland_AW139) Aircraft count as of 2021 GAO report: 10
 
-### FAA Registry Number
-* [TRP2](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=TRP2)
+### Call Signs
+* TRP2
 * TRP3
 * TRP6
 * TRP7
-* [TRP17](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=TRP17)
+* TRP17
+
+### FAA Registry (Tail Number)
+- [N390MD](https://www.flightradar24.com/data/aircraft/n390md)
+- [N382MD](https://www.flightradar24.com/data/aircraft/n382md)
 
 ### Trackable on Flightradar24 App?
 * Yes - [Website Link](https://www.flightradar24.com/data/aircraft/TRP2), [Link](https://www.flightradar24.com/data/aircraft/TRP17)
