@@ -4,6 +4,10 @@ title: "Related information"
 permalink: /related-information/
 ---
 
+## Andrew Logan's @HelicoptersofDC / CopterSpotter Efforts
+
+I can't recommend enough the wealth of information and material that Andrew is publishing with his CopterSpotter efforts. Check out his [amazing annual reports](https://www.google.com/search?q=site%3Acopterspotter.com) to learn much more.  You can also learn about the project in Andrew's <a href="https://www.youtube.com/watch?v=KYuBf2HpXJg" target="_blank">Def Con Talk</a>.
+
 
 ## Heliports 
 
