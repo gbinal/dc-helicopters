@@ -12,6 +12,9 @@ The Maryland State Police operate a fleet of helicopters, whose work often bring
 
 ### FAA Registry Number
 * [TRP2](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=TRP2)
+* TRP3
+* TRP6
+* TRP7
 * [TRP17](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=TRP17)
 
 ### Trackable on Flightradar24 App?
