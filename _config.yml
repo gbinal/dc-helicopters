@@ -50,6 +50,9 @@ navigation:
 - text: Occasional Visitors
   url: /occasional-visitors/
   internal: true
+- text: Notable Incidents
+  url: /notable-incidents/
+  internal: true
 - text: Live Map (CopterSpotter)
   url: https://map.copterspotter.com/
   internal: false
