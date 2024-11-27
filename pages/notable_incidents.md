@@ -55,6 +55,22 @@ Links:
 
 ## Controversial Incidents
 
+#### 2019 Reflecting Pool Incident
 
 The unit also participated in a controversial and arguably dangerous police action in February, 2019 when it hovered very low off of the ground to throw up snow and scare off people who were ice skating on the frozen reflecting pool on the National Mall.
+
+Links: 
+- "[VERIFY: Yes, U.S. Park Police used a helicopter to chase ice hockey players off a frozen over Reflecting Pool](https://www.wusa9.com/article/news/verify-yes-us-park-police-used-a-helicopter-to-chase-ice-hockey-players-off-a-frozen-over-reflecting-pool/65-3b699d02-bd70-46d7-9d26-06944b2dbd03)" - WUSA9
+
+
+#### 2020 BLM Protests Incident
+
+In April 2020, amid national outrage at the killing of George Floyd, [substantial protests took place in Washington, DC](https://en.wikipedia.org/wiki/George_Floyd_protests_in_Washington,_D.C.).  The president made of point of directing law enforcement and the military that he desired a substantial show of force in response.  At one point, two DC National Guard helicopters performed a dangerous maneuver intended to disperse protesters, hovering at just roughly 50' over the crowds and resulting in tremendous winds.  
+
+
+- "[Military Helicopters Descended on Protesters in Washington DC...](https://www.washingtonpost.com/graphics/2020/investigations/helicopter-protests-washington-dc-national-guard/)" - Washington Post
+- "[D.C. Guard misused helicopters in low-flying confrontation with George Floyd protesters, Army concludes](https://www.washingtonpost.com/national-security/2021/04/15/dc-guard-helicopter-george-floyd-protest/)" - Washington Post
+- "[Pentagon watchdog finds National Guard’s use of helicopters to fly over DC protestors ‘reasonable,’ but mired in confusion](https://www.cnn.com/2021/05/28/politics/pentagon-national-guard-helicopter-dc-protests/index.html)" - CNN
+
+
 
