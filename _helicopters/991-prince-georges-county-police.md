@@ -1,5 +1,5 @@
 ---
-title: 'Prince George's County Police'
+title: 'Prince Georges County Police'
 image: /pictures/PG_County_Police.jpg
 ---
 
