@@ -37,6 +37,7 @@ PAT: Priority Air Transport
   </table>
 
 ### Links
+* [@helicoptersofdc video - Army 12th Aviation Battalion's Black Hawk](https://www.youtube.com/watch?v=SPpxEd7kkG8)
 * [12th Aviation Battalion in 2021 GAO Washington, D.C. Area Helicopter Noise Report](https://hyp.is/QfNJ0hV0EeyoamPceI993Q/www.gao.gov/assets/gao-21-200.pdf)
 * [Foxtrot Alpha - These Elite Military Helicopter Units Fly Washington's Power Players](https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996)
 * [Rotar and Wing Interational - Army 12th: Flying the Brass](https://www.rotorandwing.com/2012/04/01/army-12th-flying-the-brass/)
