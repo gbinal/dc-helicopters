@@ -73,4 +73,18 @@ In April 2020, amid national outrage at the killing of George Floyd, [substantia
 - "[Pentagon watchdog finds National Guard’s use of helicopters to fly over DC protestors ‘reasonable,’ but mired in confusion](https://www.cnn.com/2021/05/28/politics/pentagon-national-guard-helicopter-dc-protests/index.html)" - CNN
 
 
+## Security Breaches
+
+#### 1974 White House Incident 
+
+In maybe the weirdest helicopter incident in DC history, [a disgruntled Army private stole a UH-1 Huey](https://en.wikipedia.org/wiki/1974_White_House_helicopter_incident) from a military airfield near Ft. Meade, MD.  He flew it to a variety of locations in Maryland and DC, eventually hovering near the Lincoln and Washington Monuments and then hovered over the South Lawn of the White House.  He subsequently flew elsewhere, pursued by other helicopters and police cars, but then returned to the White House with 'plans to surrender to President Nixon' (none of the first family was at the White House at the time).  This second time he neared the South Lawn, the Secret Service opened fire on him, shooting roughly 300 bullets at the helicopter.  The soldier was struck several times and lightly wounded and went ahead and landed the aircraft, whereupon he was arrested and taken to the hospital for care.  The soldier was apparently disgruntled after being passed over for the role of helicopter pilot and wanted to illustrate his skills.  He was court-martialed, served a brief term in prison, and received a general discharge.   
+
+
+#### 2015 Gyrocopter Incident 
+
+Though a [gyrocopter](https://en.wikipedia.org/wiki/Autogyro) is not a helicopter, it seems to me to be close enough to warrant inclusion here.  :)  In 2015, a postal worker flew 70 miles from Maryland into Washington DC on a gyrocopter, [landing on the west lawn of the US Capitol](https://en.wikipedia.org/wiki/Doug_Hughes_(activist)) with 535 letters, one for each member of Congress.  He sought to protest government dysfunction and both notified outlets of his plans and recorded and shared video of his entire flight.  He was arrested and fired from the US Postal Service, and though many pointed out that it was a dangerous act of civil disobedience, others also noted it as another lapse in the security of the restriced airspace over the city.  
+
+
+
+
 
