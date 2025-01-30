@@ -12,7 +12,7 @@ Known as the Gold Tops (in contrast to the HMX-1 White Tops), the unit provides 
 * [VH-60 Black Hawk](https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk)
 
 ### Trackable on Flightradar24 App?
-* Unknown, but likely no.  
+* No.
 
 ### Details
 
@@ -23,6 +23,8 @@ Based out of Davison Army Airfield at Fort Belvoir, this unit play a number of o
 These helicopters are not as common in the skies over DC, but are still a somewhat regular sight flying over the rivers and to and from the Pentagon.
 
 ### Notable Incidents 
+
+In 2025, a VH-60 Black Hawk from this unit [collided in mid-air](https://en.wikipedia.org/wiki/2025_Potomac_River_mid-air_collision) with a commercial aircraft that was on approach to Reagan National Airport. Both aircraft crashed into the Potomac River, killing all 64 people aboard the commercial flight and 3 aboard the helicopter.  
 
 In 2014, the unit held an unusual exercise where 24 helicopters flew over DC.  I didn't see it at the time, which was for the best best, because I for one would have 100% read that as _'Ummm...  something's going on and we've got 25 minutes'_.  The video (linked below) is well worth a watch.
 
