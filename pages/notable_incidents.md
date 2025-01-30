@@ -7,10 +7,7 @@ permalink: /notable-incidents/
 
 ## Fatal Crashes 
 
-Over the years, [there have been 13 helicopter crashes in the District of Columbia](https://www.ntsb.gov/Pages/ResultsV2.aspx?queryId=86228b01-f46f-41c4-b499-199473a615b2) most recently in 2006.  3 of the 13 resulted in fatalities.  
-
-
-
+Over the years, [there have been 14 helicopter crashes in the District of Columbia](https://www.ntsb.gov/Pages/ResultsV2.aspx?queryId=86228b01-f46f-41c4-b499-199473a615b2) most recently in 2025.  4 of the 13 resulted in fatalities.  
 
 #### MPD Crash - June 5, 1979
 
@@ -34,7 +31,7 @@ Links:
 
 #### Medevac Flight - May 30, 2006
 
-The third and most recent fatal helicopter crash in DC took place in 2006 near [Washington Hospital Center](https://en.wikipedia.org/wiki/MedStar_Washington_Hospital_Center).  A patient from what was then Greater Southeast Community Hospital in southeast DC (now [United Medical Center](https://en.wikipedia.org/wiki/United_Medical_Center)) was in "extremely critical" condition and needed to be transported to the larger Irving Street hospital.  The pilot attempted several times to land at the helipads [on the far western side of the campus](https://maps.app.goo.gl/ajrnHeVnwjfHYiec9).  After facing difficulties, an earlier pilot error resulted in a situation that made the helicopter increasingly hard to control. As he lost control, the pilot purposefully maneuvered so as to land in the nearby golf course [in the southwest corner](https://maps.app.goo.gl/EjhKxKkqHKip1h1i8) of the Armed Forces Retirement Home rather than several closer but possibly more populated areas.  The pilot and 2 other crew survived the landing with relatively minor injuries, but the patient - who was already in very bad shape - suffered from the crash and delay in car while he was being removed from the crash site and driven to the nearby hospital and would eventually sucumb.  
+The third and most recent fatal helicopter crash in DC took place in 2006 near [Washington Hospital Center](https://en.wikipedia.org/wiki/MedStar_Washington_Hospital_Center).  A patient from what was then Greater Southeast Community Hospital in southeast DC (now [United Medical Center](https://en.wikipedia.org/wiki/United_Medical_Center)) was in "extremely critical" condition and needed to be transported to the larger Irving Street hospital.  The pilot attempted several times to land at the helipads [on the far western side of the campus](https://maps.app.goo.gl/ajrnHeVnwjfHYiec9).  After facing difficulties, an earlier pilot error resulted in a situation that made the helicopter increasingly hard to control. As he lost control, the pilot purposefully maneuvered so as to land in the nearby golf course [in the southwest corner](https://maps.app.goo.gl/EjhKxKkqHKip1h1i8) of the Armed Forces Retirement Home rather than several closer but possibly more populated areas.  The pilot and 2 other crew survived the landing with relatively minor injuries, but the patient - who was already in very bad shape - suffered from the crash and delay in car while he was being removed from the crash site and driven to the nearby hospital and would eventually succumb.  
 
 Links: 
 - "[Helicopter Crashes in NW D.C.](https://www.washingtonpost.com/archive/local/2006/05/31/helicopter-crashes-in-nw-dc-span-classbankheadpatient-3-in-crew-hurt-flying-to-washington-hospital-centerspan/768e618b-cb88-4681-a95e-ccb3230ab8c4/)" - Washington Post
@@ -43,6 +40,10 @@ Links:
 - [NTSB Accident Report](https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/63798/pdf)
 - [NTSB Accident Docket](https://data.ntsb.gov/Docket?ProjectID=63798)
 
+
+#### Potomac River Mid-Air Collision - January 29, 2025  
+
+In 2025, a VH-60 Black Hawk from this unit collided in mid-air with a commercial aircraft that was on approach to Reagan National Airport. Both aircraft crashed into the Potomac River, killing all 64 people aboard the commercial flight and 3 aboard the helicopter.  This was the first commercial airliner to crash in the United States since 2009.  
 
 ## Rescues
 
