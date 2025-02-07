@@ -43,7 +43,7 @@ Links:
 
 #### Potomac River Mid-Air Collision - January 29, 2025  
 
-In 2025, a VH-60 Black Hawk from this unit collided in mid-air with a commercial aircraft that was on approach to Reagan National Airport. Both aircraft crashed into the Potomac River, killing all 64 people aboard the commercial flight and 3 aboard the helicopter.  This was the first commercial airliner to crash in the United States since 2009.  
+In 2025, a UH-60 Black Hawk from this unit collided in mid-air with a commercial aircraft that was on approach to Reagan National Airport. Both aircraft crashed into the Potomac River, killing all 64 people aboard the commercial flight and 3 aboard the helicopter.  This was the first commercial airliner to crash in the United States since 2009.  
 
 ## Rescues
 
