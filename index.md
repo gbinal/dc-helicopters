@@ -6,7 +6,7 @@ published: true
 
 ## A viewing guide to the helicopters flying over Washington, DC
 
-<p>Be sure to also check out the fantastic <a href="https://map.copterspotter.com/" target="_blank">CopterSpotter program</a> (<a href="https://twitter.com/HelicoptersofDC" target="_blank">Twitter</a> | <a href="https://t.me/s/helicoptersofdc" target="_blank">Telegram</a>|<a href="https://copterspotter2023.mystrikingly.com/" target="_blank">Annual Report</a>), which shares live reports of sightings. More details below. </p> 
+<p>Be sure to also check out the fantastic <a href="https://map.copterspotter.com/" target="_blank">CopterSpotter program</a> (<a href="https://twitter.com/HelicoptersofDC" target="_blank">Twitter</a> | <a href="https://t.me/s/helicoptersofdc" target="_blank">Telegram</a> | <a href="https://copterspotter2023.mystrikingly.com/" target="_blank">Annual Report</a>), which shares live reports of sightings. More details below. </p> 
 
 #### Commonly Seen
 
