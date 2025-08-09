@@ -11,7 +11,7 @@ Over the years, [there have been 14 helicopter crashes in the District of Columb
 
 #### MPD Crash - June 5, 1979
 
-The first fatal helicopter crash in the District of Columbia took place on a Tuesday afternoon in Southeast DC.  A Bell 47 helicopter (a model familiar to some from the opening credits of M*A*S*H) carried two DC police officers who were flying low, in support of police on the ground who were seemingly chasing a burgler.  The helicopter was flying at a low altitude when the pilot may have failed to follow procedure or maintain attention, and lost control.  After hitting powerlines and crashing to the ground on the [700 block of Yuma St SE](https://maps.app.goo.gl/p1z12LGPc6CekQ4w8), near what was then an elementary school and now is Washington Highland Recreation Center, the helicopter burst into flame.  Despite efforts of passersby who came to the officers' aid, neither survived.  
+The first fatal helicopter crash in the District of Columbia took place on a Tuesday afternoon in Southeast DC.  A Bell 47 helicopter (a model familiar to some from the opening credits of M*A*S*H) carried two DC police officers who were flying low, in support of police on the ground who were seemingly chasing a burglar.  The helicopter was flying at a low altitude when the pilot may have failed to follow procedure or maintain attention, and lost control.  After hitting powerlines and crashing to the ground on the [700 block of Yuma St SE](https://maps.app.goo.gl/p1z12LGPc6CekQ4w8), near what was then an elementary school and now is Washington Highland Recreation Center, the helicopter burst into flame.  Despite efforts of passersby who came to the officers' aid, neither survived.  
 
 Links: 
 - "[Helicopter Crash Kills Two Policemen](https://www.washingtonpost.com/archive/local/1979/06/07/helicopter-crash-kills-two-policemen/b5b8137a-a6a5-46d5-9737-2664714dbcda/)" - Washington Post
@@ -83,7 +83,7 @@ In maybe the weirdest helicopter incident in DC history, [a disgruntled Army pri
 
 #### 2015 Gyrocopter Incident 
 
-Though a [gyrocopter](https://en.wikipedia.org/wiki/Autogyro) is not a helicopter, it seems to me to be close enough to warrant inclusion here.  :)  In 2015, a postal worker flew 70 miles from Maryland into Washington DC on a gyrocopter, [landing on the west lawn of the US Capitol](https://en.wikipedia.org/wiki/Doug_Hughes_(activist)) with 535 letters, one for each member of Congress.  He sought to protest government dysfunction and both notified outlets of his plans and recorded and shared video of his entire flight.  He was arrested and fired from the US Postal Service, and though many pointed out that it was a dangerous act of civil disobedience, others also noted it as another lapse in the security of the restriced airspace over the city.  
+Though a [gyrocopter](https://en.wikipedia.org/wiki/Autogyro) is not a helicopter, it seems to me to be close enough to warrant inclusion here.  :)  In 2015, a postal worker flew 70 miles from Maryland into Washington DC on a gyrocopter, [landing on the west lawn of the US Capitol](https://en.wikipedia.org/wiki/Doug_Hughes_(activist)) with 535 letters, one for each member of Congress.  He sought to protest government dysfunction and both notified outlets of his plans and recorded and shared video of his entire flight.  He was arrested and fired from the US Postal Service, and though many pointed out that it was a dangerous act of civil disobedience, others also noted it as another lapse in the security of the restricted airspace over the city.  
 
 
 

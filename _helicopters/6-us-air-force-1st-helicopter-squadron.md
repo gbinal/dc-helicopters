@@ -15,7 +15,7 @@ An easily recognizable staple of the DC airspace, this unit provides the most re
 
 ### Details
 
-Similar to the [US Army unit](https://helicoptersofdc.com/helicopters/us-army-12th-aviation-battalion/), they stand prepared to evaculate senior government officials from the district in the event of emergency.  
+Similar to the [US Army unit](https://helicoptersofdc.com/helicopters/us-army-12th-aviation-battalion/), they stand prepared to evacuate senior government officials from the district in the event of emergency.  
 
 Note that you may occasionally see one of these that is grey instead of blue - this one is the helicopter for the unit's commander.  
 

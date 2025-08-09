@@ -42,7 +42,7 @@ PAT: Priority Air Transport
 * [@helicoptersofdc video - Army 12th Aviation Battalion's Black Hawk](https://www.youtube.com/watch?v=SPpxEd7kkG8)
 * [12th Aviation Battalion in 2021 GAO Washington, D.C. Area Helicopter Noise Report](https://hyp.is/QfNJ0hV0EeyoamPceI993Q/www.gao.gov/assets/gao-21-200.pdf)
 * [Foxtrot Alpha - These Elite Military Helicopter Units Fly Washington's Power Players](https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996)
-* [Rotar and Wing Interational - Army 12th: Flying the Brass](https://www.rotorandwing.com/2012/04/01/army-12th-flying-the-brass/)
+* [Rotar and Wing International - Army 12th: Flying the Brass](https://www.rotorandwing.com/2012/04/01/army-12th-flying-the-brass/)
 * [GlobalSecurity.com - 12th Aviation Battalion](https://www.globalsecurity.org/military/agency/army/12avn-bn.htm)
 * [Army.mil - The Army Aviation Brigade: 12th Aviation Battalion](https://www.taab.mdw.army.mil/12th-aviation-battalion)
 * [Video](https://www.youtube.com/watch?v=1LOHoxyyVjg) and [Press Release](https://www.army.mil/article/127767/davison_army_airfield_hosts_mass_helicopter_exercise) about the 2014 Exercise.
