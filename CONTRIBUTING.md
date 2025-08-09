@@ -1,6 +1,6 @@
 Thanks for contributing! There are two ways:
  - The Prose.io model (more for content contributions)
- - The defacto fork-and-pull model (content *and* technical contributions)
+ - The de facto fork-and-pull model (content *and* technical contributions)
 
 
 #### The Prose.io model

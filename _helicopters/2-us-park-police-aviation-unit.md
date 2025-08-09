@@ -20,13 +20,13 @@ The US Park Police has jurisdiction over many parts of DC and its aviation unit 
 
 ### Details
 
-The Aviation Unit of the US Park Police plays a role to many law enforcement and first responder roles due in large part to the overlapping jurisdictions of downtown DC.  Much of the federal property in the area is managed by the National Park Service, justifying the active participation of the Park Police in a wide range of nearby emergencies.  
+The Aviation Unit of the US Park Police plays a role to many law enforcement and first responders roles due in large part to the overlapping jurisdictions of downtown DC.  Much of the federal property in the area is managed by the National Park Service, justifying the active participation of the Park Police in a wide range of nearby emergencies.  
 
 The unit also provides overhead reconnaissance ahead of the President's motorcade.  
 
 ### Viewing Tips 
 
-The unit flies out of a heliport in Anacostia Park known as the Eagle's Nest ([map](https://goo.gl/maps/Pg64vj1kg552)).  It is often patroling around the National Mall, downtown DC, or over Capitol Hill.  
+The unit flies out of a heliport in Anacostia Park known as the Eagle's Nest ([map](https://goo.gl/maps/Pg64vj1kg552)).  The unit is often patrolling around the National Mall, downtown DC, or over Capitol Hill.  
 
 ### Notable Incidents 
 
