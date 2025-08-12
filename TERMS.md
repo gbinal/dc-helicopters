@@ -14,8 +14,6 @@ partially copyrighted, partially public domain, and as a whole is protected by
 the copyrights of the non-government authors and must be released according to
 the terms of the original open-source license.
 
-For further details, please see the CFPB [Source Code Policy][policy].
-
 
 ## CC0 1.0 Universal Summary
 
@@ -43,7 +41,7 @@ all uses of the work, to the fullest extent permitted by applicable law.
 When using or citing the work, you should not imply endorsement by the
 author or the affirmer.
 
-[policy]: http://github.com/cfpb/source-code-policy/
+
 [CC0]: http://creativecommons.org/publicdomain/zero/1.0/legalcode
 
 ## This project makes use of:
