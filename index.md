@@ -33,7 +33,7 @@ Since 2020, Andrew Logan's <a href="https://map.copterspotter.com" target="_blan
 
  <table style="width:100%">
   <tr>
-    <td><a href="https://www.flickr.com/photos//20295326276/in/photostream/" target="_blank">Washington Hospital Center: MedSTAR</a></td>
+    <td><a href="https://www.flickr.com/photos/gbucello4/20295326276/in/photostream/" target="_blank">Washington Hospital Center: MedSTAR</a></td>
     <td><a href="https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996" target="_blank">US Army: 12th Aviation Battalion</a></td>
   </tr>
    <tr>
