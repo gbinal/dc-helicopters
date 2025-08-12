@@ -1,0 +1,2402 @@
+{
+  "summary": {
+    "total_links": 284,
+    "working": 10,
+    "network_restricted": 38,
+    "truly_broken": 236
+  },
+  "broken_links": [
+    {
+      "file": "TERMS.md",
+      "line": 46,
+      "url": "http://github.com/cfpb/source-code-policy/",
+      "text": "",
+      "type": "direct",
+      "status_code": 403,
+      "error": null
+    },
+    {
+      "file": "CONTRIBUTING.md",
+      "line": 8,
+      "url": "http://if.io/open-source-program-template/",
+      "text": "",
+      "type": "direct",
+      "status_code": null,
+      "error": "HTTPConnectionPool(host='if.io', port=80): Max retries exceeded with url: /open-source-program-template/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x7ff814f1f740>: Failed to resolve 'if.io' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "index.md",
+      "line": 29,
+      "url": "https://www.google.com/search?q=site%3Acopterspotter.com",
+      "text": "amazing annual reports",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=site%3Acopterspotter.com (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc41a0>: Failed to resolve 'www.google.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "index.md",
+      "line": 9,
+      "url": "https://twitter.com/HelicoptersofDC",
+      "text": "",
+      "type": "html",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /HelicoptersofDC (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc5040>: Failed to resolve 'twitter.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "index.md",
+      "line": 9,
+      "url": "https://t.me/s/helicoptersofdc",
+      "text": "",
+      "type": "html",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='t.me', port=443): Max retries exceeded with url: /s/helicoptersofdc (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc57f0>: Failed to resolve 't.me' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "index.md",
+      "line": 9,
+      "url": "https://copterspotter2023.mystrikingly.com/",
+      "text": "",
+      "type": "html",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='copterspotter2023.mystrikingly.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1fa70>: Failed to resolve 'copterspotter2023.mystrikingly.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "index.md",
+      "line": 29,
+      "url": "https://twitter.com/helicoptersofdc",
+      "text": "",
+      "type": "html",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /helicoptersofdc (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1eae0>: Failed to resolve 'twitter.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "index.md",
+      "line": 9,
+      "url": "https://t.me/s/helicoptersofdc",
+      "text": "",
+      "type": "html",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='t.me', port=443): Max retries exceeded with url: /s/helicoptersofdc (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc57f0>: Failed to resolve 't.me' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "index.md",
+      "line": 29,
+      "url": "https://www.youtube.com/watch?v=KYuBf2HpXJg",
+      "text": "",
+      "type": "html",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=KYuBf2HpXJg (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4980>: Failed to resolve 'www.youtube.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "index.md",
+      "line": 36,
+      "url": "https://www.flickr.com/photos//20295326276/in/photostream/",
+      "text": "",
+      "type": "html",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.flickr.com', port=443): Max retries exceeded with url: /photos//20295326276/in/photostream/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc5d30>: Failed to resolve 'www.flickr.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "index.md",
+      "line": 37,
+      "url": "https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996",
+      "text": "",
+      "type": "html",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='foxtrotalpha.jalopnik.com', port=443): Max retries exceeded with url: /these-elite-military-helicopter-units-fly-washingtons-p-1704260996 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6030>: Failed to resolve 'foxtrotalpha.jalopnik.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "index.md",
+      "line": 40,
+      "url": "https://www.flickr.com/photos/ep_jhu/35266792364/in/photostream/",
+      "text": "",
+      "type": "html",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.flickr.com', port=443): Max retries exceeded with url: /photos/ep_jhu/35266792364/in/photostream/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc65a0>: Failed to resolve 'www.flickr.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "index.md",
+      "line": 41,
+      "url": "https://en.wikipedia.org/wiki/File:USCG_HH-65C.jpg",
+      "text": "",
+      "type": "html",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/File:USCG_HH-65C.jpg (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1c560>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "index.md",
+      "line": 44,
+      "url": "http://www.fbch.capmed.mil/newsroom/20130819_01.aspx",
+      "text": "",
+      "type": "html",
+      "status_code": null,
+      "error": "HTTPConnectionPool(host='www.fbch.capmed.mil', port=80): Max retries exceeded with url: /newsroom/20130819_01.aspx (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x7ff814f1eff0>: Failed to resolve 'www.fbch.capmed.mil' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "index.md",
+      "line": 45,
+      "url": "https://en.wikipedia.org/wiki/Marine_One#/media/File:VH-3D_Marine_One_over_Washington_DC_May_2005.jpg",
+      "text": "",
+      "type": "html",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Marine_One (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1f590>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "index.md",
+      "line": 48,
+      "url": "https://commons.wikimedia.org/wiki/Category:1st_Helicopter_Squadron_(United_States_Air_Force)#/media/File:141021-F-CX842-001_The_first_ex-USMC_UH-1N_for_1HS_lands_at_Andrews.jpg",
+      "text": "",
+      "type": "html",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='commons.wikimedia.org', port=443): Max retries exceeded with url: /wiki/Category:1st_Helicopter_Squadron_(United_States_Air_Force) (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1e930>: Failed to resolve 'commons.wikimedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "index.md",
+      "line": 49,
+      "url": "https://en.wikipedia.org/wiki/File:U.S._Park_Police_helicopter.JPG",
+      "text": "",
+      "type": "html",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/File:U.S._Park_Police_helicopter.JPG (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6db0>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "index.md",
+      "line": 48,
+      "url": "https://commons.wikimedia.org/wiki/Category:1st_Helicopter_Squadron_(United_States_Air_Force",
+      "text": "",
+      "type": "direct",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='commons.wikimedia.org', port=443): Max retries exceeded with url: /wiki/Category:1st_Helicopter_Squadron_(United_States_Air_Force (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6810>: Failed to resolve 'commons.wikimedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/99-maryland-state-police.md",
+      "line": 11,
+      "url": "https://en.wikipedia.org/wiki/AgustaWestland_AW139",
+      "text": "AgustaWestland AW139",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/AgustaWestland_AW139 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6210>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/99-maryland-state-police.md",
+      "line": 21,
+      "url": "https://www.flightradar24.com/data/aircraft/n390md",
+      "text": "N390MD",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.flightradar24.com', port=443): Max retries exceeded with url: /data/aircraft/n390md (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc40b0>: Failed to resolve 'www.flightradar24.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/99-maryland-state-police.md",
+      "line": 22,
+      "url": "https://www.flightradar24.com/data/aircraft/n382md",
+      "text": "N382MD",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.flightradar24.com', port=443): Max retries exceeded with url: /data/aircraft/n382md (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4f80>: Failed to resolve 'www.flightradar24.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/99-maryland-state-police.md",
+      "line": 25,
+      "url": "https://www.flightradar24.com/data/aircraft/TRP2",
+      "text": "Website Link",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.flightradar24.com', port=443): Max retries exceeded with url: /data/aircraft/TRP2 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc5760>: Failed to resolve 'www.flightradar24.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/99-maryland-state-police.md",
+      "line": 25,
+      "url": "https://www.flightradar24.com/data/aircraft/TRP17",
+      "text": "Link",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.flightradar24.com', port=443): Max retries exceeded with url: /data/aircraft/TRP17 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc72f0>: Failed to resolve 'www.flightradar24.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/99-maryland-state-police.md",
+      "line": 44,
+      "url": "https://hyp.is/Yg_luBV0Eeyv7pPe9Ox1NA/www.gao.gov/assets/gao-21-200.pdf",
+      "text": "Maryland State Police in 2021 GAO Washington, D.C. Area Helicopter Noise Report",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='hyp.is', port=443): Max retries exceeded with url: /Yg_luBV0Eeyv7pPe9Ox1NA/www.gao.gov/assets/gao-21-200.pdf (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1e630>: Failed to resolve 'hyp.is' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/99-maryland-state-police.md",
+      "line": 45,
+      "url": "https://en.wikipedia.org/wiki/Maryland_State_Police#Aviation_Command",
+      "text": "Wikipedia - Maryland State Police: Aviation Command",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Maryland_State_Police (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1df70>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/99-maryland-state-police.md",
+      "line": 46,
+      "url": "https://mdsp.maryland.gov/Organization/Pages/SupportServicesBureau/AviationCommand.aspx",
+      "text": "Maryland State Police Website",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='mdsp.maryland.gov', port=443): Max retries exceeded with url: /Organization/Pages/SupportServicesBureau/AviationCommand.aspx (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1f920>: Failed to resolve 'mdsp.maryland.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/99-maryland-state-police.md",
+      "line": 47,
+      "url": "https://www.facebook.com/mspaviation/",
+      "text": "Facebook - Maryland State Police - Aviation Command",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.facebook.com', port=443): Max retries exceeded with url: /mspaviation/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4f20>: Failed to resolve 'www.facebook.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/99-maryland-state-police.md",
+      "line": 48,
+      "url": "https://www.google.com/search?q=maryland+state+police+helicopter",
+      "text": "Google Images: Maryland State Police Helicopter",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=maryland+state+police+helicopter (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4890>: Failed to resolve 'www.google.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/99-maryland-state-police.md",
+      "line": 53,
+      "url": "https://commons.wikimedia.org/wiki/File:Maryland_State_Police_Helicopter_(36177396184",
+      "text": "Wikimedia: Keith Allison",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='commons.wikimedia.org', port=443): Max retries exceeded with url: /wiki/File:Maryland_State_Police_Helicopter_(36177396184 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4980>: Failed to resolve 'commons.wikimedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/3-metropolitan-police-department-air-support-unit-falcon.md",
+      "line": 11,
+      "url": "https://en.wikipedia.org/wiki/Eurocopter_AS350_%C3%89cureuil",
+      "text": "Eurocopter AS350B3",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Eurocopter_AS350_%C3%89cureuil (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6090>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/3-metropolitan-police-department-air-support-unit-falcon.md",
+      "line": 14,
+      "url": "https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N911DC",
+      "text": "N911DC",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='registry.faa.gov', port=443): Max retries exceeded with url: /aircraftinquiry/NNum_Results.aspx?NNumbertxt=N911DC (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc62d0>: Failed to resolve 'registry.faa.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/3-metropolitan-police-department-air-support-unit-falcon.md",
+      "line": 15,
+      "url": "https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N911AS",
+      "text": "N911AS",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='registry.faa.gov', port=443): Max retries exceeded with url: /aircraftinquiry/NNum_Results.aspx?NNumbertxt=N911AS (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6fc0>: Failed to resolve 'registry.faa.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/3-metropolitan-police-department-air-support-unit-falcon.md",
+      "line": 18,
+      "url": "https://www.flightradar24.com/data/aircraft/N911DC",
+      "text": "Website Link",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.flightradar24.com', port=443): Max retries exceeded with url: /data/aircraft/N911DC (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc7bf0>: Failed to resolve 'www.flightradar24.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/3-metropolitan-police-department-air-support-unit-falcon.md",
+      "line": 19,
+      "url": "https://www.flightradar24.com/data/aircraft/N911AS",
+      "text": "Website Link",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.flightradar24.com', port=443): Max retries exceeded with url: /data/aircraft/N911AS (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1da60>: Failed to resolve 'www.flightradar24.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/3-metropolitan-police-department-air-support-unit-falcon.md",
+      "line": 32,
+      "url": "https://openmhz.com/system/dcfd",
+      "text": "OpenMhz DC Citywide Scanner",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='openmhz.com', port=443): Max retries exceeded with url: /system/dcfd (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4560>: Failed to resolve 'openmhz.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/3-metropolitan-police-department-air-support-unit-falcon.md",
+      "line": 44,
+      "url": "https://hyp.is/ZdT0pBV0EeyEJhekJEWmoQ/www.gao.gov/assets/gao-21-200.pdf",
+      "text": "Metropolitan Police Department in 2021 GAO Washington, D.C. Area Helicopter Noise Report",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='hyp.is', port=443): Max retries exceeded with url: /ZdT0pBV0EeyEJhekJEWmoQ/www.gao.gov/assets/gao-21-200.pdf (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6540>: Failed to resolve 'hyp.is' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/3-metropolitan-police-department-air-support-unit-falcon.md",
+      "line": 45,
+      "url": "https://mpdc.dc.gov/page/air-support-unit-falcon",
+      "text": "DC.gov - Air Support Unit (Falcon)",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='mpdc.dc.gov', port=443): Max retries exceeded with url: /page/air-support-unit-falcon (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc51f0>: Failed to resolve 'mpdc.dc.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/3-metropolitan-police-department-air-support-unit-falcon.md",
+      "line": 46,
+      "url": "http://www.dcmetropolicecollector.com/MPD-Air-Support-Unit.html",
+      "text": "DC Metropolitan Police Collector - MPD Air Support Unit",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPConnectionPool(host='www.dcmetropolicecollector.com', port=80): Max retries exceeded with url: /MPD-Air-Support-Unit.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x7ff814cc4b90>: Failed to resolve 'www.dcmetropolicecollector.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/3-metropolitan-police-department-air-support-unit-falcon.md",
+      "line": 49,
+      "url": "https://www.flickr.com/photos/ep_jhu/35266792364/in/photostream",
+      "text": "Flickr - @ep_jhu",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.flickr.com', port=443): Max retries exceeded with url: /photos/ep_jhu/35266792364/in/photostream (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc7380>: Failed to resolve 'www.flickr.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/7-customs-border-patrol.md",
+      "line": 7,
+      "url": "https://www.cbp.gov/sites/default/files/assets/documents/2021-Aug/S-76_506%20compliant.pdf",
+      "text": "Sikorsky S-76",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.cbp.gov', port=443): Max retries exceeded with url: /sites/default/files/assets/documents/2021-Aug/S-76_506%20compliant.pdf (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc7290>: Failed to resolve 'www.cbp.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/7-customs-border-patrol.md",
+      "line": 11,
+      "url": "https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N159CM",
+      "text": "N159CM",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='registry.faa.gov', port=443): Max retries exceeded with url: /aircraftinquiry/NNum_Results.aspx?NNumbertxt=N159CM (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d00050>: Failed to resolve 'registry.faa.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/7-customs-border-patrol.md",
+      "line": 14,
+      "url": "https://www.flightradar24.com/data/aircraft/N159CM",
+      "text": "Website Link",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.flightradar24.com', port=443): Max retries exceeded with url: /data/aircraft/N159CM (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc7b30>: Failed to resolve 'www.flightradar24.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/7-customs-border-patrol.md",
+      "line": 37,
+      "url": "https://hyp.is/Aw4B2hV0Eeyv6MMddRThvQ/www.gao.gov/assets/gao-21-200.pdf",
+      "text": "Customs and Border Patrol in 2021 GAO Washington, D.C. Area Helicopter Noise Report",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='hyp.is', port=443): Max retries exceeded with url: /Aw4B2hV0Eeyv6MMddRThvQ/www.gao.gov/assets/gao-21-200.pdf (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc50a0>: Failed to resolve 'hyp.is' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/7-customs-border-patrol.md",
+      "line": 38,
+      "url": "https://www.cbp.gov/sites/default/files/documents/FS_2015_Sikorsky%20S-76_FINAL.pdf",
+      "text": "Customs and Border Patrol: Fact Sheet",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.cbp.gov', port=443): Max retries exceeded with url: /sites/default/files/documents/FS_2015_Sikorsky%20S-76_FINAL.pdf (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc5040>: Failed to resolve 'www.cbp.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/7-customs-border-patrol.md",
+      "line": 39,
+      "url": "https://www.cbp.gov/border-security/air-sea/aircraft-and-marine-vessels",
+      "text": "Customs and Border Patrol: Air and Marine Operations Assets",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.cbp.gov', port=443): Max retries exceeded with url: /border-security/air-sea/aircraft-and-marine-vessels (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc64b0>: Failed to resolve 'www.cbp.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/7-customs-border-patrol.md",
+      "line": 38,
+      "url": "https://www.cbp.gov/sites/default/files/documents/FS_2015_Sikorsky%20S-76_FINAL.pdf",
+      "text": "Customs and Border Patrol: Fact Sheet",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.cbp.gov', port=443): Max retries exceeded with url: /sites/default/files/documents/FS_2015_Sikorsky%20S-76_FINAL.pdf (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc5040>: Failed to resolve 'www.cbp.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/7-customs-border-patrol.md",
+      "line": 8,
+      "url": "https://www.cbp.gov/sites/default/files/documents/FS_2015_AS350%20A-Star_0.pdf",
+      "text": "",
+      "type": "direct",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.cbp.gov', port=443): Max retries exceeded with url: /sites/default/files/documents/FS_2015_AS350%20A-Star_0.pdf (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc42f0>: Failed to resolve 'www.cbp.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/991-prince-georges-county-police.md",
+      "line": 11,
+      "url": "https://en.wikipedia.org/wiki/MD_Helicopters_MD_500",
+      "text": "MD Helicopters MD 500",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/MD_Helicopters_MD_500 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1f980>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/991-prince-georges-county-police.md",
+      "line": 27,
+      "url": "https://www.flightradar24.com/data/aircraft/n910pg",
+      "text": "Website Link",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.flightradar24.com', port=443): Max retries exceeded with url: /data/aircraft/n910pg (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1da60>: Failed to resolve 'www.flightradar24.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/991-prince-georges-county-police.md",
+      "line": 27,
+      "url": "https://www.flightradar24.com/data/aircraft/n911pg",
+      "text": "Link",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.flightradar24.com', port=443): Max retries exceeded with url: /data/aircraft/n911pg (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d001a0>: Failed to resolve 'www.flightradar24.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/991-prince-georges-county-police.md",
+      "line": 27,
+      "url": "https://www.flightradar24.com/data/aircraft/n912pg",
+      "text": "Link",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.flightradar24.com', port=443): Max retries exceeded with url: /data/aircraft/n912pg (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d00710>: Failed to resolve 'www.flightradar24.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/991-prince-georges-county-police.md",
+      "line": 27,
+      "url": "https://www.flightradar24.com/data/aircraft/n913pg",
+      "text": "Link",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.flightradar24.com', port=443): Max retries exceeded with url: /data/aircraft/n913pg (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1e6f0>: Failed to resolve 'www.flightradar24.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/991-prince-georges-county-police.md",
+      "line": 39,
+      "url": "https://www.flickr.com/photos/kariyamogami/52003545570/in/photolist-2cU57qi-2kXKEh2-2krL5e9-2ncVgQR-2nd1Kez-2nd4hhz-2nd1KeV-2nenLjE-8Egwmi",
+      "text": "Mogami Kariya on Flickr",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.flickr.com', port=443): Max retries exceeded with url: /photos/kariyamogami/52003545570/in/photolist-2cU57qi-2kXKEh2-2krL5e9-2ncVgQR-2nd1Kez-2nd4hhz-2nd1KeV-2nenLjE-8Egwmi (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1f2f0>: Failed to resolve 'www.flickr.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/9-skybear.md",
+      "line": 11,
+      "url": "https://en.wikipedia.org/wiki/Eurocopter_EC145",
+      "text": "Airbus Helicopters H145",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Eurocopter_EC145 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc5820>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/9-skybear.md",
+      "line": 14,
+      "url": "https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N87ME",
+      "text": "N87ME",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='registry.faa.gov', port=443): Max retries exceeded with url: /aircraftinquiry/NNum_Results.aspx?NNumbertxt=N87ME (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc5c10>: Failed to resolve 'registry.faa.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/9-skybear.md",
+      "line": 17,
+      "url": "https://www.flightradar24.com/data/aircraft/n87me",
+      "text": "Website Link",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.flightradar24.com', port=443): Max retries exceeded with url: /data/aircraft/n87me (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc55b0>: Failed to resolve 'www.flightradar24.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/9-skybear.md",
+      "line": 21,
+      "url": "https://goo.gl/maps/v59v6w4Qfe82",
+      "text": "on Michigan Avenue NW",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='goo.gl', port=443): Max retries exceeded with url: /maps/v59v6w4Qfe82 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6cf0>: Failed to resolve 'goo.gl' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/9-skybear.md",
+      "line": 39,
+      "url": "https://childrensnational.org/departments/transport-medicine",
+      "text": "Children's National - Transport Medicine",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='childrensnational.org', port=443): Max retries exceeded with url: /departments/transport-medicine (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6720>: Failed to resolve 'childrensnational.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/9-skybear.md",
+      "line": 40,
+      "url": "https://en.wikipedia.org/wiki/STAT_Medevac",
+      "text": "Wikipedia - STAT Medevac",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/STAT_Medevac (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d00410>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/9-skybear.md",
+      "line": 43,
+      "url": "http://www.fbch.capmed.mil/newsroom/20130819_01.aspx",
+      "text": "Belvoir hospital teams up with Children\u2019s National for pediatric transport",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPConnectionPool(host='www.fbch.capmed.mil', port=80): Max retries exceeded with url: /newsroom/20130819_01.aspx (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x7ff814f1eff0>: Failed to resolve 'www.fbch.capmed.mil' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 13,
+      "url": "https://en.wikipedia.org/wiki/Eurocopter_HH-65_Dolphin",
+      "text": "MH-65C Dolphin",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Eurocopter_HH-65_Dolphin (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1eb10>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 21,
+      "url": "https://en.wikipedia.org/wiki/AN/TWQ-1_Avenger",
+      "text": "short range missile launchers",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/AN/TWQ-1_Avenger (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1c770>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 21,
+      "url": "https://cryptome.org/eyeball/wh-missile/wh-missile.htm",
+      "text": "White House",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='cryptome.org', port=443): Max retries exceeded with url: /eyeball/wh-missile/wh-missile.htm (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1f140>: Failed to resolve 'cryptome.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 21,
+      "url": "http://cryptome.org/eyeball/wny-mb/wny-mb.htm",
+      "text": "Navy Yard",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPConnectionPool(host='cryptome.org', port=80): Max retries exceeded with url: /eyeball/wny-mb/wny-mb.htm (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x7ff814cc63f0>: Failed to resolve 'cryptome.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 21,
+      "url": "http://cryptome.org/eyeball/hmx1-anti-missile/hmx1-anti-missile.htm",
+      "text": "Joint Base Bolling",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPConnectionPool(host='cryptome.org', port=80): Max retries exceeded with url: /eyeball/hmx1-anti-missile/hmx1-anti-missile.htm (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x7ff814cc7050>: Failed to resolve 'cryptome.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 21,
+      "url": "http://cryptome.org/eyeball/af1-anti-missile/af1-anti-missile.htm",
+      "text": "Andrews Air Force Base",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPConnectionPool(host='cryptome.org', port=80): Max retries exceeded with url: /eyeball/af1-anti-missile/af1-anti-missile.htm (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x7ff814cc4ce0>: Failed to resolve 'cryptome.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 22,
+      "url": "https://foxtrotalpha.jalopnik.com/americas-capitol-is-guarded-by-norwegian-surface-to-ai-1556894733",
+      "text": "Medium range surface-to-air missiles",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='foxtrotalpha.jalopnik.com', port=443): Max retries exceeded with url: /americas-capitol-is-guarded-by-norwegian-surface-to-ai-1556894733 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc76e0>: Failed to resolve 'foxtrotalpha.jalopnik.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 22,
+      "url": "http://cryptome.org/eyeball/belvoir-mb/belvoir-mb.htm",
+      "text": "Fort Belvoir",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPConnectionPool(host='cryptome.org', port=80): Max retries exceeded with url: /eyeball/belvoir-mb/belvoir-mb.htm (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x7ff814cc6660>: Failed to resolve 'cryptome.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 22,
+      "url": "http://cryptome.org/eyeball/carderock/carderock-mb.htm",
+      "text": "along Clara Barton Parkway",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPConnectionPool(host='cryptome.org', port=80): Max retries exceeded with url: /eyeball/carderock/carderock-mb.htm (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x7ff814d00800>: Failed to resolve 'cryptome.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 23,
+      "url": "https://www.youtube.com/watch?v=jc8tu0ZPfEA",
+      "text": "aren't always a good fit",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=jc8tu0ZPfEA (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc7410>: Failed to resolve 'www.youtube.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 25,
+      "url": "https://en.wikipedia.org/wiki/Frank_Eugene_Corder",
+      "text": "a single engine Cessna was crashed into the White House",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Frank_Eugene_Corder (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc7530>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 27,
+      "url": "https://en.wikipedia.org/wiki/U.S._helicopter_armament_subsystems#MH-65C_Dolphin_and_MH-68A_Stingray",
+      "text": "the armaments needed to shoot down an unresponsive craft",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/U.S._helicopter_armament_subsystems (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4f20>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 29,
+      "url": "https://en.wikipedia.org/wiki/Helicopter_Interdiction_Tactical_Squadron",
+      "text": "program",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Helicopter_Interdiction_Tactical_Squadron (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4110>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 29,
+      "url": "https://foxtrotalpha.jalopnik.com/this-secret-uscg-program-saw-exotic-armed-choppers-take-1690581460",
+      "text": "to enable interdiction of fast boats smuggling drugs into Florida",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='foxtrotalpha.jalopnik.com', port=443): Max retries exceeded with url: /this-secret-uscg-program-saw-exotic-armed-choppers-take-1690581460 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc7320>: Failed to resolve 'foxtrotalpha.jalopnik.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 29,
+      "url": "https://youtu.be/_KHPEfmJtOg?t=244",
+      "text": "this Coast Guard video",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='youtu.be', port=443): Max retries exceeded with url: /_KHPEfmJtOg?t=244 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc59a0>: Failed to resolve 'youtu.be' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 31,
+      "url": "https://en.wikipedia.org/wiki/Washington,_DC_Metropolitan_Area_Special_Flight_Rules_Area",
+      "text": "Air Defense Identification Zone",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Washington,_DC_Metropolitan_Area_Special_Flight_Rules_Area (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1ec00>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 31,
+      "url": "https://en.wikipedia.org/wiki/Coast_Guard_Air_Station_Atlantic_City",
+      "text": "Coast Guard Air Station Atlantic City",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Coast_Guard_Air_Station_Atlantic_City (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1e390>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 49,
+      "url": "https://hyp.is/TnbKvBV0EeyakEv60QTstQ/www.gao.gov/assets/gao-21-200.pdf",
+      "text": "Coast Guard in 2021 GAO Washington, D.C. Area Helicopter Noise Report",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='hyp.is', port=443): Max retries exceeded with url: /TnbKvBV0EeyakEv60QTstQ/www.gao.gov/assets/gao-21-200.pdf (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1ed80>: Failed to resolve 'hyp.is' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 50,
+      "url": "https://www.youtube.com/watch?v=6cIk-5t2Bbc&frags=pl%2Cwn",
+      "text": "Video - ABC7 Segment about the unit and showing a demonstrated interception",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=6cIk-5t2Bbc&frags=pl%2Cwn (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d01100>: Failed to resolve 'www.youtube.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 13,
+      "url": "https://en.wikipedia.org/wiki/Eurocopter_HH-65_Dolphin",
+      "text": "Wikipedia - Eurocopter HH-65 Dolphin",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Eurocopter_HH-65_Dolphin (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1eb10>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 52,
+      "url": "http://www.norad.mil/Newsroom/Article/578611/no-room-for-failure-coast-guard-aviators-protect-dc-pilots/",
+      "text": "NORAD News - No room for failure - Coast Guard aviators protect D.C., pilots",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPConnectionPool(host='www.norad.mil', port=80): Max retries exceeded with url: /Newsroom/Article/578611/no-room-for-failure-coast-guard-aviators-protect-dc-pilots/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x7ff814d014f0>: Failed to resolve 'www.norad.mil' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 53,
+      "url": "https://cgaviationhistory.org/2006-coast-guard-assumes-national-capital-rotary-wing-air-intercept-mission/",
+      "text": "USCG Aviation History - 2006: Coast Guard Assumes National Capital Rotary Wing Air Intercept Mission",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='cgaviationhistory.org', port=443): Max retries exceeded with url: /2006-coast-guard-assumes-national-capital-rotary-wing-air-intercept-mission/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1f3b0>: Failed to resolve 'cgaviationhistory.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 54,
+      "url": "https://cgaviationhistory.org/2003-airborne-use-of-force-coast-guard-arms-hh-65c-and-hh-60j-helicopters/",
+      "text": "USCG Aviation History - 2003: Airborne Use of Force \u2013 Coast Guard Arms HH-65C and HH-60J Helicopters",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='cgaviationhistory.org', port=443): Max retries exceeded with url: /2003-airborne-use-of-force-coast-guard-arms-hh-65c-and-hh-60j-helicopters/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1f8c0>: Failed to resolve 'cgaviationhistory.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 58,
+      "url": "https://en.wikipedia.org/wiki/File:USCG_HH-65C.jpg\">Coast Guard",
+      "text": "Wikimedia - PA2 Adam Eggers",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/File:USCG_HH-65C.jpg%22%3ECoast%20Guard (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1e810>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 58,
+      "url": "https://en.wikipedia.org/wiki/File:USCG_HH-65C.jpg",
+      "text": "",
+      "type": "direct",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/File:USCG_HH-65C.jpg (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1c560>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/6-us-air-force-1st-helicopter-squadron.md",
+      "line": 11,
+      "url": "https://en.wikipedia.org/wiki/Bell_UH-1N_Twin_Huey",
+      "text": "UH-1N Twin Hueys",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Bell_UH-1N_Twin_Huey (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4b60>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/6-us-air-force-1st-helicopter-squadron.md",
+      "line": 39,
+      "url": "https://hyp.is/PcJ9LhV0EeyseVuQWTt33w/www.gao.gov/assets/gao-21-200.pdf",
+      "text": "Air Force 1st Helicopter Squadron in 2021 GAO Washington, D.C. Area Helicopter Noise Report",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='hyp.is', port=443): Max retries exceeded with url: /PcJ9LhV0EeyseVuQWTt33w/www.gao.gov/assets/gao-21-200.pdf (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc5f70>: Failed to resolve 'hyp.is' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/6-us-air-force-1st-helicopter-squadron.md",
+      "line": 40,
+      "url": "https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996",
+      "text": "Foxtrot Alpha - These Elite Military Helicopter Units Fly Washington's Power Players",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='foxtrotalpha.jalopnik.com', port=443): Max retries exceeded with url: /these-elite-military-helicopter-units-fly-washingtons-p-1704260996 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6030>: Failed to resolve 'foxtrotalpha.jalopnik.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/6-us-air-force-1st-helicopter-squadron.md",
+      "line": 41,
+      "url": "https://en.wikipedia.org/wiki/1st_Helicopter_Squadron",
+      "text": "Wikipedia - 1st Helicopter Squadron",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/1st_Helicopter_Squadron (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc42f0>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/6-us-air-force-1st-helicopter-squadron.md",
+      "line": 42,
+      "url": "https://www.jba.af.mil/News/Tag/73997/1st-helicopter-squadron/",
+      "text": "Joint Base Andrews - News Tagged '1st Helicopter Squadron'",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.jba.af.mil', port=443): Max retries exceeded with url: /News/Tag/73997/1st-helicopter-squadron/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc72f0>: Failed to resolve 'www.jba.af.mil' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/6-us-air-force-1st-helicopter-squadron.md",
+      "line": 43,
+      "url": "https://www.afdw.af.mil/News/Features/Display/Article/336361/andrews-helicopter-squadron-1st-only-of-its-kind/",
+      "text": "Air Force District of Washington - Andrews Helicopter Squadron '1st,' Only Of Its Kind",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.afdw.af.mil', port=443): Max retries exceeded with url: /News/Features/Display/Article/336361/andrews-helicopter-squadron-1st-only-of-its-kind/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d009e0>: Failed to resolve 'www.afdw.af.mil' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/6-us-air-force-1st-helicopter-squadron.md",
+      "line": 46,
+      "url": "https://commons.wikimedia.org/wiki/Category:1st_Helicopter_Squadron_(United_States_Air_Force",
+      "text": "Wikimedia - U.S. Air Force photo/Staff Sgt. Robert Cloys",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='commons.wikimedia.org', port=443): Max retries exceeded with url: /wiki/Category:1st_Helicopter_Squadron_(United_States_Air_Force (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6810>: Failed to resolve 'commons.wikimedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/2-us-park-police-aviation-unit.md",
+      "line": 11,
+      "url": "https://en.wikipedia.org/wiki/Bell_412",
+      "text": "Bell 412EP",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Bell_412 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6480>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/2-us-park-police-aviation-unit.md",
+      "line": 12,
+      "url": "https://en.wikipedia.org/wiki/Bell_206",
+      "text": "Bell 206L3",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Bell_206 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4ef0>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/2-us-park-police-aviation-unit.md",
+      "line": 16,
+      "url": "https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N22PP",
+      "text": "N22PP",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='registry.faa.gov', port=443): Max retries exceeded with url: /aircraftinquiry/NNum_Results.aspx?NNumbertxt=N22PP (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc47a0>: Failed to resolve 'registry.faa.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/2-us-park-police-aviation-unit.md",
+      "line": 19,
+      "url": "https://www.flightradar24.com/data/aircraft/N22PP",
+      "text": "Website Link",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.flightradar24.com', port=443): Max retries exceeded with url: /data/aircraft/N22PP (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6600>: Failed to resolve 'www.flightradar24.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/2-us-park-police-aviation-unit.md",
+      "line": 19,
+      "url": "https://www.flightradar24.com/data/aircraft/n11pp",
+      "text": "Link",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.flightradar24.com', port=443): Max retries exceeded with url: /data/aircraft/n11pp (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4170>: Failed to resolve 'www.flightradar24.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/2-us-park-police-aviation-unit.md",
+      "line": 29,
+      "url": "https://goo.gl/maps/Pg64vj1kg552",
+      "text": "map",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='goo.gl', port=443): Max retries exceeded with url: /maps/Pg64vj1kg552 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc7680>: Failed to resolve 'goo.gl' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/2-us-park-police-aviation-unit.md",
+      "line": 33,
+      "url": "https://en.wikipedia.org/wiki/Air_Florida_Flight_90",
+      "text": "1982 crash of Air Florida Flight 90",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Air_Florida_Flight_90 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1ec00>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/2-us-park-police-aviation-unit.md",
+      "line": 35,
+      "url": "https://www.wusa9.com/article/news/verify-yes-us-park-police-used-a-helicopter-to-chase-ice-hockey-players-off-a-frozen-over-reflecting-pool/65-3b699d02-bd70-46d7-9d26-06944b2dbd03",
+      "text": "a controversial and arguably dangerous police action",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.wusa9.com', port=443): Max retries exceeded with url: /article/news/verify-yes-us-park-police-used-a-helicopter-to-chase-ice-hockey-players-off-a-frozen-over-reflecting-pool/65-3b699d02-bd70-46d7-9d26-06944b2dbd03 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1ecf0>: Failed to resolve 'www.wusa9.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/2-us-park-police-aviation-unit.md",
+      "line": 50,
+      "url": "https://hyp.is/OOGKyhV0Eeyy1atL5NjPww/www.gao.gov/assets/gao-21-200.pdf",
+      "text": "Park Police in 2021 GAO Washington, D.C. Area Helicopter Noise Report",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='hyp.is', port=443): Max retries exceeded with url: /OOGKyhV0Eeyy1atL5NjPww/www.gao.gov/assets/gao-21-200.pdf (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d009e0>: Failed to resolve 'hyp.is' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/2-us-park-police-aviation-unit.md",
+      "line": 51,
+      "url": "https://www.nps.gov/subjects/uspp/aviation-unit.htm",
+      "text": "National Park Service - Aviation Unit",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.nps.gov', port=443): Max retries exceeded with url: /subjects/uspp/aviation-unit.htm (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1fe60>: Failed to resolve 'www.nps.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/2-us-park-police-aviation-unit.md",
+      "line": 52,
+      "url": "https://en.wikipedia.org/wiki/United_States_Park_Police#Aviation",
+      "text": "Wikipedia - United States Park Police: Aviation",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/United_States_Park_Police (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d01520>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/2-us-park-police-aviation-unit.md",
+      "line": 53,
+      "url": "https://www.nationalparkstraveler.org/2013/09/elite-national-park-service-helicopter-unit-marks-forty-years-service23970",
+      "text": "National Parks Traveler - Elite National Park Service Helicopter Unit Marks Forty Years Of Service",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.nationalparkstraveler.org', port=443): Max retries exceeded with url: /2013/09/elite-national-park-service-helicopter-unit-marks-forty-years-service23970 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1ffb0>: Failed to resolve 'www.nationalparkstraveler.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/2-us-park-police-aviation-unit.md",
+      "line": 54,
+      "url": "https://fireaviation.com/2018/12/01/national-park-service-helicopters-played-vital-role-on-9-11/",
+      "text": "Fire Aviation - National Park Service helicopters played vital role on 9/11",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='fireaviation.com', port=443): Max retries exceeded with url: /2018/12/01/national-park-service-helicopters-played-vital-role-on-9-11/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4f80>: Failed to resolve 'fireaviation.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/2-us-park-police-aviation-unit.md",
+      "line": 55,
+      "url": "https://youtu.be/EIb8wfXGngA?t=102",
+      "text": "Video - Documentary Footage and a description of the 1982 rescue - Part 3",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='youtu.be', port=443): Max retries exceeded with url: /EIb8wfXGngA?t=102 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4d10>: Failed to resolve 'youtu.be' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/2-us-park-police-aviation-unit.md",
+      "line": 56,
+      "url": "https://www.youtube.com/watch?v=I5nTuEzMpzo",
+      "text": "Video - Documentary Footage and a description of the 1982 rescue - Part 4",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=I5nTuEzMpzo (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4f20>: Failed to resolve 'www.youtube.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/2-us-park-police-aviation-unit.md",
+      "line": 60,
+      "url": "https://en.wikipedia.org/wiki/File:USCG_HH-65C.jpg",
+      "text": "Wikimedia - PA2 Adam Eggers",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/File:USCG_HH-65C.jpg (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1c560>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/1-us-marine-corps-hmx-1-squadron.md",
+      "line": 11,
+      "url": "https://en.wikipedia.org/wiki/Sikorsky_SH-3_Sea_King",
+      "text": "VH-3D Sea King",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Sikorsky_SH-3_Sea_King (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6480>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/1-us-marine-corps-hmx-1-squadron.md",
+      "line": 12,
+      "url": "https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk",
+      "text": "VH-60N Black Hawk",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Sikorsky_UH-60_Black_Hawk (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d00bf0>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/1-us-marine-corps-hmx-1-squadron.md",
+      "line": 13,
+      "url": "https://en.wikipedia.org/wiki/Bell_Boeing_V-22_Osprey",
+      "text": "MV-22 Ospreys",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Bell_Boeing_V-22_Osprey (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d01100>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/1-us-marine-corps-hmx-1-squadron.md",
+      "line": 14,
+      "url": "https://en.wikipedia.org/wiki/Sikorsky_VH-92_Patriot",
+      "text": "VH-92A Patriot",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Sikorsky_VH-92_Patriot (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d01b50>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/1-us-marine-corps-hmx-1-squadron.md",
+      "line": 11,
+      "url": "https://en.wikipedia.org/wiki/Sikorsky_SH-3_Sea_King",
+      "text": "VH-3 Sea",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Sikorsky_SH-3_Sea_King (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6480>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/1-us-marine-corps-hmx-1-squadron.md",
+      "line": 14,
+      "url": "https://en.wikipedia.org/wiki/Sikorsky_VH-92",
+      "text": "VH-92",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Sikorsky_VH-92 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d00740>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/1-us-marine-corps-hmx-1-squadron.md",
+      "line": 25,
+      "url": "https://en.wikipedia.org/wiki/VXX",
+      "text": "VXX program",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/VXX (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4e60>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/1-us-marine-corps-hmx-1-squadron.md",
+      "line": 39,
+      "url": "https://www.google.com/maps/place/First+Infantry+Division+Monument/@38.8947331,-77.0367577,17z/data=!4m5!3m4!1s0x89b7b7a3519a46e7:0xd1838fee6609ec20!8m2!3d38.8961594!4d-77.0387057",
+      "text": "First Infantry Division Monument",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /maps/place/First+Infantry+Division+Monument/@38.8947331,-77.0367577,17z/data=!4m5!3m4!1s0x89b7b7a3519a46e7:0xd1838fee6609ec20!8m2!3d38.8961594!4d-77.0387057 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc7020>: Failed to resolve 'www.google.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/1-us-marine-corps-hmx-1-squadron.md",
+      "line": 45,
+      "url": "https://en.wikipedia.org/wiki/Joint_Base_Anacostia%E2%80%93Bolling",
+      "text": "Joint Base Bolling",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Joint_Base_Anacostia%E2%80%93Bolling (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6630>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/1-us-marine-corps-hmx-1-squadron.md",
+      "line": 60,
+      "url": "https://hyp.is/VhTjgBV0EeyT9T8n_WPwgQ/www.gao.gov/assets/gao-21-200.pdf",
+      "text": "Marine Helicopter Squadron One in 2021 GAO Washington, D.C. Area Helicopter Noise Report",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='hyp.is', port=443): Max retries exceeded with url: /VhTjgBV0EeyT9T8n_WPwgQ/www.gao.gov/assets/gao-21-200.pdf (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4da0>: Failed to resolve 'hyp.is' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/1-us-marine-corps-hmx-1-squadron.md",
+      "line": 61,
+      "url": "https://en.wikipedia.org/wiki/Marine_One",
+      "text": "Wikipedia - Marine One",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Marine_One (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814eb91f0>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/1-us-marine-corps-hmx-1-squadron.md",
+      "line": 62,
+      "url": "https://en.wikipedia.org/wiki/HMX-1",
+      "text": "Wikipedia - HMX-1",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/HMX-1 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1e750>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/1-us-marine-corps-hmx-1-squadron.md",
+      "line": 25,
+      "url": "https://en.wikipedia.org/wiki/VXX",
+      "text": "Wikipedia - VXX",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/VXX (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4e60>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/1-us-marine-corps-hmx-1-squadron.md",
+      "line": 64,
+      "url": "https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996",
+      "text": "Foxtrot Alpha - These Elite Military Helicopter Units Fly Washington's Power Players",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='foxtrotalpha.jalopnik.com', port=443): Max retries exceeded with url: /these-elite-military-helicopter-units-fly-washingtons-p-1704260996 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6030>: Failed to resolve 'foxtrotalpha.jalopnik.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/1-us-marine-corps-hmx-1-squadron.md",
+      "line": 65,
+      "url": "https://www.youtube.com/watch?v=cFhrB-DkBnA",
+      "text": "Video - National Geographic: On Board Marine One",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=cFhrB-DkBnA (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1e390>: Failed to resolve 'www.youtube.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/1-us-marine-corps-hmx-1-squadron.md",
+      "line": 69,
+      "url": "https://en.wikipedia.org/wiki/Marine_One#/media/File:VH-3D_Marine_One_over_Washington_DC_May_2005.jpg",
+      "text": "Wikimedia - PH2(AW) Daniel J. McLain",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Marine_One (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1f590>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/5-us-army-12th-aviation-battalion.md",
+      "line": 11,
+      "url": "https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk",
+      "text": "UH-60 Black Hawk",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Sikorsky_UH-60_Black_Hawk (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d00bf0>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/5-us-army-12th-aviation-battalion.md",
+      "line": 11,
+      "url": "https://en.wikipedia.org/wiki/Sikorsky_UH-60_Black_Hawk",
+      "text": "VH-60 Black Hawk",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Sikorsky_UH-60_Black_Hawk (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d00bf0>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/5-us-army-12th-aviation-battalion.md",
+      "line": 27,
+      "url": "https://en.wikipedia.org/wiki/2025_Potomac_River_mid-air_collision",
+      "text": "collided in mid-air",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/2025_Potomac_River_mid-air_collision (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d00620>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/5-us-army-12th-aviation-battalion.md",
+      "line": 42,
+      "url": "https://www.youtube.com/watch?v=SPpxEd7kkG8",
+      "text": "@helicoptersofdc video - Army 12th Aviation Battalion's Black Hawk",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=SPpxEd7kkG8 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d010a0>: Failed to resolve 'www.youtube.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/5-us-army-12th-aviation-battalion.md",
+      "line": 43,
+      "url": "https://hyp.is/QfNJ0hV0EeyoamPceI993Q/www.gao.gov/assets/gao-21-200.pdf",
+      "text": "12th Aviation Battalion in 2021 GAO Washington, D.C. Area Helicopter Noise Report",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='hyp.is', port=443): Max retries exceeded with url: /QfNJ0hV0EeyoamPceI993Q/www.gao.gov/assets/gao-21-200.pdf (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d00bc0>: Failed to resolve 'hyp.is' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/5-us-army-12th-aviation-battalion.md",
+      "line": 44,
+      "url": "https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996",
+      "text": "Foxtrot Alpha - These Elite Military Helicopter Units Fly Washington's Power Players",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='foxtrotalpha.jalopnik.com', port=443): Max retries exceeded with url: /these-elite-military-helicopter-units-fly-washingtons-p-1704260996 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6030>: Failed to resolve 'foxtrotalpha.jalopnik.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/5-us-army-12th-aviation-battalion.md",
+      "line": 45,
+      "url": "https://www.rotorandwing.com/2012/04/01/army-12th-flying-the-brass/",
+      "text": "Rotar and Wing International - Army 12th: Flying the Brass",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.rotorandwing.com', port=443): Max retries exceeded with url: /2012/04/01/army-12th-flying-the-brass/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1fa40>: Failed to resolve 'www.rotorandwing.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/5-us-army-12th-aviation-battalion.md",
+      "line": 46,
+      "url": "https://www.globalsecurity.org/military/agency/army/12avn-bn.htm",
+      "text": "GlobalSecurity.com - 12th Aviation Battalion",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.globalsecurity.org', port=443): Max retries exceeded with url: /military/agency/army/12avn-bn.htm (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1df70>: Failed to resolve 'www.globalsecurity.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/5-us-army-12th-aviation-battalion.md",
+      "line": 47,
+      "url": "https://www.taab.mdw.army.mil/12th-aviation-battalion",
+      "text": "Army.mil - The Army Aviation Brigade: 12th Aviation Battalion",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.taab.mdw.army.mil', port=443): Max retries exceeded with url: /12th-aviation-battalion (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1e9c0>: Failed to resolve 'www.taab.mdw.army.mil' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/5-us-army-12th-aviation-battalion.md",
+      "line": 48,
+      "url": "https://www.youtube.com/watch?v=1LOHoxyyVjg",
+      "text": "Video",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=1LOHoxyyVjg (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4b60>: Failed to resolve 'www.youtube.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/5-us-army-12th-aviation-battalion.md",
+      "line": 48,
+      "url": "https://www.army.mil/article/127767/davison_army_airfield_hosts_mass_helicopter_exercise",
+      "text": "Press Release",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.army.mil', port=443): Max retries exceeded with url: /article/127767/davison_army_airfield_hosts_mass_helicopter_exercise (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc7830>: Failed to resolve 'www.army.mil' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/5-us-army-12th-aviation-battalion.md",
+      "line": 44,
+      "url": "https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996",
+      "text": "Foxtrot Alpha - These Elite Military Helicopter Units Fly Washington's Power Players",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='foxtrotalpha.jalopnik.com', port=443): Max retries exceeded with url: /these-elite-military-helicopter-units-fly-washingtons-p-1704260996 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6030>: Failed to resolve 'foxtrotalpha.jalopnik.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/8-medstar.md",
+      "line": 11,
+      "url": "https://en.wikipedia.org/wiki/Eurocopter_EC135",
+      "text": "Eurocopter EC-135",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Eurocopter_EC135 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d01820>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/8-medstar.md",
+      "line": 14,
+      "url": "https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N138MH",
+      "text": "N138MH",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='registry.faa.gov', port=443): Max retries exceeded with url: /aircraftinquiry/NNum_Results.aspx?NNumbertxt=N138MH (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc5880>: Failed to resolve 'registry.faa.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/8-medstar.md",
+      "line": 18,
+      "url": "https://www.flightradar24.com/data/aircraft/n138mh",
+      "text": "Website Link",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.flightradar24.com', port=443): Max retries exceeded with url: /data/aircraft/n138mh (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc5ac0>: Failed to resolve 'www.flightradar24.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/8-medstar.md",
+      "line": 22,
+      "url": "https://en.wikipedia.org/wiki/MedStar_Health",
+      "text": "MedStar",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/MedStar_Health (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d00650>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/8-medstar.md",
+      "line": 22,
+      "url": "https://goo.gl/maps/v59v6w4Qfe82",
+      "text": "on Michigan Avenue NW",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='goo.gl', port=443): Max retries exceeded with url: /maps/v59v6w4Qfe82 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6cf0>: Failed to resolve 'goo.gl' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/8-medstar.md",
+      "line": 38,
+      "url": "https://www.hmpgloballearningnetwork.com/site/emsworld/news/10340453/helicopter-approached-twice-dc-crash",
+      "text": "2006 crash",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.hmpgloballearningnetwork.com', port=443): Max retries exceeded with url: /site/emsworld/news/10340453/helicopter-approached-twice-dc-crash (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1fb60>: Failed to resolve 'www.hmpgloballearningnetwork.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/8-medstar.md",
+      "line": 41,
+      "url": "https://hyp.is/3QIhiBVzEeyzGzc5BIRhEw/www.gao.gov/assets/gao-21-200.pdf",
+      "text": "Medstar helicopters in 2021 GAO Washington, D.C. Area Helicopter Noise Report",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='hyp.is', port=443): Max retries exceeded with url: /3QIhiBVzEeyzGzc5BIRhEw/www.gao.gov/assets/gao-21-200.pdf (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1f8f0>: Failed to resolve 'hyp.is' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/8-medstar.md",
+      "line": 42,
+      "url": "https://www.medstarwashington.org/our-services/medstar-heart-vascular-institute/treatments/medstar-rapid-transportation/",
+      "text": "MedSTAR Rapid Transportation",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.medstarwashington.org', port=443): Max retries exceeded with url: /our-services/medstar-heart-vascular-institute/treatments/medstar-rapid-transportation/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1e5d0>: Failed to resolve 'www.medstarwashington.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/8-medstar.md",
+      "line": 43,
+      "url": "https://www.medstarwashington.org/news/2013/07/03/medstar-transport-helicopter-service-marks-30-years-of-service/",
+      "text": "MedSTAR - MedSTAR Transport Helicopter Service Marks 30 Years of Service",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.medstarwashington.org', port=443): Max retries exceeded with url: /news/2013/07/03/medstar-transport-helicopter-service-marks-30-years-of-service/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1fda0>: Failed to resolve 'www.medstarwashington.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/8-medstar.md",
+      "line": 44,
+      "url": "https://wtop.com/news/2013/07/medstar-transport-saving-lives-in-washington-area-for-30-years/slide/1/",
+      "text": "WTOP - MedSTAR Transport: Saving lives in Washington area for 30 years",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='wtop.com', port=443): Max retries exceeded with url: /news/2013/07/medstar-transport-saving-lives-in-washington-area-for-30-years/slide/1/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc7260>: Failed to resolve 'wtop.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/8-medstar.md",
+      "line": 45,
+      "url": "https://www.airliners.net/photo/MedStar/Eurocopter-EC-135T-2/1166869",
+      "text": "Airliners -  Eurocopter EC-135T-2 - MedStar",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.airliners.net', port=443): Max retries exceeded with url: /photo/MedStar/Eurocopter-EC-135T-2/1166869 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6060>: Failed to resolve 'www.airliners.net' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/8-medstar.md",
+      "line": 46,
+      "url": "https://www.youtube.com/watch?v=5-bcVnGj6B4",
+      "text": "Video - MedSTAR N138MH Helicopter - Taking Off",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=5-bcVnGj6B4 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4620>: Failed to resolve 'www.youtube.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_helicopters/8-medstar.md",
+      "line": 49,
+      "url": "https://www.flickr.com/photos/gbucello4/20295326276/in/photostream/",
+      "text": "Flickr - @gbucello4",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.flickr.com', port=443): Max retries exceeded with url: /photos/gbucello4/20295326276/in/photostream/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc7710>: Failed to resolve 'www.flickr.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/credits.md",
+      "line": 10,
+      "url": "https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996",
+      "text": "Foxtrot Alpha - These Elite Military Helicopter Units Fly Washington's Power Players",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='foxtrotalpha.jalopnik.com', port=443): Max retries exceeded with url: /these-elite-military-helicopter-units-fly-washingtons-p-1704260996 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6030>: Failed to resolve 'foxtrotalpha.jalopnik.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/credits.md",
+      "line": 11,
+      "url": "https://www.reddit.com/r/washingtondc/comments/8u3erg/a_nonexhaustive_guide_to_the_helicopters_of_dc/",
+      "text": "celocanth13's Reddit post - A non-exhaustive guide to the helicopters of DC",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /r/washingtondc/comments/8u3erg/a_nonexhaustive_guide_to_the_helicopters_of_dc/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc78f0>: Failed to resolve 'www.reddit.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/credits.md",
+      "line": 12,
+      "url": "https://www.google.com/search?q=site%3Acopterspotter.com",
+      "text": "amazing annual reports",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=site%3Acopterspotter.com (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc41a0>: Failed to resolve 'www.google.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/credits.md",
+      "line": 15,
+      "url": "https://www.buzzfeed.com/marcambinder/secret-armies-an-exclusive-look-at-10-secret-us",
+      "text": "this article",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.buzzfeed.com', port=443): Max retries exceeded with url: /marcambinder/secret-armies-an-exclusive-look-at-10-secret-us (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d01fd0>: Failed to resolve 'www.buzzfeed.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/credits.md",
+      "line": 12,
+      "url": "https://www.youtube.com/watch?v=KYuBf2HpXJg",
+      "text": "",
+      "type": "html",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=KYuBf2HpXJg (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4980>: Failed to resolve 'www.youtube.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 11,
+      "url": "https://en.wikipedia.org/wiki/Sikorsky_S-92",
+      "text": "Sikorsky S-92",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Sikorsky_S-92 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc70e0>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 12,
+      "url": "https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N948PH",
+      "text": "N948PH",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='registry.faa.gov', port=443): Max retries exceeded with url: /aircraftinquiry/NNum_Results.aspx?NNumbertxt=N948PH (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6db0>: Failed to resolve 'registry.faa.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 13,
+      "url": "https://www.flightradar24.com/data/aircraft/N948PH",
+      "text": "Link",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.flightradar24.com', port=443): Max retries exceeded with url: /data/aircraft/N948PH (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc5820>: Failed to resolve 'www.flightradar24.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 14,
+      "url": "https://medium.com/@DaveStroup/solving-the-mystery-of-the-big-yellow-helicopter-756eba187585",
+      "text": "wrote up",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='medium.com', port=443): Max retries exceeded with url: /@DaveStroup/solving-the-mystery-of-the-big-yellow-helicopter-756eba187585 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc5f10>: Failed to resolve 'medium.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 18,
+      "url": "https://en.wikipedia.org/wiki/Bell_412",
+      "text": "Bell 412",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Bell_412 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6480>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 20,
+      "url": "https://en.wikipedia.org/wiki/National_Nuclear_Security_Administration",
+      "text": "National Nuclear Security Administration",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/National_Nuclear_Security_Administration (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc42f0>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 20,
+      "url": "https://www.google.com/search?q=%22The+U.S.+Department+of+Energy%E2%80%99s+National+Nuclear+Security+Administration+(DOE%2FNNSA",
+      "text": "continue to take place",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=%22The+U.S.+Department+of+Energy%E2%80%99s+National+Nuclear+Security+Administration+(DOE%2FNNSA (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4890>: Failed to resolve 'www.google.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 23,
+      "url": "https://www.youtube.com/watch?v=f3IjhRN03fQ",
+      "text": "@helicoptersofdc Video - Nuclear Safety Administration Photography Mission 10/22/24",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=f3IjhRN03fQ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc7c50>: Failed to resolve 'www.youtube.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 24,
+      "url": "https://hyp.is/IcjFphV0EeypBUfrWozaWw/www.gao.gov/assets/gao-21-200.pdf",
+      "text": "Department of Energy in 2021 GAO Washington, D.C. Area Helicopter Noise Report",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='hyp.is', port=443): Max retries exceeded with url: /IcjFphV0EeypBUfrWozaWw/www.gao.gov/assets/gao-21-200.pdf (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc75c0>: Failed to resolve 'hyp.is' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 25,
+      "url": "https://washington.cbslocal.com/2013/01/05/nuclear-security-helicopters-testing-radiation-levels-above-dc-area/",
+      "text": "CBS News - Nuclear Security Helicopters Testing Radiation Levels Above DC Area",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='washington.cbslocal.com', port=443): Max retries exceeded with url: /2013/01/05/nuclear-security-helicopters-testing-radiation-levels-above-dc-area/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc40b0>: Failed to resolve 'washington.cbslocal.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 26,
+      "url": "https://www.ladailypost.com/content/nnsa-conducting-radiation-survey-over-washington",
+      "text": "Full Text of the NNSA Press Release",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.ladailypost.com', port=443): Max retries exceeded with url: /content/nnsa-conducting-radiation-survey-over-washington (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d01f70>: Failed to resolve 'www.ladailypost.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 27,
+      "url": "https://natethayer.wordpress.com/2013/01/09/black-government-helicopters-zoom-low-over-washington-d-c-to-protect-against-terrorist-dirty-nuclear-bomb/",
+      "text": "An individual's blogpost describing the overflight",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='natethayer.wordpress.com', port=443): Max retries exceeded with url: /2013/01/09/black-government-helicopters-zoom-low-over-washington-d-c-to-protect-against-terrorist-dirty-nuclear-bomb/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6c90>: Failed to resolve 'natethayer.wordpress.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 28,
+      "url": "https://www.energy.gov/nnsa/aerial-measuring-system-ams",
+      "text": "National Nuclear Security Administration - Aerial Measuring System",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.energy.gov', port=443): Max retries exceeded with url: /nnsa/aerial-measuring-system-ams (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1f440>: Failed to resolve 'www.energy.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 29,
+      "url": "https://www.energy.gov/nnsa/downloads/ams-map",
+      "text": "Results of the Scanning",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.energy.gov', port=443): Max retries exceeded with url: /nnsa/downloads/ams-map (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1edb0>: Failed to resolve 'www.energy.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 30,
+      "url": "https://www.youtube.com/watch?v=fWqFpkd27Y0",
+      "text": "Video: The Aerial Measuring System in action",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=fWqFpkd27Y0 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc68d0>: Failed to resolve 'www.youtube.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 31,
+      "url": "https://www.youtube.com/watch?v=PANp9gtv8Rs",
+      "text": "Video: The Aerial Measuring System - B-Roll",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=PANp9gtv8Rs (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6330>: Failed to resolve 'www.youtube.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 32,
+      "url": "https://www.youtube.com/watch?v=dB-zkcuvCd4",
+      "text": "Video: CBS - Searching D.C.'s Radiation",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=dB-zkcuvCd4 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc7f80>: Failed to resolve 'www.youtube.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 37,
+      "url": "https://en.wikipedia.org/wiki/Eurocopter_AS350_%C3%89cureuil",
+      "text": "Airbus Helicopters H125",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Eurocopter_AS350_%C3%89cureuil (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6090>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 38,
+      "url": "https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N6977A",
+      "text": "N6977A",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='registry.faa.gov', port=443): Max retries exceeded with url: /aircraftinquiry/NNum_Results.aspx?NNumbertxt=N6977A (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6630>: Failed to resolve 'registry.faa.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 39,
+      "url": "https://www.flightradar24.com/data/aircraft/N6977A",
+      "text": "Link",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.flightradar24.com', port=443): Max retries exceeded with url: /data/aircraft/N6977A (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc41d0>: Failed to resolve 'www.flightradar24.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 43,
+      "url": "https://twitter.com/ep_jhu/status/821054741811757057",
+      "text": "Twitter: Picture taken of the helicopter while over DC",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /ep_jhu/status/821054741811757057 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc78c0>: Failed to resolve 'twitter.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 47,
+      "url": "https://en.wikipedia.org/wiki/Bell_429_GlobalRanger",
+      "text": "Bell 429 GlobalRanger",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Bell_429_GlobalRanger (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1e6c0>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 48,
+      "url": "https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N211FX",
+      "text": "N211FX",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='registry.faa.gov', port=443): Max retries exceeded with url: /aircraftinquiry/NNum_Results.aspx?NNumbertxt=N211FX (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d01b20>: Failed to resolve 'registry.faa.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 48,
+      "url": "https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N212FX",
+      "text": "N212FX",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='registry.faa.gov', port=443): Max retries exceeded with url: /aircraftinquiry/NNum_Results.aspx?NNumbertxt=N212FX (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d00950>: Failed to resolve 'registry.faa.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 49,
+      "url": "https://www.flightradar24.com/data/aircraft/N211FX",
+      "text": "Link",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.flightradar24.com', port=443): Max retries exceeded with url: /data/aircraft/N211FX (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6990>: Failed to resolve 'www.flightradar24.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 49,
+      "url": "https://www.flightradar24.com/data/aircraft/N212FX",
+      "text": "Link",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.flightradar24.com', port=443): Max retries exceeded with url: /data/aircraft/N212FX (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc5250>: Failed to resolve 'www.flightradar24.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 54,
+      "url": "https://en.wikipedia.org/wiki/MD_Helicopters_MD_500",
+      "text": "MD 500N",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/MD_Helicopters_MD_500 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1f980>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 55,
+      "url": "https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=PG1",
+      "text": "PG1",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='registry.faa.gov', port=443): Max retries exceeded with url: /aircraftinquiry/NNum_Results.aspx?NNumbertxt=PG1 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc7740>: Failed to resolve 'registry.faa.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 56,
+      "url": "https://www.flightradar24.com/data/aircraft/PG1",
+      "text": "Link",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.flightradar24.com', port=443): Max retries exceeded with url: /data/aircraft/PG1 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc7200>: Failed to resolve 'www.flightradar24.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/occasional-visitors.md",
+      "line": 60,
+      "url": "https://mdhelicopters.com/prince-george%E2%80%99s-county-police-department-to-expand-aviation-section-with-new-md-520n.html",
+      "text": "PRINCE GEORGE'S COUNTY POLICE DEPARTMENT TO EXPAND AVIATION SECTION WITH NEW MD 520N",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='mdhelicopters.com', port=443): Max retries exceeded with url: /prince-george%E2%80%99s-county-police-department-to-expand-aviation-section-with-new-md-520n.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc45f0>: Failed to resolve 'mdhelicopters.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/press-clippings.md",
+      "line": 10,
+      "url": "https://twitter.com/HelicoptersofDC/timelines/1314609624973180932?ref_src=twsrc%5Etfw",
+      "text": "",
+      "type": "html",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /HelicoptersofDC/timelines/1314609624973180932?ref_src=twsrc%5Etfw (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6270>: Failed to resolve 'twitter.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/press-clippings.md",
+      "line": 10,
+      "url": "https://platform.twitter.com/widgets.js",
+      "text": "",
+      "type": "direct",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='platform.twitter.com', port=443): Max retries exceeded with url: /widgets.js (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1fe00>: Failed to resolve 'platform.twitter.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/related-information.md",
+      "line": 9,
+      "url": "https://www.google.com/search?q=site%3Acopterspotter.com",
+      "text": "amazing annual reports",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=site%3Acopterspotter.com (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc41a0>: Failed to resolve 'www.google.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/related-information.md",
+      "line": 16,
+      "url": "https://goo.gl/maps/qTw6Qk1CY992",
+      "text": "map",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='goo.gl', port=443): Max retries exceeded with url: /maps/qTw6Qk1CY992 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1eff0>: Failed to resolve 'goo.gl' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/related-information.md",
+      "line": 17,
+      "url": "https://goo.gl/maps/yMAmPoh54zs",
+      "text": "map",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='goo.gl', port=443): Max retries exceeded with url: /maps/yMAmPoh54zs (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1e960>: Failed to resolve 'goo.gl' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/related-information.md",
+      "line": 18,
+      "url": "https://goo.gl/maps/K895Z35sWAm",
+      "text": "map",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='goo.gl', port=443): Max retries exceeded with url: /maps/K895Z35sWAm (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d01040>: Failed to resolve 'goo.gl' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/related-information.md",
+      "line": 19,
+      "url": "https://goo.gl/maps/GB2b2LcSPxp",
+      "text": "map",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='goo.gl', port=443): Max retries exceeded with url: /maps/GB2b2LcSPxp (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d02480>: Failed to resolve 'goo.gl' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/related-information.md",
+      "line": 20,
+      "url": "https://goo.gl/maps/S88Caxh5zDu",
+      "text": "map",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='goo.gl', port=443): Max retries exceeded with url: /maps/S88Caxh5zDu (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1ed50>: Failed to resolve 'goo.gl' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/related-information.md",
+      "line": 21,
+      "url": "https://www.google.com/maps/place/38%C2%B054'37.8%22N+77%C2%B004'39.5%22W/@38.9105664,-77.0775769,309m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d38.910495!4d-77.077644?hl=en",
+      "text": "map",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /maps/place/38%C2%B054'37.8%22N+77%C2%B004'39.5%22W/@38.9105664,-77.0775769,309m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d38.910495!4d-77.077644?hl=en (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc51c0>: Failed to resolve 'www.google.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/related-information.md",
+      "line": 22,
+      "url": "https://goo.gl/maps/ctrW3GEqBdk",
+      "text": "map",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='goo.gl', port=443): Max retries exceeded with url: /maps/ctrW3GEqBdk (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4650>: Failed to resolve 'goo.gl' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/related-information.md",
+      "line": 26,
+      "url": "https://en.wikipedia.org/wiki/List_of_heliports_in_Washington,_D.C.",
+      "text": "Wikipedia - List of heliports in Washington, D.C.",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/List_of_heliports_in_Washington,_D.C. (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4260>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/related-information.md",
+      "line": 31,
+      "url": "https://aeronav.faa.gov/content/aeronav/heli_files/PDFs/Balt-Wash_Heli_14_P.pdf",
+      "text": "Helicopter Route Chart - Washington/Baltimore",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='aeronav.faa.gov', port=443): Max retries exceeded with url: /content/aeronav/heli_files/PDFs/Balt-Wash_Heli_14_P.pdf (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1f8f0>: Failed to resolve 'aeronav.faa.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/related-information.md",
+      "line": 34,
+      "url": "https://openmhz.com/system/dcfd",
+      "text": "OpenMhz Radio Scanner",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='openmhz.com', port=443): Max retries exceeded with url: /system/dcfd (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4560>: Failed to resolve 'openmhz.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/related-information.md",
+      "line": 35,
+      "url": "http://globe.adsbexchange.com",
+      "text": "ADSBExchange",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPConnectionPool(host='globe.adsbexchange.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPConnection object at 0x7ff814cc5250>: Failed to resolve 'globe.adsbexchange.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/related-information.md",
+      "line": 36,
+      "url": "https://www.liveatc.net/hlisten.php?mount=kdca1_twr_heli&icao=kdca",
+      "text": "DCA Helicopter Radio on LiveATC.net",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.liveatc.net', port=443): Max retries exceeded with url: /hlisten.php?mount=kdca1_twr_heli&icao=kdca (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1fb00>: Failed to resolve 'www.liveatc.net' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/related-information.md",
+      "line": 40,
+      "url": "https://wamu.org/story/17/08/29/no-washingtonians-arent-helicopters-flying-since-trump-became-president/",
+      "text": "WAMU - No, Washingtonians \u2014 There Aren\u2019t More Helicopters Flying Since Trump Became President",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='wamu.org', port=443): Max retries exceeded with url: /story/17/08/29/no-washingtonians-arent-helicopters-flying-since-trump-became-president/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d01d60>: Failed to resolve 'wamu.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/related-information.md",
+      "line": 9,
+      "url": "https://www.youtube.com/watch?v=KYuBf2HpXJg",
+      "text": "",
+      "type": "html",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=KYuBf2HpXJg (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4980>: Failed to resolve 'www.youtube.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/related-information.md",
+      "line": 21,
+      "url": "https://www.google.com/maps/place/38%C2%B054",
+      "text": "",
+      "type": "direct",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /maps/place/38%C2%B054 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d01130>: Failed to resolve 'www.google.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 10,
+      "url": "https://www.ntsb.gov/Pages/ResultsV2.aspx?queryId=86228b01-f46f-41c4-b499-199473a615b2",
+      "text": "there have been 14 helicopter crashes in the District of Columbia",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.ntsb.gov', port=443): Max retries exceeded with url: /Pages/ResultsV2.aspx?queryId=86228b01-f46f-41c4-b499-199473a615b2 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4860>: Failed to resolve 'www.ntsb.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 14,
+      "url": "https://maps.app.goo.gl/p1z12LGPc6CekQ4w8",
+      "text": "700 block of Yuma St SE",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='maps.app.goo.gl', port=443): Max retries exceeded with url: /p1z12LGPc6CekQ4w8 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc5c10>: Failed to resolve 'maps.app.goo.gl' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 17,
+      "url": "https://www.washingtonpost.com/archive/local/1979/06/07/helicopter-crash-kills-two-policemen/b5b8137a-a6a5-46d5-9737-2664714dbcda/",
+      "text": "Helicopter Crash Kills Two Policemen",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Max retries exceeded with url: /archive/local/1979/06/07/helicopter-crash-kills-two-policemen/b5b8137a-a6a5-46d5-9737-2664714dbcda/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc5640>: Failed to resolve 'www.washingtonpost.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 18,
+      "url": "https://www.washingtonpost.com/archive/local/1979/06/14/love-of-flying-gave-a-common-bond-to-two-officers/bfbdf73c-0995-497b-aa41-d0c42f3182af/",
+      "text": "Love of Flying Gave A Common Bond To Two Officers",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Max retries exceeded with url: /archive/local/1979/06/14/love-of-flying-gave-a-common-bond-to-two-officers/bfbdf73c-0995-497b-aa41-d0c42f3182af/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc5490>: Failed to resolve 'www.washingtonpost.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 19,
+      "url": "https://www.dcpolicememorial.org/fallen-1979-jackson-a/",
+      "text": "Memorial to Alfred V. Jackson",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.dcpolicememorial.org', port=443): Max retries exceeded with url: /fallen-1979-jackson-a/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4f50>: Failed to resolve 'www.dcpolicememorial.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 20,
+      "url": "https://www.ntsb.gov/Pages/brief.aspx?ev_id=36353&key=0",
+      "text": "NTSB Accident Report",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.ntsb.gov', port=443): Max retries exceeded with url: /Pages/brief.aspx?ev_id=36353&key=0 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1fe90>: Failed to resolve 'www.ntsb.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 25,
+      "url": "https://en.wikipedia.org/wiki/Bell_206",
+      "text": "Bell 206",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Bell_206 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4ef0>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 28,
+      "url": "https://www.nytimes.com/1987/08/22/us/helicopter-plunges-into-potomac-killing-3-on-a-photography-flight.html",
+      "text": "Helicopter Plunges Into Potomac, Killing 3 on a Photography Flight",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.nytimes.com', port=443): Max retries exceeded with url: /1987/08/22/us/helicopter-plunges-into-potomac-killing-3-on-a-photography-flight.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1ffe0>: Failed to resolve 'www.nytimes.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 29,
+      "url": "https://www.washingtonpost.com/archive/politics/1987/08/22/dc-crash-of-copter-kills-three/67116d0b-c8f5-4741-abc4-6be7829a2aef/",
+      "text": "D.C. Crash of Copter Kills Three",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Max retries exceeded with url: /archive/politics/1987/08/22/dc-crash-of-copter-kills-three/67116d0b-c8f5-4741-abc4-6be7829a2aef/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1ff50>: Failed to resolve 'www.washingtonpost.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 30,
+      "url": "https://app.ntsb.gov/pdfgenerator/ReportGeneratorFile.ashx?EventID=20001213X31729&AKey=1&RType=Final&IType=FA",
+      "text": "NTSB Accident Report",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='app.ntsb.gov', port=443): Max retries exceeded with url: /pdfgenerator/ReportGeneratorFile.ashx?EventID=20001213X31729&AKey=1&RType=Final&IType=FA (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc7920>: Failed to resolve 'app.ntsb.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 34,
+      "url": "https://en.wikipedia.org/wiki/MedStar_Washington_Hospital_Center",
+      "text": "Washington Hospital Center",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/MedStar_Washington_Hospital_Center (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6f90>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 34,
+      "url": "https://en.wikipedia.org/wiki/United_Medical_Center",
+      "text": "United Medical Center",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/United_Medical_Center (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d01cd0>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 34,
+      "url": "https://maps.app.goo.gl/ajrnHeVnwjfHYiec9",
+      "text": "on the far western side of the campus",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='maps.app.goo.gl', port=443): Max retries exceeded with url: /ajrnHeVnwjfHYiec9 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1ff50>: Failed to resolve 'maps.app.goo.gl' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 34,
+      "url": "https://maps.app.goo.gl/EjhKxKkqHKip1h1i8",
+      "text": "in the southwest corner",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='maps.app.goo.gl', port=443): Max retries exceeded with url: /EjhKxKkqHKip1h1i8 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1ecf0>: Failed to resolve 'maps.app.goo.gl' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 37,
+      "url": "https://www.washingtonpost.com/archive/local/2006/05/31/helicopter-crashes-in-nw-dc-span-classbankheadpatient-3-in-crew-hurt-flying-to-washington-hospital-centerspan/768e618b-cb88-4681-a95e-ccb3230ab8c4/",
+      "text": "Helicopter Crashes in NW D.C.",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Max retries exceeded with url: /archive/local/2006/05/31/helicopter-crashes-in-nw-dc-span-classbankheadpatient-3-in-crew-hurt-flying-to-washington-hospital-centerspan/768e618b-cb88-4681-a95e-ccb3230ab8c4/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1f9e0>: Failed to resolve 'www.washingtonpost.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 38,
+      "url": "https://www.washingtonpost.com/archive/local/2006/06/01/patient-in-dc-copter-crash-dies-of-injuries-span-classbankheadpilot-credited-with-heroics-in-averting-bigger-disasterspan/e1de14d4-3a7d-407b-933b-15fc75b98d04/",
+      "text": "Patient in D.C. Copter Crash Dies of Injuries",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Max retries exceeded with url: /archive/local/2006/06/01/patient-in-dc-copter-crash-dies-of-injuries-span-classbankheadpilot-credited-with-heroics-in-averting-bigger-disasterspan/e1de14d4-3a7d-407b-933b-15fc75b98d04/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc7200>: Failed to resolve 'www.washingtonpost.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 39,
+      "url": "https://www.hmpgloballearningnetwork.com/site/emsworld/news/10340453/helicopter-approached-twice-dc-crash",
+      "text": "Helicopter Approached Twice Before D.C. Crash",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.hmpgloballearningnetwork.com', port=443): Max retries exceeded with url: /site/emsworld/news/10340453/helicopter-approached-twice-dc-crash (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1fb60>: Failed to resolve 'www.hmpgloballearningnetwork.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 40,
+      "url": "https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/63798/pdf",
+      "text": "NTSB Accident Report",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='data.ntsb.gov', port=443): Max retries exceeded with url: /carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/63798/pdf (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc77d0>: Failed to resolve 'data.ntsb.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 41,
+      "url": "https://data.ntsb.gov/Docket?ProjectID=63798",
+      "text": "NTSB Accident Docket",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='data.ntsb.gov', port=443): Max retries exceeded with url: /Docket?ProjectID=63798 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4f50>: Failed to resolve 'data.ntsb.gov' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 50,
+      "url": "https://en.wikipedia.org/wiki/Air_Florida_Flight_90",
+      "text": "1982 crash of Air Florida Flight 90",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Air_Florida_Flight_90 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1ec00>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 53,
+      "url": "https://www.youtube.com/watch?v=EIb8wfXGngA",
+      "text": "Documentary Footage from the 1982 Rescue, part 3",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=EIb8wfXGngA (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc5d90>: Failed to resolve 'www.youtube.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 54,
+      "url": "https://www.youtube.com/watch?v=I5nTuEzMpzo",
+      "text": "Documentary Footage from the 1982 Rescue, part 4",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=I5nTuEzMpzo (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4f20>: Failed to resolve 'www.youtube.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 64,
+      "url": "https://www.wusa9.com/article/news/verify-yes-us-park-police-used-a-helicopter-to-chase-ice-hockey-players-off-a-frozen-over-reflecting-pool/65-3b699d02-bd70-46d7-9d26-06944b2dbd03",
+      "text": "VERIFY: Yes, U.S. Park Police used a helicopter to chase ice hockey players off a frozen over Reflecting Pool",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.wusa9.com', port=443): Max retries exceeded with url: /article/news/verify-yes-us-park-police-used-a-helicopter-to-chase-ice-hockey-players-off-a-frozen-over-reflecting-pool/65-3b699d02-bd70-46d7-9d26-06944b2dbd03 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1ecf0>: Failed to resolve 'www.wusa9.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 69,
+      "url": "https://en.wikipedia.org/wiki/George_Floyd_protests_in_Washington,_D.C.",
+      "text": "substantial protests took place in Washington, DC",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/George_Floyd_protests_in_Washington,_D.C. (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d01250>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 72,
+      "url": "https://www.washingtonpost.com/graphics/2020/investigations/helicopter-protests-washington-dc-national-guard/",
+      "text": "Military Helicopters Descended on Protesters in Washington DC...",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Max retries exceeded with url: /graphics/2020/investigations/helicopter-protests-washington-dc-national-guard/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d018e0>: Failed to resolve 'www.washingtonpost.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 73,
+      "url": "https://www.washingtonpost.com/national-security/2021/04/15/dc-guard-helicopter-george-floyd-protest/",
+      "text": "D.C. Guard misused helicopters in low-flying confrontation with George Floyd protesters, Army concludes",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Max retries exceeded with url: /national-security/2021/04/15/dc-guard-helicopter-george-floyd-protest/ (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814d021e0>: Failed to resolve 'www.washingtonpost.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 74,
+      "url": "https://www.cnn.com/2021/05/28/politics/pentagon-national-guard-helicopter-dc-protests/index.html",
+      "text": "Pentagon watchdog finds National Guard\u2019s use of helicopters to fly over DC protestors \u2018reasonable,\u2019 but mired in confusion",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.cnn.com', port=443): Max retries exceeded with url: /2021/05/28/politics/pentagon-national-guard-helicopter-dc-protests/index.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4530>: Failed to resolve 'www.cnn.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 81,
+      "url": "https://en.wikipedia.org/wiki/1974_White_House_helicopter_incident",
+      "text": "a disgruntled Army private stole a UH-1 Huey",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/1974_White_House_helicopter_incident (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc47d0>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 86,
+      "url": "https://en.wikipedia.org/wiki/Autogyro",
+      "text": "gyrocopter",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Autogyro (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc4260>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 86,
+      "url": "https://en.wikipedia.org/wiki/Doug_Hughes_(activist",
+      "text": "landing on the west lawn of the US Capitol",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /wiki/Doug_Hughes_(activist (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc70e0>: Failed to resolve 'en.wikipedia.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_includes/disclaimers.md",
+      "line": 2,
+      "url": "https://foxtrotalpha.jalopnik.com/",
+      "text": "Foxtrot Alpha",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='foxtrotalpha.jalopnik.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1f980>: Failed to resolve 'foxtrotalpha.jalopnik.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_includes/disclaimers.md",
+      "line": 2,
+      "url": "https://www.reddit.com/user/celocanth13",
+      "text": "u/celocanth13",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /user/celocanth13 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1eba0>: Failed to resolve 'www.reddit.com' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_includes/disclaimers.md",
+      "line": 6,
+      "url": "https://web.archive.org/web/20101122205653/http://www.emforum.org/vforum/lc051116.htm",
+      "text": "2005 Federal Geographic Data Committee - Homeland Security Working Group presentation",
+      "type": "markdown",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20101122205653/http://www.emforum.org/vforum/lc051116.htm (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814f1fec0>: Failed to resolve 'web.archive.org' ([Errno -5] No address associated with hostname)\"))"
+    },
+    {
+      "file": "_config.yml",
+      "line": 22,
+      "url": "https://www.github.com",
+      "text": "",
+      "type": "yaml",
+      "status_code": null,
+      "error": "HTTPSConnectionPool(host='www.github.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7ff814cc6570>: Failed to resolve 'www.github.com' ([Errno -5] No address associated with hostname)\"))"
+    }
+  ],
+  "network_restricted_links": [
+    {
+      "file": "README.md",
+      "line": 3,
+      "url": "https://travis-ci.org/benbalter/dc-helicopters.svg?branch=master",
+      "text": "![Build Status",
+      "type": "markdown"
+    },
+    {
+      "file": "README.md",
+      "line": 3,
+      "url": "https://travis-ci.org/benbalter/dc-helicopters",
+      "text": "",
+      "type": "direct"
+    },
+    {
+      "file": "TERMS.md",
+      "line": 47,
+      "url": "http://creativecommons.org/publicdomain/zero/1.0/legalcode",
+      "text": "",
+      "type": "direct"
+    },
+    {
+      "file": "CONTRIBUTING.md",
+      "line": 17,
+      "url": "https://help.github.com/articles/using-pull-requests",
+      "text": "pull request",
+      "type": "markdown"
+    },
+    {
+      "file": "CONTRIBUTING.md",
+      "line": 38,
+      "url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "text": "",
+      "type": "direct"
+    },
+    {
+      "file": "index.md",
+      "line": 9,
+      "url": "https://map.copterspotter.com/",
+      "text": "",
+      "type": "html"
+    },
+    {
+      "file": "index.md",
+      "line": 9,
+      "url": "https://map.copterspotter.com",
+      "text": "",
+      "type": "html"
+    },
+    {
+      "file": "index.md",
+      "line": 29,
+      "url": "https://map.copterspotter.com/form",
+      "text": "",
+      "type": "html"
+    },
+    {
+      "file": "_helicopters/99-maryland-state-police.md",
+      "line": 39,
+      "url": "https://helicoptersofdc.com/pictures/MSP.jpg",
+      "text": "",
+      "type": "direct"
+    },
+    {
+      "file": "_helicopters/3-metropolitan-police-department-air-support-unit-falcon.md",
+      "line": 28,
+      "url": "https://helicoptersofdc.com/helicopters/us-park-police-aviation-unit/",
+      "text": "Park Police helicopter",
+      "type": "markdown"
+    },
+    {
+      "file": "_helicopters/3-metropolitan-police-department-air-support-unit-falcon.md",
+      "line": 38,
+      "url": "https://helicoptersofdc.com/pictures/MPD-helicopter.jpg",
+      "text": "",
+      "type": "direct"
+    },
+    {
+      "file": "_helicopters/7-customs-border-patrol.md",
+      "line": 33,
+      "url": "https://helicoptersofdc.com/pictures/cbp.png",
+      "text": "",
+      "type": "direct"
+    },
+    {
+      "file": "_helicopters/991-prince-georges-county-police.md",
+      "line": 33,
+      "url": "https://helicoptersofdc.com/pictures/PG_County_Police.jpg",
+      "text": "",
+      "type": "direct"
+    },
+    {
+      "file": "_helicopters/9-skybear.md",
+      "line": 21,
+      "url": "https://helicoptersofdc.com/helicopters/medstar/",
+      "text": "MedStar helicopter",
+      "type": "markdown"
+    },
+    {
+      "file": "_helicopters/9-skybear.md",
+      "line": 34,
+      "url": "https://helicoptersofdc.com/pictures/skybear.jpg",
+      "text": "",
+      "type": "direct"
+    },
+    {
+      "file": "_helicopters/4-us-coast-guard.md",
+      "line": 45,
+      "url": "https://helicoptersofdc.com/pictures/1599px-USCG_HH-65C.jpg",
+      "text": "",
+      "type": "direct"
+    },
+    {
+      "file": "_helicopters/6-us-air-force-1st-helicopter-squadron.md",
+      "line": 18,
+      "url": "https://helicoptersofdc.com/helicopters/us-army-12th-aviation-battalion/",
+      "text": "US Army unit",
+      "type": "markdown"
+    },
+    {
+      "file": "_helicopters/6-us-air-force-1st-helicopter-squadron.md",
+      "line": 34,
+      "url": "https://helicoptersofdc.com/pictures/US-1st-Helicopter-Squadron.jpg",
+      "text": "",
+      "type": "direct"
+    },
+    {
+      "file": "_helicopters/2-us-park-police-aviation-unit.md",
+      "line": 45,
+      "url": "https://helicoptersofdc.com/pictures/U.S._Park_Police_helicopter.JPG",
+      "text": "",
+      "type": "direct"
+    },
+    {
+      "file": "_helicopters/1-us-marine-corps-hmx-1-squadron.md",
+      "line": 55,
+      "url": "https://helicoptersofdc.com/pictures/VH-3D_Marine_One_over_Washington_DC_May_2005.jpg",
+      "text": "",
+      "type": "direct"
+    },
+    {
+      "file": "_helicopters/5-us-army-12th-aviation-battalion.md",
+      "line": 38,
+      "url": "https://helicoptersofdc.com/pictures/US-Army-Gold-Tops.png",
+      "text": "",
+      "type": "direct"
+    },
+    {
+      "file": "_helicopters/8-medstar.md",
+      "line": 28,
+      "url": "https://helicoptersofdc.com/pictures/medstar.jpg",
+      "text": "",
+      "type": "direct"
+    },
+    {
+      "file": "pages/credits.md",
+      "line": 12,
+      "url": "https://CopterSpotter.com",
+      "text": "CopterSpotter.com",
+      "type": "markdown"
+    },
+    {
+      "file": "pages/notable_incidents.md",
+      "line": 50,
+      "url": "https://helicoptersofdc.com/helicopters/2-us-park-police-aviation-unit/",
+      "text": "US Park Police Aviation Unit",
+      "type": "markdown"
+    },
+    {
+      "file": "_includes/disclaimers.md",
+      "line": 2,
+      "url": "https://helicoptersofdc.com/credits/",
+      "text": "entirely made possible",
+      "type": "markdown"
+    },
+    {
+      "file": "_includes/disclaimers.md",
+      "line": 2,
+      "url": "https://helicoptersofdc.com/credits/",
+      "text": "in the credits",
+      "type": "markdown"
+    },
+    {
+      "file": "_layouts/default.html",
+      "line": 33,
+      "url": "https://www.helicoptersofdc.com",
+      "text": "",
+      "type": "html"
+    },
+    {
+      "file": "_layouts/default.html",
+      "line": 37,
+      "url": "https://xkcd.com/1972/",
+      "text": "",
+      "type": "html"
+    },
+    {
+      "file": "_layouts/default.html",
+      "line": 7,
+      "url": "https://helicoptersofdc.com/assets/css/normalize.css",
+      "text": "",
+      "type": "direct"
+    },
+    {
+      "file": "_layouts/default.html",
+      "line": 8,
+      "url": "https://helicoptersofdc.com/assets/css/main.css",
+      "text": "",
+      "type": "direct"
+    },
+    {
+      "file": "_layouts/default.html",
+      "line": 9,
+      "url": "https://helicoptersofdc.com/assets/css/syntax.css",
+      "text": "",
+      "type": "direct"
+    },
+    {
+      "file": "_layouts/default.html",
+      "line": 13,
+      "url": "https://www.googletagmanager.com/gtag/js?id=UA-131677905-1",
+      "text": "",
+      "type": "direct"
+    },
+    {
+      "file": "_layouts/default.html",
+      "line": 38,
+      "url": "https://helicoptersofdc.com/assets/img/xkcd_homage.png",
+      "text": "",
+      "type": "direct"
+    },
+    {
+      "file": "_config.yml",
+      "line": 39,
+      "url": "https://www.helicoptersofdc.com/",
+      "text": "",
+      "type": "yaml"
+    },
+    {
+      "file": "_config.yml",
+      "line": 57,
+      "url": "https://map.copterspotter.com/",
+      "text": "",
+      "type": "yaml"
+    },
+    {
+      "file": "_config.yml",
+      "line": 33,
+      "url": "http://jekyllrb.com/docs/github-pages/",
+      "text": "",
+      "type": "direct"
+    },
+    {
+      "file": "_data/meta.yml",
+      "line": 19,
+      "url": "http://www.graybrooks.com/assets/img/xkcd_logo.png",
+      "text": "",
+      "type": "yaml"
+    },
+    {
+      "file": "_data/meta.yml",
+      "line": 4,
+      "url": "http://yaml.org",
+      "text": "",
+      "type": "direct"
+    }
+  ]
+}
