@@ -25,7 +25,7 @@ The Ospreys are painted in the same green and white "White Top" livery as the ot
 
 You'll most likely see the V-22 Ospreys during the following scenarios:
 
-1) **Support for Presidential Trips** - The Ospreys typically deploy ahead of the President when he travels. You may see them departing DC before or after a presidential trip, often flying in pairs or with other HMX-1 helicopters.
+1) **Support for Presidential Trips** - The Ospreys typically deploy ahead of the President when traveling. You may see them departing DC before or after a presidential trip, often flying in pairs or with other HMX-1 helicopters.
 
 2) **Joint Base Anacostia-Bolling** - Like other HMX-1 aircraft, V-22s operate from Joint Base Anacostia-Bolling in southwest DC. When viewing from National Airport across the river, you may see these distinctive aircraft taking off or landing near the three large hangar doors.
 
