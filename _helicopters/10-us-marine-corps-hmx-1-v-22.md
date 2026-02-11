@@ -27,7 +27,7 @@ You'll most likely see the V-22 Ospreys during the following scenarios:
 
 1) **Support for Presidential Trips** - The Ospreys typically deploy ahead of the President when he travels. You may see them departing DC before or after a presidential trip, often flying in pairs or with other HMX-1 helicopters.
 
-2) **Joint Base Bolling** - Like other HMX-1 aircraft, V-22s operate from Joint Base Anacostia-Bolling in southwest DC. When viewing from National Airport across the river, you may see these distinctive aircraft taking off or landing near the three large hangar doors.
+2) **Joint Base Anacostia-Bolling** - Like other HMX-1 aircraft, V-22s operate from Joint Base Anacostia-Bolling in southwest DC. When viewing from National Airport across the river, you may see these distinctive aircraft taking off or landing near the three large hangar doors.
 
 3) **Training Flights** - When the President is away, HMX-1 uses the opportunity for training missions. You may see the V-22s conducting practice flights around the DC area.
 
@@ -43,7 +43,7 @@ Nighthawk (when operating as part of HMX-1)
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://helicoptersofdc.com/pictures/VH-3D_Marine_One_over_Washington_DC_May_2005.jpg" alt="HMX-1 Aircraft" width="200"></td>
+    <td><img src="https://helicoptersofdc.com/pictures/VH-3D_Marine_One_over_Washington_DC_May_2005.jpg" alt="HMX-1 V-22 Osprey (placeholder image shows HMX-1 VH-3D)" width="200"></td>
   </tr>
   </table>
 
@@ -55,4 +55,4 @@ Nighthawk (when operating as part of HMX-1)
 * [The Diplomat - The V-22 Osprey: A Flying Shame](https://thediplomat.com/2014/11/the-v-22-osprey-a-flying-shame/)
 
 ### Photo Credits
-* Placeholder - same HMX-1 squadron photo used temporarily
+* Note: Currently using HMX-1 squadron VH-3D photo as placeholder. V-22 Osprey image to be added.
