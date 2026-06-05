@@ -1,5 +1,5 @@
 ---
-title: 'US Marine Corps: HMX-1 Squadron - "Upcoming Marine One"'
+title: 'US Marine Corps: HMX-1 Squadron - (Upcoming Marine One)'
 image: /pictures/VH-92.jpg
 ---
 
