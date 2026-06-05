@@ -5,7 +5,9 @@ image: /pictures/US-1st-Helicopter-Squadron.jpg
 
 ### Summary
 
-An easily recognizable staple of the DC airspace, this unit provides the most regular helicopter traffic above DC.  
+An easily recognizable staple of the DC airspace, this unit provides the most regular (and arguably loudest) helicopter traffic above DC.  
+
+In the coming years though, they are [slated to be replaced by newer Blackhawk variants](https://www.twz.com/air/hh-60w-combat-rescue-helicopters-to-take-on-doomsday-evacuation-role-in-the-nations-capital).  
 
 ### Aircraft Type
 * [UH-1N Twin Hueys](https://en.wikipedia.org/wiki/Bell_UH-1N_Twin_Huey) Aircraft count as of 2021 GAO report: 21
@@ -25,7 +27,8 @@ I'd suggest that these are far and away the most commonly seen but less identifi
 
 ### Radio Callsign
 
-Musel (that is not a typo)
+- MUSEL
+- MUSL
 
 ### Photos 
 
