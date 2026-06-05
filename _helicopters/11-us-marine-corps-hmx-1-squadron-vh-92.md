@@ -33,6 +33,7 @@ In recent years, the VH-92 version has flying over DC more and more often, likel
   
 ### Links
 * [VH-92 stories on The War Zone site](https://www.twz.com/category/vh-92)
+* [Naval Air Systems page on the VH-92](https://www.navair.navy.mil/product/VH-92A-Patriot)
 
 ### Photo Credits
 * [Wikimedia - PH2(AW) Daniel J. McLain](https://en.wikipedia.org/wiki/Marine_One#/media/File:VH-3D_Marine_One_over_Washington_DC_May_2005.jpg)
