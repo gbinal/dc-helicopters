@@ -61,6 +61,8 @@ Nighthawk
 * [Wikipedia - Marine One](https://en.wikipedia.org/wiki/Marine_One)
 * [Wikipedia - HMX-1](https://en.wikipedia.org/wiki/HMX-1)
 * [Wikipedia - VXX](https://en.wikipedia.org/wiki/VXX)
+* [Naval Air Systems Page on VH-3D](https://www.navair.navy.mil/product/VH-3D)
+* [Naval Air Systems Page on VH-60](https://www.navair.navy.mil/product/VH-60N)
 * [Foxtrot Alpha - These Elite Military Helicopter Units Fly Washington's Power Players](https://foxtrotalpha.jalopnik.com/these-elite-military-helicopter-units-fly-washingtons-p-1704260996)
 * [Video - National Geographic: On Board Marine One](https://www.youtube.com/watch?v=cFhrB-DkBnA)
 
