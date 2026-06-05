@@ -1,5 +1,5 @@
 ---
-title: 'US Marine Corps: HMX-1 Squadron - "Marine One"'
+title: 'US Marine Corps: HMX-1 Squadron (Marine One)'
 image: /pictures/VH-3D_Marine_One_over_Washington_DC_May_2005.jpg
 ---
 
