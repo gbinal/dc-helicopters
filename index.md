@@ -52,11 +52,6 @@ Since 2020, Andrew Logan's <a href="https://map.copterspotter.com" target="_blan
     <td><a href="https://commons.wikimedia.org/wiki/File:VH-92_Quantico.jpg" target="_blank">HMX-1 (VH-92)</td>
     <td><a href="https://en.wikipedia.org/wiki/File:Bell-Boeing_MV-22B_168339_HMX-1_FDK_MD1.jpg" target="_blank">HMX-1 (Osprey)</td>
   </tr>
-
-
-
-
-
 </table>
 
 
