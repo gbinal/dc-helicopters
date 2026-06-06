@@ -7,8 +7,6 @@ image: /pictures/VH-92.jpg
 
 An increasingly common sight over DC, this helicopter is salted to take over from the better known Sea King version when it comes to transporting the president, i.e. serving as Marine One.  
 
-
-
 ### Aircraft Type
 * [VH-92A Patriot](https://en.wikipedia.org/wiki/Sikorsky_VH-92_Patriot)
 
@@ -34,6 +32,12 @@ In recent years, the VH-92 version has flying over DC more and more often, likel
 ### Links
 * [VH-92 stories on The War Zone site](https://www.twz.com/category/vh-92)
 * [Naval Air Systems page on the VH-92](https://www.navair.navy.mil/product/VH-92A-Patriot)
+
+
+
+### Photo Credits
+* [Wikimedia - Cpl. Eric Huynh](https://commons.wikimedia.org/wiki/File:VH-92_Quantico.jpg)
+
 
 ### Photo Credits
 * [Wikimedia - PH2(AW) Daniel J. McLain](https://en.wikipedia.org/wiki/Marine_One#/media/File:VH-3D_Marine_One_over_Washington_DC_May_2005.jpg)
