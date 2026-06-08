@@ -49,12 +49,10 @@ Since 2020, Andrew Logan's <a href="https://map.copterspotter.com" target="_blan
     <td><a href="https://en.wikipedia.org/wiki/File:U.S._Park_Police_helicopter.JPG" target="_blank">US Park Police: Aviation Unit</a></td>
   </tr>
   <tr>
-    <td><a href="https://commons.wikimedia.org/wiki/File:VH-92_Quantico.jpg" target="_blank">HMX-1 (VH-92)</td>
-    <td><a href="https://en.wikipedia.org/wiki/File:Bell-Boeing_MV-22B_168339_HMX-1_FDK_MD1.jpg" target="_blank">HMX-1 (Osprey)</td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:VH-92_Quantico.jpg" target="_blank">HMX-1 (VH-92)</a>a</td>
+    <td><a href="https://en.wikipedia.org/wiki/File:Bell-Boeing_MV-22B_168339_HMX-1_FDK_MD1.jpg" target="_blank">HMX-1 (Osprey)</a>a</td>
   </tr>
 </table>
-
-
 
 #### Disclaimers
 
