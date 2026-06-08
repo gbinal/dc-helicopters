@@ -5,7 +5,7 @@ image: /pictures/cbp.png
 
 ### Aircraft Type
 * [Sikorsky S-76](https://www.cbp.gov/sites/default/files/assets/documents/2021-Aug/S-76_506%20compliant.pdf)
-* [Eurocopter AS-350] (https://www.cbp.gov/sites/default/files/documents/FS_2015_AS350%20A-Star_0.pdf)
+* [Eurocopter AS-350](https://www.cbp.gov/sites/default/files/documents/FS_2015_AS350%20A-Star_0.pdf)
 
 ### FAA Registry Number 
 * [N159CM](https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=N159CM)
