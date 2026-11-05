@@ -54,7 +54,7 @@ navigation:
   url: /notable-incidents/
   internal: true
 - text: Live Map (CopterSpotter)
-  url: https://map.copterspotter.com/
+  url: https://copterspotter.com/
   internal: false
 - text: Related information
   url: /related-information/
